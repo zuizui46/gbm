@@ -1,0 +1,268 @@
+#!/usr/bin/env python3
+"""Build the gbm photo library: real photographs under CC0 / Public Domain Mark only, for video backgrounds and
+podcast covers. Writes images/<collection>/<id>.jpg (+ .thumb.webp), images.json and CREDITS-IMAGES.md.
+
+Source: the Openverse API (api.openverse.org) — only `license=cc0,pdm`, `category=photograph`, from StockSnap (all
+CC0), Flickr and Wikimedia Commons. CC0 / PDM need no credit; the author and page are still listed for courtesy.
+Unsplash / Pexels / Pixabay are NOT copied in: their licences forbid compiling their photos into a similar library.
+They are listed in `images.json › sources` as places where people can look for more themselves.
+
+Files are resized (long edge ≤ 2400 for backgrounds, a 1400 px centre square for covers) and re-encoded — allowed by
+CC0 / PDM. EXIF is dropped.
+
+Usage: python3 scripts/build-images.py              # fetch what is missing, rebuild images.json + CREDITS-IMAGES.md
+       python3 scripts/build-images.py --dry-run    # only print the selection
+       python3 scripts/build-images.py --sheets DIR # also write one contact sheet per collection into DIR (review)
+"""
+import hashlib, io, json, os, re, subprocess, sys, time, unicodedata, urllib.parse
+
+from PIL import Image, ImageDraw, ImageOps
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+RAW = 'https://raw.githubusercontent.com/zuizui46/gbm/main/'
+CDN = 'https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/'
+UA = 'gbm-library-builder/1.0'
+DRY = '--dry-run' in sys.argv
+SHEETS = sys.argv[sys.argv.index('--sheets') + 1] if '--sheets' in sys.argv else None
+CACHE = os.path.join(ROOT, '.cache', 'openverse')
+
+LICENSES = {
+    'CC0-1.0': {'name': 'Creative Commons Zero 1.0 (Public Domain Dedication)', 'url': 'https://creativecommons.org/publicdomain/zero/1.0/', 'attribution': False, 'commercial': True, 'derivatives': True},
+    'PDM-1.0': {'name': 'Public Domain Mark 1.0', 'url': 'https://creativecommons.org/publicdomain/mark/1.0/', 'attribution': False, 'commercial': True, 'derivatives': True},
+}
+OV_LICENSE = {'cc0': 'CC0-1.0', 'pdm': 'PDM-1.0'}
+
+# Places to look for more (shown to people in the app). `inLibrary`: photos of that site are in this library.
+SOURCES = [
+    {'id': 'stocksnap', 'name': 'StockSnap.io', 'url': 'https://stocksnap.io', 'search': 'https://stocksnap.io/search/{q}', 'license': 'CC0 — free, no credit needed', 'inLibrary': True},
+    {'id': 'openverse', 'name': 'Openverse', 'url': 'https://openverse.org', 'search': 'https://openverse.org/search/image?q={q}&license=cc0,pdm', 'license': 'CC0 / public domain filter on', 'inLibrary': True},
+    {'id': 'wikimedia', 'name': 'Wikimedia Commons', 'url': 'https://commons.wikimedia.org', 'search': 'https://commons.wikimedia.org/w/index.php?search={q}&title=Special:MediaSearch&type=image', 'license': 'mixed — check each photo', 'inLibrary': True},
+    {'id': 'unsplash', 'name': 'Unsplash', 'url': 'https://unsplash.com', 'search': 'https://unsplash.com/s/photos/{q}', 'license': 'Unsplash License — free to use in your videos', 'inLibrary': False},
+    {'id': 'pexels', 'name': 'Pexels', 'url': 'https://www.pexels.com', 'search': 'https://www.pexels.com/search/{q}/', 'license': 'Pexels License — free to use in your videos', 'inLibrary': False},
+    {'id': 'pixabay', 'name': 'Pixabay', 'url': 'https://pixabay.com', 'search': 'https://pixabay.com/images/search/{q}/', 'license': 'Pixabay Content License — free to use in your videos', 'inLibrary': False},
+]
+
+# collection → kind, label, how many, queries (searched in order until full)
+COLLECTIONS = [
+    # backgrounds (wide photos; vertical videos crop the middle)
+    ('nature', 'background', 'Nature', 16, ['forest', 'mountain lake', 'waterfall', 'meadow', 'green hills', 'misty forest']),
+    ('sea', 'background', 'Sea & beach', 12, ['ocean waves', 'beach', 'sea sunset', 'coast rocks']),
+    ('sky', 'background', 'Sky & night', 12, ['sunset sky', 'clouds', 'night sky stars', 'milky way']),
+    ('city', 'background', 'City', 14, ['city night', 'skyline', 'street', 'architecture', 'city lights']),
+    ('people', 'background', 'People', 14, ['people walking', 'friends', 'crowd', 'people working', 'family', 'woman reading']),
+    ('cozy', 'background', 'Cozy indoors', 12, ['coffee shop', 'library books', 'desk workspace', 'living room', 'cafe interior']),
+    ('seasons', 'background', 'Seasons', 12, ['autumn leaves', 'snow winter', 'spring blossom', 'summer field']),
+    ('travel', 'background', 'Travel', 12, ['road trip', 'travel', 'temple', 'old town', 'bridge']),
+    ('texture', 'background', 'Textures', 12, ['wood texture', 'paper texture', 'concrete wall', 'marble', 'fabric texture']),
+    ('abstract', 'background', 'Light & blur', 12, ['bokeh', 'light abstract', 'neon', 'smoke', 'blurred lights']),
+    # covers (square crop from the centre)
+    ('studio', 'cover', 'Mic & studio', 12, ['microphone', 'headphones', 'recording studio', 'radio', 'vinyl record']),
+    ('portrait', 'cover', 'Portraits', 14, ['portrait woman', 'portrait man', 'smiling woman', 'smiling man', 'person portrait']),
+    ('topics', 'cover', 'Topics', 16, ['books', 'coffee cup', 'laptop', 'guitar', 'camera', 'plant', 'food', 'running']),
+    ('minimal', 'cover', 'Minimal', 12, ['minimal', 'pastel', 'flower closeup', 'leaf closeup', 'sand texture']),
+    # occasions: real photos instead of drawn clip-art (Kast draws a tree, a pumpkin, a lantern…)
+    ('festive', 'cover', 'Festive', 16, ['christmas lights', 'christmas tree', 'lantern', 'fireworks', 'gift box', 'pumpkin', 'candles', 'heart']),
+    ('school', 'cover', 'School', 12, ['school', 'chalkboard', 'notebook pencil', 'student', 'classroom']),
+]
+
+# ids taken out after looking at the contact sheets (wrong subject, text / logo in the photo, people too small, weak photo)
+EXCLUDE = {
+    'city-architecture-buildings-f6a844',   # a sculpture, not a city
+    'city-shibuyacrossing-tokyo-d8420e',    # brand billboards
+    'people-shibuyacrossing-tokyo-d8420e',
+    'people-friends-family-b4a668',         # wine glasses and a hand in front
+    'people-friends-people-718ef1',         # people too small: a landscape
+    'portrait-alone-background-ebbe8f',     # a tiny figure in water, not a portrait
+    'portrait-sad-woman-4998c6',            # figure too small for a cover
+    'minimal-flatlay-minimal-296031',       # text in the photo
+    'minimal-hotel-minimal-f91188',         # «HOTEL» sign
+    'minimal-iphone-8-67e886',              # brand logo
+    'cozy-coffee-shop-73bf28',              # big «COFFEE» sign
+    'cozy-chocolate-coffee-a4969e',         # a shop's brand name
+    'cozy-technology-machines-07e6f6',      # a machine close-up, not a room
+    'texture-strawberry-fruit-d89e36',      # fruit, not a texture
+    'abstract-girl-woman-987973',           # a person, not light & blur
+    'festive-lantern-wall-13ffdb',          # a dark wall
+    'festive-sky-lanterns-7fe9ee',          # an empty white sky
+    'festive-wood-lanterns-22d02f',         # text all over
+    'festive-lights-lanterns-67fa73',       # text all over
+    'school-study-school-36b8df',           # a news page on screen
+    'school-computer-keyboard-5bfa08',      # «DO MORE.» and a brand logo
+    'school-macbook-laptop-210bf9',         # a brand logo
+}
+# most photos one search word may give a collection (so «festive» is not eight lanterns); the others take as many as fit
+PER_QUERY = {'festive': 2, 'school': 3}
+TAKEN = set()  # Openverse ids already used by an earlier collection (no photo in two shelves)
+
+
+def curl(url, binary=False, tries=4):
+    cmd = ['curl', '-sSL', '--fail', '--max-time', '120', '-A', UA, url]
+    for k in range(tries):
+        r = subprocess.run(cmd, capture_output=True)
+        if r.returncode == 0:
+            return r.stdout if binary else r.stdout.decode('utf-8', 'replace')
+        wait = 20 * (k + 1) if b'429' in r.stderr else 3 + k * 3
+        print('  retry', url[:100], r.stderr.decode()[:80].strip(), f'(wait {wait}s)', flush=True)
+        time.sleep(wait)
+    return None
+
+
+def search(q, wide):
+    """Openverse results for one query, cached on disk (anonymous use is rate-limited)."""
+    os.makedirs(CACHE, exist_ok=True)
+    key = os.path.join(CACHE, slug(f'{q}-{"wide" if wide else "any"}') + '.json')
+    if os.path.exists(key):
+        return json.load(open(key))
+    params = {'q': q, 'license': 'cc0,pdm', 'category': 'photograph', 'source': 'stocksnap,flickr,wikimedia', 'size': 'large', 'mature': 'false', 'page_size': '20'}
+    if wide:
+        params['aspect_ratio'] = 'wide'
+    body = curl('https://api.openverse.org/v1/images/?' + urllib.parse.urlencode(params))
+    time.sleep(4)
+    if not body:
+        print('  search failed:', q, flush=True)
+        return []
+    try:
+        res = json.loads(body).get('results', [])
+    except ValueError:
+        print('  search not JSON:', q, flush=True)
+        return []
+    json.dump(res, open(key, 'w'))
+    return res
+
+
+def slug(s):
+    s = unicodedata.normalize('NFKD', s).encode('ascii', 'ignore').decode()
+    return re.sub(r'[^a-z0-9]+', '-', s.lower()).strip('-')[:60] or 'photo'
+
+
+def clean_title(t):
+    t = re.sub(r'<[^>]+>', ' ', t or '')
+    t = re.sub(r'\.(jpe?g|png|tiff?)$', '', t, flags=re.I)
+    t = re.sub(r'[_\s]+', ' ', t).strip()
+    return t[:80] or 'Untitled'
+
+
+def pick(col, kind, want, queries):
+    out, seen = [], set()
+    cap = PER_QUERY.get(col, want)
+    for q in queries:
+        took = 0
+        for r in search(q, wide=kind == 'background'):
+            if took >= cap:
+                break
+            w, h = r.get('width') or 0, r.get('height') or 0
+            if r.get('license') not in OV_LICENSE or not r.get('url'):
+                continue
+            if kind == 'background' and (w < 1920 or h < 1000 or w < h):
+                continue
+            if kind == 'cover' and min(w, h) < 1200:
+                continue
+            title = clean_title(r.get('title'))
+            iid = f"{col}-{slug(title)[:40]}-{r['id'][:6]}"
+            if iid in EXCLUDE or r['id'] in seen or r['id'] in TAKEN or title.lower() in seen:
+                continue
+            seen.update([r['id'], title.lower()])
+            TAKEN.add(r['id'])
+            took += 1
+            out.append({'r': r, 'id': iid, 'title': title, 'query': q})
+            if len(out) >= want:
+                return out
+    return out
+
+
+def save(img, kind, path):
+    img = ImageOps.exif_transpose(img).convert('RGB')
+    if kind == 'cover':
+        s = min(img.size)
+        left, top = (img.width - s) // 2, (img.height - s) // 2
+        img = img.crop((left, top, left + s, top + s)).resize((1400, 1400), Image.LANCZOS)
+    else:
+        img.thumbnail((2400, 2400), Image.LANCZOS)
+    img.save(path, 'JPEG', quality=82, optimize=True, progressive=True)
+    thumb = img.copy()
+    thumb.thumbnail((480, 480), Image.LANCZOS)
+    thumb.save(path.replace('.jpg', '.thumb.webp'), 'WEBP', quality=72, method=6)
+    return img.size
+
+
+def main():
+    images, sheets = [], {}
+    for col, kind, label, want, queries in COLLECTIONS:
+        chosen = pick(col, kind, want, queries)
+        print(f'{col:10} {kind:10} {len(chosen)}/{want}', flush=True)
+        if DRY:
+            for c in chosen:
+                print('   ', c['id'], '|', c['r']['source'], c['r']['license'], c['r']['width'], 'x', c['r']['height'])
+            continue
+        folder = os.path.join(ROOT, 'images', col)
+        os.makedirs(folder, exist_ok=True)
+        keep = {c['id'] for c in chosen}
+        for f in os.listdir(folder):  # photos dropped from the selection
+            if f.split('.')[0] not in keep:
+                os.remove(os.path.join(folder, f))
+        for c in chosen:
+            r = c['r']
+            rel = f"images/{col}/{c['id']}.jpg"
+            path = os.path.join(ROOT, rel)
+            if not os.path.exists(path):
+                data = curl(r['url'], binary=True)
+                if not data:
+                    print('  skip (download failed)', c['id'], flush=True)
+                    continue
+                try:
+                    size = save(Image.open(io.BytesIO(data)), kind, path)
+                except Exception as e:  # not an image / broken file
+                    print('  skip (bad image)', c['id'], e, flush=True)
+                    continue
+            with Image.open(path) as im:
+                size = im.size
+            raw = open(path, 'rb').read()
+            tags = sorted({t['name'].lower() for t in (r.get('tags') or []) if t.get('name') and len(t['name']) <= 24 and t['name'].isascii()})[:12]
+            images.append({
+                'id': c['id'], 'kind': kind, 'collection': col, 'title': c['title'],
+                'author': (r.get('creator') or '').strip() or None, 'source': r['source'],
+                'sourcePage': r.get('foreign_landing_url'), 'originalUrl': r['url'],
+                'license': OV_LICENSE[r['license']],
+                'file': rel, 'url': RAW + rel, 'cdnUrl': CDN + rel,
+                'thumb': rel.replace('.jpg', '.thumb.webp'), 'thumbCdnUrl': CDN + rel.replace('.jpg', '.thumb.webp'),
+                'width': size[0], 'height': size[1], 'bytes': len(raw), 'sha256': hashlib.sha256(raw).hexdigest(),
+                'query': c['query'], 'tags': tags,
+            })
+            sheets.setdefault(col, []).append((c['id'], path))
+    if DRY:
+        return
+    cols = [{'id': c, 'kind': k, 'label': l, 'count': sum(1 for i in images if i['collection'] == c)} for c, k, l, _, _ in COLLECTIONS]
+    lib = {
+        'name': 'gbm — free photos for video backgrounds and podcast covers', 'version': 1,
+        'generated': time.strftime('%Y-%m-%d'), 'baseUrl': RAW, 'cdnBaseUrl': CDN,
+        'count': len(images), 'totalBytes': sum(i['bytes'] for i in images),
+        'licenses': LICENSES, 'sources': SOURCES, 'collections': cols, 'images': images,
+    }
+    json.dump(lib, open(os.path.join(ROOT, 'images.json'), 'w'), indent=1, ensure_ascii=False)
+    lines = ['# Photo credits', '', 'Every photo here is CC0 or Public Domain Mark: no credit is required. Listed for courtesy.', '']
+    for c in cols:
+        lines += [f"## {c['label']} ({c['kind']})", '']
+        for i in images:
+            if i['collection'] == c['id']:
+                lines.append(f"- `{i['file']}` — {i['title']}" + (f" by {i['author']}" if i['author'] else '') + f" ({i['source']}, {i['license']}) — {i['sourcePage']}")
+        lines.append('')
+    open(os.path.join(ROOT, 'CREDITS-IMAGES.md'), 'w').write('\n'.join(lines))
+    print('images:', len(images), 'MB:', round(lib['totalBytes'] / 1e6, 1))
+    if SHEETS:
+        os.makedirs(SHEETS, exist_ok=True)
+        for col, items in sheets.items():
+            cell, per = 300, 6
+            rows = (len(items) + per - 1) // per
+            sheet = Image.new('RGB', (cell * per, (cell + 22) * rows), 'white')
+            d = ImageDraw.Draw(sheet)
+            for n, (iid, path) in enumerate(items):
+                with Image.open(path.replace('.jpg', '.thumb.webp')) as im:
+                    t = ImageOps.fit(im.convert('RGB'), (cell - 6, cell - 6))
+                x, y = (n % per) * cell, (n // per) * (cell + 22)
+                sheet.paste(t, (x + 3, y + 3))
+                d.text((x + 4, y + cell), f'{n}: {iid[len(col) + 1:][:40]}', fill='black')
+            sheet.save(os.path.join(SHEETS, f'{col}.jpg'), quality=70)
+
+
+if __name__ == '__main__':
+    main()

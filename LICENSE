@@ -1,7 +1,9 @@
 gbm — free background music collection
 ======================================
 
-THE AUDIO FILES IN THIS REPOSITORY ARE NOT LICENSED UNDER A SINGLE REPOSITORY LICENSE.
+THE AUDIO AND IMAGE FILES IN THIS REPOSITORY ARE NOT LICENSED UNDER A SINGLE REPOSITORY LICENSE.
+
+Photos under images/ are CC0 1.0 or Public Domain Mark 1.0 only (images.json, CREDITS-IMAGES.md): no attribution required.
 
 Each file under music/ keeps the licence its author released it under. The licence of every file is recorded in
 tracks.json (field "license", with the full name and URL in the top-level "licenses" table) and in CREDITS.md.

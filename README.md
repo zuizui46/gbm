@@ -79,3 +79,39 @@ python3 scripts/build.py --dry-run  # prints the selection only
 
 Needs `curl` and `ffprobe` (for durations). The selection is deterministic; edit `BUCKETS` / `CC_QUERIES` in the
 script to change it.
+
+## Photos (backgrounds and covers)
+
+Real photographs for video backgrounds (`kind: "background"`, long edge ≤ 2400 px) and podcast covers
+(`kind: "cover"`, 1400 × 1400 centre square), **CC0 or Public Domain Mark only** — no credit needed (author and page
+are still listed in `images.json` and [CREDITS-IMAGES.md](CREDITS-IMAGES.md)). Taken from StockSnap, Flickr and
+Wikimedia Commons through the [Openverse](https://openverse.org) API; resized and re-encoded (EXIF dropped), which
+CC0 / PDM allow. Every photo has a 480 px WebP thumbnail next to it (`*.thumb.webp`) for pickers.
+
+```
+https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/images.json
+```
+
+```jsonc
+{
+  "count": 209,
+  "licenses": { "CC0-1.0": {…}, "PDM-1.0": {…} },
+  "sources": [ { "id": "stocksnap", "name": "StockSnap.io", "search": "https://stocksnap.io/search/{q}", "inLibrary": true }, … ],
+  "collections": [ { "id": "nature", "kind": "background", "label": "Nature", "count": 16 }, … ],
+  "images": [
+    {
+      "id": "nature-misty-forest-0a1b2c", "kind": "background", "collection": "nature", "title": "Misty Forest",
+      "author": "…", "source": "stocksnap", "sourcePage": "https://stocksnap.io/photo/…", "license": "CC0-1.0",
+      "file": "images/nature/nature-misty-forest-0a1b2c.jpg", "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/images/…",
+      "thumb": "images/nature/nature-misty-forest-0a1b2c.thumb.webp", "thumbCdnUrl": "…",
+      "width": 2400, "height": 1600, "bytes": 512345, "sha256": "…", "tags": ["fog", "trees"]
+    }
+  ]
+}
+```
+
+`sources` also lists Unsplash, Pexels and Pixabay (`inLibrary: false`): their licences let people use a photo in their
+own videos but forbid copying their photos into a library like this one, so they are only links.
+
+Rebuild: `python3 scripts/build-images.py [--dry-run] [--sheets DIR]` (needs Pillow). Collections and search words are
+in `COLLECTIONS`; photos taken out after review are in `EXCLUDE`. `--sheets` writes one contact sheet per collection.
