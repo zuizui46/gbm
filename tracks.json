@@ -1,0 +1,5535 @@
+{
+ "name": "gbm — free background music",
+ "version": 1,
+ "generated": "2026-11-19",
+ "baseUrl": "https://raw.githubusercontent.com/zuizui46/gbm/main/",
+ "cdnBaseUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/",
+ "count": 114,
+ "totalBytes": 698943236,
+ "licenses": {
+  "CC-BY-4.0": {
+   "name": "Creative Commons Attribution 4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": true,
+   "commercial": true,
+   "derivatives": true
+  },
+  "CC-BY-3.0": {
+   "name": "Creative Commons Attribution 3.0",
+   "url": "https://creativecommons.org/licenses/by/3.0/",
+   "attribution": true,
+   "commercial": true,
+   "derivatives": true
+  },
+  "CC0-1.0": {
+   "name": "Creative Commons Zero 1.0 (Public Domain Dedication)",
+   "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "attribution": false,
+   "commercial": true,
+   "derivatives": true
+  }
+ },
+ "facets": {
+  "license": {
+   "CC-BY-3.0": 22,
+   "CC-BY-4.0": 81,
+   "CC0-1.0": 11
+  },
+  "source": {
+   "ccmixter": 33,
+   "incompetech": 81
+  },
+  "collection": {
+   "calm-piano": 14,
+   "ccmixter-by": 22,
+   "ccmixter-zero": 11,
+   "christmas": 8,
+   "epic-cinematic": 6,
+   "horror": 4,
+   "jazz-lounge": 8,
+   "kids-fun": 8,
+   "sad-emotional": 6,
+   "story-mystery": 10,
+   "uplifting": 12,
+   "world-calm": 5
+  },
+  "moods": {
+   "acoustic": 9,
+   "action": 6,
+   "ambient": 14,
+   "bright": 21,
+   "calm": 22,
+   "chill": 17,
+   "christmas": 8,
+   "dark": 20,
+   "driving": 12,
+   "eerie": 7,
+   "electronica": 9,
+   "epic": 7,
+   "experimental": 6,
+   "film": 8,
+   "folk": 1,
+   "funny": 11,
+   "groovy": 21,
+   "guitar": 12,
+   "hip-hop": 4,
+   "intense": 10,
+   "jazz": 5,
+   "mysterious": 14,
+   "mystical": 8,
+   "orchestral": 3,
+   "piano": 11,
+   "playful": 17,
+   "relaxed": 26,
+   "sad": 16,
+   "suspense": 6,
+   "tense": 10,
+   "uplifting": 11
+  },
+  "uses": {
+   "holiday": 8,
+   "horror": 26,
+   "kids": 33,
+   "meditation": 41,
+   "motivation": 36,
+   "podcast": 77,
+   "story": 56,
+   "study": 72
+  },
+  "genres": {
+   "classical": 5,
+   "contemporary": 9,
+   "electronica": 15,
+   "experimental": 6,
+   "folk": 1,
+   "hip-hop": 4,
+   "holiday": 6,
+   "horror": 8,
+   "jazz": 16,
+   "latin": 6,
+   "modern": 1,
+   "orchestral": 3,
+   "polka": 1,
+   "rock": 1,
+   "silent-film": 2,
+   "soundtrack": 14,
+   "unclassifiable": 3,
+   "world": 8
+  }
+ },
+ "tracks": [
+  {
+   "id": "ccmixter-teru-110-downtempo-electronic",
+   "title": "110 Downtempo Electronic",
+   "artist": "teru",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/teru/23259",
+   "originalUrl": "https://ccmixter.org/content/teru/teru_-_110_Downtempo_Electronic_4.mp3",
+   "file": "music/ccmixter/teru-110-downtempo-electronic.mp3",
+   "license": "CC-BY-3.0",
+   "attribution": "\"110 Downtempo Electronic\" by teru (ccmixter.org) — Creative Commons Attribution 3.0 — https://creativecommons.org/licenses/by/3.0/ — https://ccmixter.org/files/teru/23259",
+   "collection": "ccmixter-by",
+   "moods": [
+    "chill",
+    "electronica"
+   ],
+   "genres": [
+    "electronica"
+   ],
+   "instruments": [],
+   "uses": [
+    "podcast",
+    "study"
+   ],
+   "bpm": 110,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "chill",
+    "electronica",
+    "instrumental"
+   ],
+   "bytes": 1558613,
+   "sha256": "953733643f290575f82e08481931d595a775237c497653f5922307158301ff9e",
+   "duration": 97.1,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/teru-110-downtempo-electronic.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/teru-110-downtempo-electronic.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-unreal-dm-2011-even",
+   "title": "2011 Even",
+   "artist": "unreal_dm",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/unreal_dm/29561",
+   "originalUrl": "https://ccmixter.org/content/unreal_dm/unreal_dm_-_2011_Even.mp3",
+   "file": "music/ccmixter/unreal-dm-2011-even.mp3",
+   "license": "CC-BY-3.0",
+   "attribution": "\"2011 Even\" by unreal_dm (ccmixter.org) — Creative Commons Attribution 3.0 — https://creativecommons.org/licenses/by/3.0/ — https://ccmixter.org/files/unreal_dm/29561",
+   "collection": "ccmixter-by",
+   "moods": [
+    "ambient",
+    "guitar",
+    "piano"
+   ],
+   "genres": [],
+   "instruments": [
+    "guitar",
+    "piano"
+   ],
+   "uses": [
+    "study",
+    "meditation"
+   ],
+   "bpm": 80,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "ambient",
+    "guitar",
+    "instrumental",
+    "piano"
+   ],
+   "bytes": 5853909,
+   "sha256": "c2f0d50348677bf52e7b91cffe5c9eba9657e2065f5545795a36e8513975c609",
+   "duration": 205.0,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/unreal-dm-2011-even.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/unreal-dm-2011-even.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-unreal-dm-amb001b",
+   "title": "amb001b",
+   "artist": "unreal_dm",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/unreal_dm/33255",
+   "originalUrl": "https://ccmixter.org/content/unreal_dm/unreal_dm_-_amb001b.mp3",
+   "file": "music/ccmixter/unreal-dm-amb001b.mp3",
+   "license": "CC-BY-3.0",
+   "attribution": "\"amb001b\" by unreal_dm (ccmixter.org) — Creative Commons Attribution 3.0 — https://creativecommons.org/licenses/by/3.0/ — https://ccmixter.org/files/unreal_dm/33255",
+   "collection": "ccmixter-by",
+   "moods": [
+    "ambient",
+    "guitar",
+    "orchestral"
+   ],
+   "genres": [
+    "orchestral"
+   ],
+   "instruments": [
+    "guitar"
+   ],
+   "uses": [
+    "study",
+    "meditation"
+   ],
+   "bpm": 80,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "ambient",
+    "guitar",
+    "instrumental",
+    "orchestral"
+   ],
+   "bytes": 3407538,
+   "sha256": "3a9ca4adea500746854df59f9b96967f56a87b3919fd1b0770cb69a8114e0237",
+   "duration": 106.5,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/unreal-dm-amb001b.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/unreal-dm-amb001b.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-ivan-chew-beyond-jupiter-instrumental",
+   "title": "Beyond Jupiter - Instrumental",
+   "artist": "Ivan Chew",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/ramblinglibrarian/32816",
+   "originalUrl": "https://ccmixter.org/content/ramblinglibrarian/ramblinglibrarian_-_Beyond_Jupiter_-_Instrumental.mp3",
+   "file": "music/ccmixter/ivan-chew-beyond-jupiter-instrumental.mp3",
+   "license": "CC-BY-3.0",
+   "attribution": "\"Beyond Jupiter - Instrumental\" by Ivan Chew (ccmixter.org) — Creative Commons Attribution 3.0 — https://creativecommons.org/licenses/by/3.0/ — https://ccmixter.org/files/ramblinglibrarian/32816",
+   "collection": "ccmixter-by",
+   "moods": [
+    "ambient",
+    "film",
+    "piano"
+   ],
+   "genres": [],
+   "instruments": [
+    "piano"
+   ],
+   "uses": [
+    "study",
+    "story",
+    "meditation"
+   ],
+   "bpm": 100,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "ambient",
+    "film",
+    "instrumental",
+    "piano"
+   ],
+   "bytes": 5263657,
+   "sha256": "349dea1ec54a5a6007103313343be70a614ed413b8e6433eedee4ca863f401e9",
+   "duration": 276.1,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/ivan-chew-beyond-jupiter-instrumental.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/ivan-chew-beyond-jupiter-instrumental.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-spinningmerkaba-chords-for-david",
+   "title": "Chords For David",
+   "artist": "spinningmerkaba",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/jlbrock44/29989",
+   "originalUrl": "https://ccmixter.org/content/jlbrock44/jlbrock44_-_Chords_For_David.mp3",
+   "file": "music/ccmixter/spinningmerkaba-chords-for-david.mp3",
+   "license": "CC-BY-3.0",
+   "attribution": "\"Chords For David\" by spinningmerkaba (ccmixter.org) — Creative Commons Attribution 3.0 — https://creativecommons.org/licenses/by/3.0/ — https://ccmixter.org/files/jlbrock44/29989",
+   "collection": "ccmixter-by",
+   "moods": [
+    "acoustic",
+    "guitar"
+   ],
+   "genres": [],
+   "instruments": [
+    "guitar"
+   ],
+   "uses": [],
+   "bpm": 100,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "acoustic",
+    "guitar",
+    "instrumental"
+   ],
+   "bytes": 4384436,
+   "sha256": "9e0fc567d1b9c9eccd2528543bc3556a624583c92a36a77db88974330b4a5df3",
+   "duration": 109.5,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/spinningmerkaba-chords-for-david.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/spinningmerkaba-chords-for-david.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-ivan-chew-dreaming-of-the-ocean",
+   "title": "Dreaming of the Ocean",
+   "artist": "Ivan Chew",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/ramblinglibrarian/34231",
+   "originalUrl": "https://ccmixter.org/content/ramblinglibrarian/ramblinglibrarian_-_Dreaming_of_the_Ocean.mp3",
+   "file": "music/ccmixter/ivan-chew-dreaming-of-the-ocean.mp3",
+   "license": "CC-BY-3.0",
+   "attribution": "\"Dreaming of the Ocean\" by Ivan Chew (ccmixter.org) — Creative Commons Attribution 3.0 — https://creativecommons.org/licenses/by/3.0/ — https://ccmixter.org/files/ramblinglibrarian/34231",
+   "collection": "ccmixter-by",
+   "moods": [
+    "acoustic",
+    "folk",
+    "guitar"
+   ],
+   "genres": [
+    "folk"
+   ],
+   "instruments": [
+    "guitar"
+   ],
+   "uses": [],
+   "bpm": 85,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "acoustic",
+    "folk",
+    "guitar",
+    "instrumental"
+   ],
+   "bytes": 3911676,
+   "sha256": "ce1f739e16b28ce33dc007f3db2639d825dc39ee7b9699498b35a5d511288125",
+   "duration": 209.0,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/ivan-chew-dreaming-of-the-ocean.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/ivan-chew-dreaming-of-the-ocean.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-ghost-eclectic-sheep-small-theme",
+   "title": "Eclectic sheep (small theme)",
+   "artist": "_ghost",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/_ghost/30892",
+   "originalUrl": "https://ccmixter.org/content/_ghost/_ghost_-_Eclectic_sheep_(small_theme).mp3",
+   "file": "music/ccmixter/ghost-eclectic-sheep-small-theme.mp3",
+   "license": "CC-BY-3.0",
+   "attribution": "\"Eclectic sheep (small theme)\" by _ghost (ccmixter.org) — Creative Commons Attribution 3.0 — https://creativecommons.org/licenses/by/3.0/ — https://ccmixter.org/files/_ghost/30892",
+   "collection": "ccmixter-by",
+   "moods": [
+    "ambient",
+    "chill",
+    "electronica",
+    "film"
+   ],
+   "genres": [
+    "electronica"
+   ],
+   "instruments": [],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "meditation"
+   ],
+   "bpm": null,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "ambient",
+    "chill",
+    "electronica",
+    "film",
+    "instrumental"
+   ],
+   "bytes": 3207881,
+   "sha256": "ebe0baf849970b57c4701f97aef99eef39d06b2f34714f234c5e2176060b9709",
+   "duration": 80.1,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/ghost-eclectic-sheep-small-theme.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/ghost-eclectic-sheep-small-theme.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-zep-hurme-ethereal",
+   "title": "Ethereal",
+   "artist": "Zep Hurme",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/zep_hurme/33288",
+   "originalUrl": "https://ccmixter.org/content/zep_hurme/zep_hurme_-_Ethereal.mp3",
+   "file": "music/ccmixter/zep-hurme-ethereal.mp3",
+   "license": "CC-BY-3.0",
+   "attribution": "\"Ethereal\" by Zep Hurme (ccmixter.org) — Creative Commons Attribution 3.0 — https://creativecommons.org/licenses/by/3.0/ — https://ccmixter.org/files/zep_hurme/33288",
+   "collection": "ccmixter-by",
+   "moods": [
+    "acoustic",
+    "chill",
+    "film",
+    "guitar",
+    "sad"
+   ],
+   "genres": [],
+   "instruments": [
+    "guitar"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story"
+   ],
+   "bpm": 120,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "acoustic",
+    "chill",
+    "film",
+    "guitar",
+    "instrumental",
+    "sad"
+   ],
+   "bytes": 2181494,
+   "sha256": "76d1456da26b3390642ead1f0050240d4c53f568ec6618cb61f1965c133d7dda",
+   "duration": 76.0,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/zep-hurme-ethereal.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/zep-hurme-ethereal.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-gurdonark-eyes-open",
+   "title": "Eyes Open",
+   "artist": "gurdonark",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/gurdonark/49536",
+   "originalUrl": "https://ccmixter.org/content/gurdonark/gurdonark_-_Eyes_Open.mp3",
+   "file": "music/ccmixter/gurdonark-eyes-open.mp3",
+   "license": "CC-BY-3.0",
+   "attribution": "\"Eyes Open\" by gurdonark (ccmixter.org) — Creative Commons Attribution 3.0 — https://creativecommons.org/licenses/by/3.0/ — https://ccmixter.org/files/gurdonark/49536",
+   "collection": "ccmixter-by",
+   "moods": [
+    "ambient"
+   ],
+   "genres": [],
+   "instruments": [],
+   "uses": [
+    "study",
+    "meditation"
+   ],
+   "bpm": null,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "ambient",
+    "instrumental"
+   ],
+   "bytes": 1375965,
+   "sha256": "911f59852c590c4b1701c7504dcdc789966a497be3361e9d8ea59efc90556d78",
+   "duration": 85.7,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/gurdonark-eyes-open.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/gurdonark-eyes-open.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-olddog-harp-from-nube",
+   "title": "harp from Nube",
+   "artist": "oldDog",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/oldDog/10226",
+   "originalUrl": "https://ccmixter.org/content/oldDog/oldDog_-_harp_from_Nube.mp3",
+   "file": "music/ccmixter/olddog-harp-from-nube.mp3",
+   "license": "CC-BY-3.0",
+   "attribution": "\"harp from Nube\" by oldDog (ccmixter.org) — Creative Commons Attribution 3.0 — https://creativecommons.org/licenses/by/3.0/ — https://ccmixter.org/files/oldDog/10226",
+   "collection": "ccmixter-by",
+   "moods": [
+    "ambient",
+    "chill"
+   ],
+   "genres": [],
+   "instruments": [],
+   "uses": [
+    "podcast",
+    "study",
+    "meditation"
+   ],
+   "bpm": 90,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "ambient",
+    "chill",
+    "instrumental"
+   ],
+   "bytes": 4218820,
+   "sha256": "a0db7e2f0d9717b06c36976d3d36f1a368314f837df4b3edb30a284c2b3f3325",
+   "duration": 210.7,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/olddog-harp-from-nube.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/olddog-harp-from-nube.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-pitx-kids",
+   "title": "Kids",
+   "artist": "Pitx",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/Pitx/26358",
+   "originalUrl": "https://ccmixter.org/content/Pitx/Pitx_-_Kids.mp3",
+   "file": "music/ccmixter/pitx-kids.mp3",
+   "license": "CC-BY-3.0",
+   "attribution": "\"Kids\" by Pitx (ccmixter.org) — Creative Commons Attribution 3.0 — https://creativecommons.org/licenses/by/3.0/ — https://ccmixter.org/files/Pitx/26358",
+   "collection": "ccmixter-by",
+   "moods": [
+    "acoustic",
+    "ambient",
+    "chill",
+    "guitar"
+   ],
+   "genres": [],
+   "instruments": [
+    "guitar"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "meditation"
+   ],
+   "bpm": 85,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "acoustic",
+    "ambient",
+    "chill",
+    "guitar",
+    "instrumental"
+   ],
+   "bytes": 1728180,
+   "sha256": "cbf1b96c36341d1c4297ab2e7dee05512ecf185f499f020bc3c7a4315f4adab7",
+   "duration": 90.4,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/pitx-kids.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/pitx-kids.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-doxent-zsigmond-mellow-piano",
+   "title": "Mellow Piano",
+   "artist": "Doxent Zsigmond",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/doxent/39616",
+   "originalUrl": "https://ccmixter.org/content/doxent/doxent_-_Mellow_Piano.mp3",
+   "file": "music/ccmixter/doxent-zsigmond-mellow-piano.mp3",
+   "license": "CC-BY-3.0",
+   "attribution": "\"Mellow Piano\" by Doxent Zsigmond (ccmixter.org) — Creative Commons Attribution 3.0 — https://creativecommons.org/licenses/by/3.0/ — https://ccmixter.org/files/doxent/39616",
+   "collection": "ccmixter-by",
+   "moods": [
+    "ambient",
+    "calm",
+    "chill",
+    "jazz",
+    "piano"
+   ],
+   "genres": [
+    "jazz"
+   ],
+   "instruments": [
+    "piano"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "meditation"
+   ],
+   "bpm": null,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "ambient",
+    "calm",
+    "chill",
+    "instrumental",
+    "jazz",
+    "piano"
+   ],
+   "bytes": 7285073,
+   "sha256": "092b51a9245fc3a4f270b845b4453e5c220fa6d6a971c496a31895d6356dc915",
+   "duration": 182.0,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/doxent-zsigmond-mellow-piano.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/doxent-zsigmond-mellow-piano.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-ephemeral-rift-native-american-flute-in-d-minor-improv-1",
+   "title": "Native American Flute in D minor Improv 1",
+   "artist": "ephemeral rift",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/EphemeralRift/33668",
+   "originalUrl": "https://ccmixter.org/content/EphemeralRift/EphemeralRift_-_Native_American_Flute_in_D_minor_Improv_1.mp3",
+   "file": "music/ccmixter/ephemeral-rift-native-american-flute-in-d-minor-improv-1.mp3",
+   "license": "CC-BY-3.0",
+   "attribution": "\"Native American Flute in D minor Improv 1\" by ephemeral rift (ccmixter.org) — Creative Commons Attribution 3.0 — https://creativecommons.org/licenses/by/3.0/ — https://ccmixter.org/files/EphemeralRift/33668",
+   "collection": "ccmixter-by",
+   "moods": [
+    "acoustic"
+   ],
+   "genres": [],
+   "instruments": [],
+   "uses": [],
+   "bpm": 90,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "acoustic",
+    "instrumental"
+   ],
+   "bytes": 4436053,
+   "sha256": "d2e4423139fd35dd92491d95a465ac2290e9e5407f0c346df94bdeb93fa62386",
+   "duration": 184.6,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/ephemeral-rift-native-american-flute-in-d-minor-improv-1.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/ephemeral-rift-native-american-flute-in-d-minor-improv-1.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-doxent-zsigmond-nocturnal",
+   "title": "Nocturnal",
+   "artist": "Doxent Zsigmond",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/doxent/51454",
+   "originalUrl": "https://ccmixter.org/content/doxent/doxent_-_Nocturnal.mp3",
+   "file": "music/ccmixter/doxent-zsigmond-nocturnal.mp3",
+   "license": "CC-BY-3.0",
+   "attribution": "\"Nocturnal\" by Doxent Zsigmond (ccmixter.org) — Creative Commons Attribution 3.0 — https://creativecommons.org/licenses/by/3.0/ — https://ccmixter.org/files/doxent/51454",
+   "collection": "ccmixter-by",
+   "moods": [
+    "ambient",
+    "chill",
+    "piano"
+   ],
+   "genres": [],
+   "instruments": [
+    "piano"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "meditation"
+   ],
+   "bpm": null,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "ambient",
+    "chill",
+    "instrumental",
+    "piano"
+   ],
+   "bytes": 9458655,
+   "sha256": "a86b35e6bb0dc66342cb022510080da51218cdaec3b56552fec3c7e4d354e922",
+   "duration": 321.6,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/doxent-zsigmond-nocturnal.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/doxent-zsigmond-nocturnal.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-gurdonark-piano-soundtrack-1",
+   "title": "Piano Soundtrack 1",
+   "artist": "gurdonark",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/gurdonark/33436",
+   "originalUrl": "https://ccmixter.org/content/gurdonark/gurdonark_-_Piano_Soundtrack_1.mp3",
+   "file": "music/ccmixter/gurdonark-piano-soundtrack-1.mp3",
+   "license": "CC-BY-3.0",
+   "attribution": "\"Piano Soundtrack 1\" by gurdonark (ccmixter.org) — Creative Commons Attribution 3.0 — https://creativecommons.org/licenses/by/3.0/ — https://ccmixter.org/files/gurdonark/33436",
+   "collection": "ccmixter-by",
+   "moods": [
+    "film",
+    "piano"
+   ],
+   "genres": [],
+   "instruments": [
+    "piano"
+   ],
+   "uses": [
+    "study",
+    "story"
+   ],
+   "bpm": 70,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "film",
+    "instrumental",
+    "piano"
+   ],
+   "bytes": 3131604,
+   "sha256": "e247a20c9e704b0503df5d8763ce6eda4c1c5b85e455aed64b8adc7e83145017",
+   "duration": 78.2,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/gurdonark-piano-soundtrack-1.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/gurdonark-piano-soundtrack-1.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-geoffpeters-piece-of-quiet",
+   "title": "Piece of Quiet",
+   "artist": "geoffpeters",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/geoffpeters/31391",
+   "originalUrl": "https://ccmixter.org/content/geoffpeters/geoffpeters_-_Piece_of_Quiet.mp3",
+   "file": "music/ccmixter/geoffpeters-piece-of-quiet.mp3",
+   "license": "CC-BY-3.0",
+   "attribution": "\"Piece of Quiet\" by geoffpeters (ccmixter.org) — Creative Commons Attribution 3.0 — https://creativecommons.org/licenses/by/3.0/ — https://ccmixter.org/files/geoffpeters/31391",
+   "collection": "ccmixter-by",
+   "moods": [
+    "acoustic",
+    "chill",
+    "piano",
+    "sad"
+   ],
+   "genres": [],
+   "instruments": [
+    "piano"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story"
+   ],
+   "bpm": null,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "acoustic",
+    "chill",
+    "instrumental",
+    "piano",
+    "sad"
+   ],
+   "bytes": 2887306,
+   "sha256": "b1dd94c373519cf8b8777dc6265d950432897b8eae98ff5be9547357e09c5da8",
+   "duration": 180.2,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/geoffpeters-piece-of-quiet.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/geoffpeters-piece-of-quiet.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-wired-ant-please-don-t-leave",
+   "title": "Please don´t leave!",
+   "artist": "Wired Ant",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/Wired_Ant/40032",
+   "originalUrl": "https://ccmixter.org/content/Wired_Ant/Wired_Ant_-_Please_don_t_leave_.mp3",
+   "file": "music/ccmixter/wired-ant-please-don-t-leave.mp3",
+   "license": "CC-BY-3.0",
+   "attribution": "\"Please don´t leave!\" by Wired Ant (ccmixter.org) — Creative Commons Attribution 3.0 — https://creativecommons.org/licenses/by/3.0/ — https://ccmixter.org/files/Wired_Ant/40032",
+   "collection": "ccmixter-by",
+   "moods": [
+    "ambient",
+    "electronica"
+   ],
+   "genres": [
+    "electronica"
+   ],
+   "instruments": [],
+   "uses": [
+    "study",
+    "meditation"
+   ],
+   "bpm": 115,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "ambient",
+    "electronica",
+    "instrumental"
+   ],
+   "bytes": 3650499,
+   "sha256": "e82e3ae6ca2cc6f19006276aac0acae4efb077a0a8f48bef390152204d5779a3",
+   "duration": 114.0,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/wired-ant-please-don-t-leave.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/wired-ant-please-don-t-leave.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-emm-rodriguez-prayer",
+   "title": "Prayer",
+   "artist": "Emm Rodriguez",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/emmrodriguez/49416",
+   "originalUrl": "https://ccmixter.org/content/emmrodriguez/emmrodriguez_-_Prayer.mp3",
+   "file": "music/ccmixter/emm-rodriguez-prayer.mp3",
+   "license": "CC-BY-3.0",
+   "attribution": "\"Prayer\" by Emm Rodriguez (ccmixter.org) — Creative Commons Attribution 3.0 — https://creativecommons.org/licenses/by/3.0/ — https://ccmixter.org/files/emmrodriguez/49416",
+   "collection": "ccmixter-by",
+   "moods": [
+    "ambient",
+    "chill",
+    "electronica",
+    "experimental",
+    "guitar",
+    "jazz"
+   ],
+   "genres": [
+    "electronica",
+    "experimental",
+    "jazz"
+   ],
+   "instruments": [
+    "guitar"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "meditation"
+   ],
+   "bpm": null,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "ambient",
+    "chill",
+    "electronica",
+    "experimental",
+    "guitar",
+    "instrumental",
+    "jazz"
+   ],
+   "bytes": 1862052,
+   "sha256": "eed17d5ad5c5114c3cf9be2947726a4f5c9a0326b97e8bc29826efaa69378af1",
+   "duration": 116.1,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/emm-rodriguez-prayer.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/emm-rodriguez-prayer.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-cdk-saturdays-basement",
+   "title": "Saturdays Basement",
+   "artist": "cdk",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/cdk/45072",
+   "originalUrl": "https://ccmixter.org/content/cdk/cdk_-_Saturdays_Basement_1.mp3",
+   "file": "music/ccmixter/cdk-saturdays-basement.mp3",
+   "license": "CC-BY-3.0",
+   "attribution": "\"Saturdays Basement\" by cdk (ccmixter.org) — Creative Commons Attribution 3.0 — https://creativecommons.org/licenses/by/3.0/ — https://ccmixter.org/files/cdk/45072",
+   "collection": "ccmixter-by",
+   "moods": [
+    "chill",
+    "electronica"
+   ],
+   "genres": [
+    "electronica"
+   ],
+   "instruments": [],
+   "uses": [
+    "podcast",
+    "study"
+   ],
+   "bpm": 125,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "chill",
+    "electronica",
+    "instrumental"
+   ],
+   "bytes": 8406248,
+   "sha256": "f9312504eebed082b4e05782c81e8d8f95d0cf8a66125712ef678d49a1b80791",
+   "duration": 210.1,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/cdk-saturdays-basement.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/cdk-saturdays-basement.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-hans-atom-shiro",
+   "title": "Shiro",
+   "artist": "Hans Atom",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/hansatom/33396",
+   "originalUrl": "https://ccmixter.org/content/hansatom/hansatom_-_Shiro.mp3",
+   "file": "music/ccmixter/hans-atom-shiro.mp3",
+   "license": "CC-BY-3.0",
+   "attribution": "\"Shiro\" by Hans Atom (ccmixter.org) — Creative Commons Attribution 3.0 — https://creativecommons.org/licenses/by/3.0/ — https://ccmixter.org/files/hansatom/33396",
+   "collection": "ccmixter-by",
+   "moods": [
+    "acoustic",
+    "film",
+    "orchestral",
+    "sad"
+   ],
+   "genres": [
+    "orchestral"
+   ],
+   "instruments": [],
+   "uses": [
+    "story"
+   ],
+   "bpm": 90,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "acoustic",
+    "film",
+    "instrumental",
+    "orchestral",
+    "sad"
+   ],
+   "bytes": 1610440,
+   "sha256": "dcdacff198baee0317297f375d401903ac29a57ca42e9bebd9fef605b179a8da",
+   "duration": 66.9,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/hans-atom-shiro.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/hans-atom-shiro.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-mark-neumann-summer-trip",
+   "title": "Summer Trip",
+   "artist": "Mark Neumann",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/Tigoolio/46263",
+   "originalUrl": "https://ccmixter.org/content/Tigoolio/Tigoolio_-_Summer_Trip.mp3",
+   "file": "music/ccmixter/mark-neumann-summer-trip.mp3",
+   "license": "CC-BY-3.0",
+   "attribution": "\"Summer Trip\" by Mark Neumann (ccmixter.org) — Creative Commons Attribution 3.0 — https://creativecommons.org/licenses/by/3.0/ — https://ccmixter.org/files/Tigoolio/46263",
+   "collection": "ccmixter-by",
+   "moods": [
+    "ambient",
+    "chill",
+    "electronica",
+    "experimental",
+    "guitar",
+    "hip-hop",
+    "piano"
+   ],
+   "genres": [
+    "electronica",
+    "experimental",
+    "hip-hop"
+   ],
+   "instruments": [
+    "guitar",
+    "piano"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "meditation"
+   ],
+   "bpm": 100,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "ambient",
+    "chill",
+    "electronica",
+    "experimental",
+    "guitar",
+    "hip-hop",
+    "instrumental",
+    "piano"
+   ],
+   "bytes": 12105187,
+   "sha256": "f6efe4cddfe5aeae871124e11c0962755a7b602a2758a0667a418d97e716b048",
+   "duration": 302.5,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/mark-neumann-summer-trip.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/mark-neumann-summer-trip.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-olddog-too-quiet-piano",
+   "title": "too quiet (piano)",
+   "artist": "oldDog",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/oldDog/17322",
+   "originalUrl": "https://ccmixter.org/content/oldDog/oldDog_-_too_quiet_(piano).mp3",
+   "file": "music/ccmixter/olddog-too-quiet-piano.mp3",
+   "license": "CC-BY-3.0",
+   "attribution": "\"too quiet (piano)\" by oldDog (ccmixter.org) — Creative Commons Attribution 3.0 — https://creativecommons.org/licenses/by/3.0/ — https://ccmixter.org/files/oldDog/17322",
+   "collection": "ccmixter-by",
+   "moods": [
+    "ambient",
+    "chill",
+    "piano"
+   ],
+   "genres": [],
+   "instruments": [
+    "piano"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "meditation"
+   ],
+   "bpm": 70,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "ambient",
+    "chill",
+    "instrumental",
+    "piano"
+   ],
+   "bytes": 6146802,
+   "sha256": "6dff5f8d4dd0187a9bce9a7d9e035573da2c249523d045b78038550b07df1fd2",
+   "duration": 189.3,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/olddog-too-quiet-piano.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/olddog-too-quiet-piano.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-aussens-iter-3-acoustic-guitars-instrumental",
+   "title": "3 Acoustic Guitars (Instrumental)",
+   "artist": "Aussens@iter",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/tobias_weber/56668",
+   "originalUrl": "https://ccmixter.org/content/tobias_weber/tobias_weber_-_3_Acoustic_Guitars_(Instrumental).mp3",
+   "file": "music/ccmixter/aussens-iter-3-acoustic-guitars-instrumental.mp3",
+   "license": "CC0-1.0",
+   "attribution": "\"3 Acoustic Guitars (Instrumental)\" by Aussens@iter (ccmixter.org) — CC0, no attribution required (credit appreciated)",
+   "collection": "ccmixter-zero",
+   "moods": [
+    "acoustic",
+    "chill",
+    "film",
+    "guitar"
+   ],
+   "genres": [],
+   "instruments": [
+    "guitar"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story"
+   ],
+   "bpm": 105,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "acoustic",
+    "chill",
+    "film",
+    "guitar",
+    "instrumental"
+   ],
+   "bytes": 3565235,
+   "sha256": "486ceac57f08abd377b5b26e83fb085a065dbd23090d408cecc3a493a883f6d9",
+   "duration": 89.0,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/aussens-iter-3-acoustic-guitars-instrumental.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/aussens-iter-3-acoustic-guitars-instrumental.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-spinmeister-intergalactic-journey",
+   "title": "Intergalactic Journey",
+   "artist": "spinmeister",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/spinmeister/21067",
+   "originalUrl": "https://ccmixter.org/content/spinmeister/spinmeister_-_Intergalactic_Journey.mp3",
+   "file": "music/ccmixter/spinmeister-intergalactic-journey.mp3",
+   "license": "CC0-1.0",
+   "attribution": "\"Intergalactic Journey\" by spinmeister (ccmixter.org) — CC0, no attribution required (credit appreciated)",
+   "collection": "ccmixter-zero",
+   "moods": [
+    "ambient",
+    "chill",
+    "electronica"
+   ],
+   "genres": [
+    "electronica"
+   ],
+   "instruments": [],
+   "uses": [
+    "podcast",
+    "study",
+    "meditation"
+   ],
+   "bpm": 90,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "ambient",
+    "chill",
+    "electronica",
+    "instrumental"
+   ],
+   "bytes": 8610472,
+   "sha256": "8d5f60d7b02ebe3d6fa796a668f46be2943b4ea6b9374eb4a3ebc06bb3a0dca1",
+   "duration": 358.6,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/spinmeister-intergalactic-journey.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/spinmeister-intergalactic-journey.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-andrew-wainwright-miles-ahead",
+   "title": "Miles Ahead",
+   "artist": "Andrew Wainwright",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/andrewwainwright/56001",
+   "originalUrl": "https://ccmixter.org/content/andrewwainwright/andrewwainwright_-_Miles_Ahead.mp3",
+   "file": "music/ccmixter/andrew-wainwright-miles-ahead.mp3",
+   "license": "CC0-1.0",
+   "attribution": "\"Miles Ahead\" by Andrew Wainwright (ccmixter.org) — CC0, no attribution required (credit appreciated)",
+   "collection": "ccmixter-zero",
+   "moods": [
+    "chill",
+    "film",
+    "orchestral",
+    "piano"
+   ],
+   "genres": [
+    "orchestral"
+   ],
+   "instruments": [
+    "piano"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story"
+   ],
+   "bpm": 120,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "chill",
+    "film",
+    "instrumental",
+    "orchestral",
+    "piano"
+   ],
+   "bytes": 5129571,
+   "sha256": "db1322a2bf7c9c0b381d2e380de39b6f71bb13d8e094679e51ab3125656f5f97",
+   "duration": 320.3,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/andrew-wainwright-miles-ahead.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/andrew-wainwright-miles-ahead.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-os50-movies",
+   "title": "Movies",
+   "artist": "OS50",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/OS50/59387",
+   "originalUrl": "https://ccmixter.org/content/OS50/OS50_-_Movies.mp3",
+   "file": "music/ccmixter/os50-movies.mp3",
+   "license": "CC0-1.0",
+   "attribution": "\"Movies\" by OS50 (ccmixter.org) — CC0, no attribution required (credit appreciated)",
+   "collection": "ccmixter-zero",
+   "moods": [
+    "experimental",
+    "hip-hop",
+    "jazz"
+   ],
+   "genres": [
+    "experimental",
+    "hip-hop",
+    "jazz"
+   ],
+   "instruments": [],
+   "uses": [
+    "podcast"
+   ],
+   "bpm": null,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "experimental",
+    "hip-hop",
+    "instrumental",
+    "jazz"
+   ],
+   "bytes": 7496143,
+   "sha256": "f6598a31057d9f5dacd68f7725ead56bdd7e18a09c92442c5367d211430cdc3e",
+   "duration": 187.3,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/os50-movies.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/os50-movies.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-os50-mystery-maestro",
+   "title": "Mystery Maestro",
+   "artist": "OS50",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/OS50/58873",
+   "originalUrl": "https://ccmixter.org/content/OS50/OS50_-_Mystery_Maestro.mp3",
+   "file": "music/ccmixter/os50-mystery-maestro.mp3",
+   "license": "CC0-1.0",
+   "attribution": "\"Mystery Maestro\" by OS50 (ccmixter.org) — CC0, no attribution required (credit appreciated)",
+   "collection": "ccmixter-zero",
+   "moods": [
+    "experimental",
+    "hip-hop",
+    "jazz"
+   ],
+   "genres": [
+    "experimental",
+    "hip-hop",
+    "jazz"
+   ],
+   "instruments": [],
+   "uses": [
+    "podcast"
+   ],
+   "bpm": 100,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "experimental",
+    "hip-hop",
+    "instrumental",
+    "jazz"
+   ],
+   "bytes": 7435539,
+   "sha256": "cbb8040272a023b24696d8a7cf5a96b928a52976f21acbe66ea253260eac86cc",
+   "duration": 185.8,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/os50-mystery-maestro.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/os50-mystery-maestro.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-aussens-iter-prelude-for-classical-guitar-instrumental",
+   "title": "Prelude For Classical Guitar (Instrumental)",
+   "artist": "Aussens@iter",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/tobias_weber/57952",
+   "originalUrl": "https://ccmixter.org/content/tobias_weber/tobias_weber_-_Prelude_For_Classical_Guitar_(Instrumental).mp3",
+   "file": "music/ccmixter/aussens-iter-prelude-for-classical-guitar-instrumental.mp3",
+   "license": "CC0-1.0",
+   "attribution": "\"Prelude For Classical Guitar (Instrumental)\" by Aussens@iter (ccmixter.org) — CC0, no attribution required (credit appreciated)",
+   "collection": "ccmixter-zero",
+   "moods": [
+    "acoustic",
+    "chill",
+    "film",
+    "guitar",
+    "jazz"
+   ],
+   "genres": [
+    "jazz"
+   ],
+   "instruments": [
+    "guitar"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story"
+   ],
+   "bpm": 110,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "acoustic",
+    "chill",
+    "film",
+    "guitar",
+    "instrumental",
+    "jazz"
+   ],
+   "bytes": 2197233,
+   "sha256": "66d36a7b10444549c99e03aab3b7bf9d5dc0d407f2f72fee44248a514615d076",
+   "duration": 137.1,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/aussens-iter-prelude-for-classical-guitar-instrumental.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/aussens-iter-prelude-for-classical-guitar-instrumental.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-pitx-sunday-afternoon",
+   "title": "Sunday Afternoon",
+   "artist": "Pitx",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/Pitx/29173",
+   "originalUrl": "https://ccmixter.org/content/Pitx/Pitx_-_Sunday_Afternoon.mp3",
+   "file": "music/ccmixter/pitx-sunday-afternoon.mp3",
+   "license": "CC0-1.0",
+   "attribution": "\"Sunday Afternoon\" by Pitx (ccmixter.org) — CC0, no attribution required (credit appreciated)",
+   "collection": "ccmixter-zero",
+   "moods": [
+    "chill",
+    "guitar"
+   ],
+   "genres": [],
+   "instruments": [
+    "guitar"
+   ],
+   "uses": [
+    "podcast",
+    "study"
+   ],
+   "bpm": 95,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "chill",
+    "guitar",
+    "instrumental"
+   ],
+   "bytes": 5085928,
+   "sha256": "40fc68237b9eea3ff16bd14721f4ae797d61afead8493dcf0fecb1dfaa69af60",
+   "duration": 215.5,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/pitx-sunday-afternoon.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/pitx-sunday-afternoon.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-spinmeister-techno-twang",
+   "title": "Techno Twang",
+   "artist": "spinmeister",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/spinmeister/23105",
+   "originalUrl": "https://ccmixter.org/content/spinmeister/spinmeister_-_Techno_Twang.mp3",
+   "file": "music/ccmixter/spinmeister-techno-twang.mp3",
+   "license": "CC0-1.0",
+   "attribution": "\"Techno Twang\" by spinmeister (ccmixter.org) — CC0, no attribution required (credit appreciated)",
+   "collection": "ccmixter-zero",
+   "moods": [
+    "guitar",
+    "piano"
+   ],
+   "genres": [],
+   "instruments": [
+    "guitar",
+    "piano"
+   ],
+   "uses": [
+    "study"
+   ],
+   "bpm": 130,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "guitar",
+    "instrumental",
+    "piano"
+   ],
+   "bytes": 8101534,
+   "sha256": "594ebe7331e1bc92c8e9997ec549d890aa58b86f157a1a927773fbc5b6016c7c",
+   "duration": 337.4,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/spinmeister-techno-twang.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/spinmeister-techno-twang.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-kimy-from-black-art-the-beautiful-rain",
+   "title": "The Beautiful Rain",
+   "artist": "Kimy from Black Art",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/kimy/51643",
+   "originalUrl": "https://ccmixter.org/content/kimy/kimy_-_The_Beautiful_Rain.mp3",
+   "file": "music/ccmixter/kimy-from-black-art-the-beautiful-rain.mp3",
+   "license": "CC0-1.0",
+   "attribution": "\"The Beautiful Rain\" by Kimy from Black Art (ccmixter.org) — CC0, no attribution required (credit appreciated)",
+   "collection": "ccmixter-zero",
+   "moods": [
+    "hip-hop",
+    "piano"
+   ],
+   "genres": [
+    "hip-hop"
+   ],
+   "instruments": [
+    "piano"
+   ],
+   "uses": [
+    "study"
+   ],
+   "bpm": null,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "hip-hop",
+    "instrumental",
+    "piano"
+   ],
+   "bytes": 5549958,
+   "sha256": "7c4104f0dd31501fe547868d27198e1b651ae9c64ab590f050e024b1cdc63a08",
+   "duration": 231.1,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/kimy-from-black-art-the-beautiful-rain.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/kimy-from-black-art-the-beautiful-rain.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-tybedour-tybedour-songmoon-0061",
+   "title": "TybeDour SongMoon 0061",
+   "artist": "TybeDour",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/TybeDour/56125",
+   "originalUrl": "https://ccmixter.org/content/TybeDour/TybeDour_-_TybeDour_SongMoon_0061.mp3",
+   "file": "music/ccmixter/tybedour-tybedour-songmoon-0061.mp3",
+   "license": "CC0-1.0",
+   "attribution": "\"TybeDour SongMoon 0061\" by TybeDour (ccmixter.org) — CC0, no attribution required (credit appreciated)",
+   "collection": "ccmixter-zero",
+   "moods": [
+    "electronica",
+    "experimental"
+   ],
+   "genres": [
+    "electronica",
+    "experimental"
+   ],
+   "instruments": [],
+   "uses": [],
+   "bpm": 120,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "electronica",
+    "experimental",
+    "instrumental"
+   ],
+   "bytes": 4165246,
+   "sha256": "9c6ab706c4515c3edd85aed6883e709fee39ec6742f3a472355ccbc81252b899",
+   "duration": 173.4,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/tybedour-tybedour-songmoon-0061.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/tybedour-tybedour-songmoon-0061.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "ccmixter-tybedour-tybedour-songmoon-0062",
+   "title": "TybeDour SongMoon 0062",
+   "artist": "TybeDour",
+   "source": "ccmixter",
+   "sourcePage": "https://ccmixter.org/files/TybeDour/56142",
+   "originalUrl": "https://ccmixter.org/content/TybeDour/TybeDour_-_TybeDour_SongMoon_0062.mp3",
+   "file": "music/ccmixter/tybedour-tybedour-songmoon-0062.mp3",
+   "license": "CC0-1.0",
+   "attribution": "\"TybeDour SongMoon 0062\" by TybeDour (ccmixter.org) — CC0, no attribution required (credit appreciated)",
+   "collection": "ccmixter-zero",
+   "moods": [
+    "electronica",
+    "experimental"
+   ],
+   "genres": [
+    "electronica",
+    "experimental"
+   ],
+   "instruments": [],
+   "uses": [],
+   "bpm": null,
+   "description": "",
+   "isrc": null,
+   "tags": [
+    "electronica",
+    "experimental",
+    "instrumental"
+   ],
+   "bytes": 4271666,
+   "sha256": "0af76b5702d6c480b9a087cd89d940921113a5c38df81748fa7944feec440b4f",
+   "duration": 177.8,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/ccmixter/tybedour-tybedour-songmoon-0062.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/ccmixter/tybedour-tybedour-songmoon-0062.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-amazing-grace-2011",
+   "title": "Amazing Grace 2011",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Amazing%20Grace%202011.mp3",
+   "file": "music/incompetech/amazing-grace-2011.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Amazing Grace 2011\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "calm-piano",
+   "moods": [
+    "calm",
+    "relaxed",
+    "sad"
+   ],
+   "genres": [
+    "classical"
+   ],
+   "instruments": [
+    "clarinet",
+    "piano",
+    "pipe organ"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "meditation"
+   ],
+   "bpm": 79,
+   "description": "Tasteful version of the classic religious piece.",
+   "isrc": "USUAN1100820",
+   "tags": [
+    "calm",
+    "clarinet",
+    "classical",
+    "piano",
+    "pipe organ",
+    "relaxed",
+    "sad"
+   ],
+   "bytes": 7572292,
+   "sha256": "97715f1947c375b1f979404b6ad464d445bace2e8dc6f3817e2651690dcbfd74",
+   "duration": 189.2,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/amazing-grace-2011.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/amazing-grace-2011.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-casa-bossa-nova",
+   "title": "Casa Bossa Nova",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Casa%20Bossa%20Nova.mp3",
+   "file": "music/incompetech/casa-bossa-nova.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Casa Bossa Nova\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "calm-piano",
+   "moods": [
+    "calm",
+    "funny",
+    "groovy"
+   ],
+   "genres": [
+    "latin"
+   ],
+   "instruments": [
+    "bass",
+    "flute",
+    "guitar",
+    "mellotron",
+    "organ",
+    "percussion",
+    "piano"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "kids",
+    "meditation"
+   ],
+   "bpm": 116,
+   "description": "Okay, the tuning on the bass is a bit off here and there, but the heart is in the right place.Throw a filter on this and use it an your waiting area jam. Or on-hold music. Or pre-show music for your militia function. I'm sure the calming aspects would be very welcome in all the situations! Oh, you c",
+   "isrc": "USUAN1600012",
+   "tags": [
+    "bass",
+    "calm",
+    "flute",
+    "funny",
+    "groovy",
+    "guitar",
+    "latin",
+    "mellotron",
+    "organ",
+    "percussion",
+    "piano"
+   ],
+   "bytes": 7750389,
+   "sha256": "614b43e981c3f53ad96d4f95a23738889e8dd908cc877e61487ceb12d88e2606",
+   "duration": 242.1,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/casa-bossa-nova.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/casa-bossa-nova.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-continue-life",
+   "title": "Continue Life",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Continue%20Life.mp3",
+   "file": "music/incompetech/continue-life.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Continue Life\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "calm-piano",
+   "moods": [
+    "calm",
+    "relaxed",
+    "uplifting"
+   ],
+   "genres": [
+    "contemporary"
+   ],
+   "instruments": [
+    "piano"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "meditation",
+    "motivation"
+   ],
+   "bpm": null,
+   "description": "Solo new-age piano.",
+   "isrc": "USUAN1100282",
+   "tags": [
+    "calm",
+    "contemporary",
+    "piano",
+    "relaxed",
+    "uplifting"
+   ],
+   "bytes": 3870218,
+   "sha256": "f75617ff7960e7f1cd3f583b103f1b812faaf1375d66a5b7a604f2fe2112a536",
+   "duration": 114.1,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/continue-life.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/continue-life.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-cuban-sandwich",
+   "title": "Cuban Sandwich",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Cuban%20Sandwich.mp3",
+   "file": "music/incompetech/cuban-sandwich.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Cuban Sandwich\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "calm-piano",
+   "moods": [
+    "groovy",
+    "relaxed"
+   ],
+   "genres": [
+    "latin"
+   ],
+   "instruments": [
+    "bass",
+    "percussion",
+    "piano"
+   ],
+   "uses": [
+    "podcast",
+    "study"
+   ],
+   "bpm": 80,
+   "description": "A groovy little piece excellent for an evening at your local cabana.",
+   "isrc": "USUAN1600005",
+   "tags": [
+    "bass",
+    "groovy",
+    "latin",
+    "percussion",
+    "piano",
+    "relaxed"
+   ],
+   "bytes": 6244055,
+   "sha256": "c519f9740f3ee653a5105378c8834578cf2b3eb5e8c6b092dcf6f6ee0c2d5dc3",
+   "duration": 195.1,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/cuban-sandwich.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/cuban-sandwich.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-ghost-story",
+   "title": "Ghost Story",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Ghost%20Story.mp3",
+   "file": "music/incompetech/ghost-story.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Ghost Story\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "calm-piano",
+   "moods": [
+    "calm",
+    "mysterious",
+    "relaxed"
+   ],
+   "genres": [
+    "horror"
+   ],
+   "instruments": [
+    "percussion",
+    "piano",
+    "vibraphone",
+    "waterphone"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "meditation",
+    "horror"
+   ],
+   "bpm": null,
+   "description": "Spooky piece, slow moving in 2 parts written for 4 percussionists. Second movement starts at 2:30.",
+   "isrc": "USUAN1300034",
+   "tags": [
+    "calm",
+    "horror",
+    "mysterious",
+    "percussion",
+    "piano",
+    "relaxed",
+    "vibraphone",
+    "waterphone"
+   ],
+   "bytes": 12785490,
+   "sha256": "b5d9aac3bcb3f4fab46bc049eeec60cbd56d8a8a7676b2d167dbc7002ad7869a",
+   "duration": 319.6,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/ghost-story.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/ghost-story.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-ghostpocalypse-3-road-of-trials",
+   "title": "Ghostpocalypse - 3 Road of Trials",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Ghostpocalypse%20-%203%20Road%20of%20Trials.mp3",
+   "file": "music/incompetech/ghostpocalypse-3-road-of-trials.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Ghostpocalypse - 3 Road of Trials\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "calm-piano",
+   "moods": [
+    "calm",
+    "mysterious",
+    "sad"
+   ],
+   "genres": [
+    "soundtrack"
+   ],
+   "instruments": [
+    "piano",
+    "synths"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "meditation"
+   ],
+   "bpm": 68,
+   "description": "3 of 8. Odd phrasing and counterpoints.",
+   "isrc": "USUAN1100666",
+   "tags": [
+    "calm",
+    "mysterious",
+    "piano",
+    "sad",
+    "soundtrack",
+    "synths"
+   ],
+   "bytes": 6035843,
+   "sha256": "defa7a98dd296deb7f6dad5935582215dacefb84537c33104ca16529d3d1e806",
+   "duration": 150.8,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/ghostpocalypse-3-road-of-trials.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/ghostpocalypse-3-road-of-trials.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-leopard-print-elevator",
+   "title": "Leopard Print Elevator",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Leopard%20Print%20Elevator.mp3",
+   "file": "music/incompetech/leopard-print-elevator.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Leopard Print Elevator\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "calm-piano",
+   "moods": [
+    "groovy",
+    "relaxed"
+   ],
+   "genres": [
+    "contemporary"
+   ],
+   "instruments": [
+    "bass",
+    "percussion",
+    "synths"
+   ],
+   "uses": [
+    "podcast",
+    "study"
+   ],
+   "bpm": 100,
+   "description": "Smooth. Seriously smooth. Smooth like you can't even imagine how smooth this is. Still has a lot of life, though! The uncompressed download comes with an alternate mix with a super deep electric bass for even more smoothness! Did I mention it is smooth? Sort of like an early 1970's era vibe to it. B",
+   "isrc": "USUAN1500077",
+   "tags": [
+    "bass",
+    "contemporary",
+    "groovy",
+    "percussion",
+    "relaxed",
+    "synths"
+   ],
+   "bytes": 10487199,
+   "sha256": "b1e8213c81267e822083ed0388ab236151dd9b0839916a15082f5bd63e852691",
+   "duration": 327.7,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/leopard-print-elevator.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/leopard-print-elevator.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-numinous-shine",
+   "title": "Numinous Shine",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Numinous%20Shine.mp3",
+   "file": "music/incompetech/numinous-shine.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Numinous Shine\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "calm-piano",
+   "moods": [
+    "bright",
+    "relaxed",
+    "uplifting"
+   ],
+   "genres": [
+    "contemporary"
+   ],
+   "instruments": [
+    "synth"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "kids",
+    "motivation"
+   ],
+   "bpm": 68,
+   "description": "Non-threatening light synths moving slowly.",
+   "isrc": "USUAN1100129",
+   "tags": [
+    "bright",
+    "contemporary",
+    "relaxed",
+    "synth",
+    "uplifting"
+   ],
+   "bytes": 10469548,
+   "sha256": "d480c94f620080d8bad71f261cc4cfe66af948afad27e734a2d9637e36fd5780",
+   "duration": 258.2,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/numinous-shine.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/numinous-shine.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-onion-capers",
+   "title": "Onion Capers",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Onion%20Capers.mp3",
+   "file": "music/incompetech/onion-capers.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Onion Capers\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "calm-piano",
+   "moods": [
+    "bright",
+    "playful",
+    "relaxed"
+   ],
+   "genres": [
+    "silent-film"
+   ],
+   "instruments": [
+    "percussion",
+    "piano",
+    "tuba"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "kids",
+    "motivation"
+   ],
+   "bpm": 105,
+   "description": "Hey buddy, that is quite the sack of onions you have! If I had a sack of onions like that, I'd be happier than a tree on Arbor Day! Everyone wants to get their hand in an onion sack like that.  Me? I like a nice purple onion, but you don't get to pick favorites when you got your hand in an onion sac",
+   "isrc": "USUAN1800023",
+   "tags": [
+    "bright",
+    "percussion",
+    "piano",
+    "playful",
+    "relaxed",
+    "silent-film",
+    "tuba"
+   ],
+   "bytes": 5400994,
+   "sha256": "b22a2a5f54afa9492f17ac8ff38aebf92266aea1bb9dc760b52e9c2de7325a78",
+   "duration": 134.9,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/onion-capers.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/onion-capers.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-prelude-in-c-bwv-846",
+   "title": "Prelude in C (BWV 846)",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Prelude%20in%20C%20-%20BWV%20846.mp3",
+   "file": "music/incompetech/prelude-in-c-bwv-846.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Prelude in C (BWV 846)\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "calm-piano",
+   "moods": [
+    "calm"
+   ],
+   "genres": [
+    "classical"
+   ],
+   "instruments": [
+    "piano"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "meditation"
+   ],
+   "bpm": 49,
+   "description": "J. S. Bach. This is the famous first piece of the Well Tempered Clavier, Book 1. Performed on piano. Very clean recording.",
+   "isrc": "USUAN1100689",
+   "tags": [
+    "calm",
+    "classical",
+    "piano"
+   ],
+   "bytes": 7150263,
+   "sha256": "84a391d63e505f5c9b2e75e7bf99e9a773aed2b6c2891030394b9c8e5c1cc01a",
+   "duration": 178.7,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/prelude-in-c-bwv-846.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/prelude-in-c-bwv-846.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-sapphire-isle",
+   "title": "Sapphire Isle",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sapphire%20Isle.mp3",
+   "file": "music/incompetech/sapphire-isle.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Sapphire Isle\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "calm-piano",
+   "moods": [
+    "calm",
+    "relaxed",
+    "uplifting"
+   ],
+   "genres": [
+    "contemporary"
+   ],
+   "instruments": [
+    "piano"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "meditation",
+    "motivation"
+   ],
+   "bpm": null,
+   "description": "Arpeggiation and scales in an unusual chordal setting.",
+   "isrc": "USUAN1100087",
+   "tags": [
+    "calm",
+    "contemporary",
+    "piano",
+    "relaxed",
+    "uplifting"
+   ],
+   "bytes": 4305143,
+   "sha256": "bfd591ef7f89e0101675e3766fccacb1bc326eecc94d89dce914bf9a9cb577cb",
+   "duration": 131.5,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/sapphire-isle.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/sapphire-isle.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-ultralounge",
+   "title": "Ultralounge",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Ultralounge.mp3",
+   "file": "music/incompetech/ultralounge.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Ultralounge\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "calm-piano",
+   "moods": [
+    "groovy",
+    "relaxed"
+   ],
+   "genres": [
+    "jazz"
+   ],
+   "instruments": [
+    "bass",
+    "congas",
+    "drums",
+    "percussion",
+    "piano",
+    "synths"
+   ],
+   "uses": [
+    "podcast",
+    "study"
+   ],
+   "bpm": 100,
+   "description": "You hip? You really hip? Oh, yeah you are! This piece comes from the coolest hippest parts of solar system... from a 1960s pad on the moon. Oh yeah. Dig it, man... dig it. The uncompressed download also comes with an even more chill mix.",
+   "isrc": "USUAN1500017",
+   "tags": [
+    "bass",
+    "congas",
+    "drums",
+    "groovy",
+    "jazz",
+    "percussion",
+    "piano",
+    "relaxed",
+    "synths"
+   ],
+   "bytes": 10141911,
+   "sha256": "e03261bf6692ed0e4f8ae782c2ac1036ac9f634b5670e9f7430634346c395f6c",
+   "duration": 316.9,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/ultralounge.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/ultralounge.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-virtutes-instrumenti",
+   "title": "Virtutes Instrumenti",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Virtutes%20Instrumenti.mp3",
+   "file": "music/incompetech/virtutes-instrumenti.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Virtutes Instrumenti\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "calm-piano",
+   "moods": [
+    "calm",
+    "mystical",
+    "sad",
+    "uplifting"
+   ],
+   "genres": [
+    "classical"
+   ],
+   "instruments": [
+    "drone",
+    "viol"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "meditation",
+    "motivation"
+   ],
+   "bpm": 56,
+   "description": "Based on 11th century sacred music, this piece can set you way way back in time almost instantly. Several faster and slower sections are available during this piece.",
+   "isrc": "USUAN1100801",
+   "tags": [
+    "calm",
+    "classical",
+    "drone",
+    "mystical",
+    "sad",
+    "uplifting",
+    "viol"
+   ],
+   "bytes": 10486513,
+   "sha256": "46e4569b5f515917e5a879f52f1db1a83b5ea912d26f0b67f7779027a39ce670",
+   "duration": 262.1,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/virtutes-instrumenti.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/virtutes-instrumenti.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-when-the-wind-blows",
+   "title": "When The Wind Blows",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/When%20The%20Wind%20Blows.mp3",
+   "file": "music/incompetech/when-the-wind-blows.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"When The Wind Blows\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "calm-piano",
+   "moods": [
+    "calm",
+    "sad"
+   ],
+   "genres": [
+    "contemporary"
+   ],
+   "instruments": [
+    "guitar",
+    "synths"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "meditation"
+   ],
+   "bpm": 58,
+   "description": "Several wind instruments play lilting melodies that are slow and meander through the piece, sometimes bordering on being slightly out of tune. The calm music has an edge of solemnity about it. The ever-present acoustic guitar is methodical and resembles a pulse ? it exists but is forgotten, except w",
+   "isrc": "USUAN1100717",
+   "tags": [
+    "calm",
+    "contemporary",
+    "guitar",
+    "sad",
+    "synths"
+   ],
+   "bytes": 10644677,
+   "sha256": "b131f7aabeb1799c6f1926aee4f52f38dba6a64453f50832ef2207870a7a5f6f",
+   "duration": 266.1,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/when-the-wind-blows.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/when-the-wind-blows.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-angels-we-have-heard-on-high",
+   "title": "Angels We Have Heard on High",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Angels%20We%20Have%20Heard%20%28piano%29.mp3",
+   "file": "music/incompetech/angels-we-have-heard-on-high.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Angels We Have Heard on High\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "christmas",
+   "moods": [
+    "relaxed",
+    "uplifting",
+    "christmas"
+   ],
+   "genres": [
+    "holiday"
+   ],
+   "instruments": [
+    "piano"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "motivation",
+    "holiday"
+   ],
+   "bpm": 94,
+   "description": "",
+   "isrc": "USUAN1100891",
+   "tags": [
+    "christmas",
+    "holiday",
+    "piano",
+    "relaxed",
+    "uplifting"
+   ],
+   "bytes": 5961054,
+   "sha256": "202b71e4ddccf9b94f745d0475cd1564c19a287768622446a1bf992ca41ff549",
+   "duration": 244.1,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/angels-we-have-heard-on-high.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/angels-we-have-heard-on-high.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-dance-of-the-sugar-plum-fairy",
+   "title": "Dance of the Sugar Plum Fairy",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Dance%20of%20the%20Sugar%20Plum%20Fairy.mp3",
+   "file": "music/incompetech/dance-of-the-sugar-plum-fairy.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Dance of the Sugar Plum Fairy\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "christmas",
+   "moods": [
+    "bright",
+    "funny",
+    "christmas"
+   ],
+   "genres": [
+    "classical"
+   ],
+   "instruments": [
+    "celesta",
+    "orchestra"
+   ],
+   "uses": [
+    "podcast",
+    "kids",
+    "motivation",
+    "holiday"
+   ],
+   "bpm": 53,
+   "description": "Tchaikovsky's piece, amped up a little bit and slightly arranged for more punch and bass.",
+   "isrc": "USUAN1100625",
+   "tags": [
+    "bright",
+    "celesta",
+    "christmas",
+    "classical",
+    "funny",
+    "orchestra"
+   ],
+   "bytes": 4800178,
+   "sha256": "e8e7797dcb7ac80431a4615c2598cf4532f76c4cc054b88a0ec3707ec857c5b1",
+   "duration": 119.9,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/dance-of-the-sugar-plum-fairy.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/dance-of-the-sugar-plum-fairy.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-it-came-upon-a-midnight-clear",
+   "title": "It Came Upon a Midnight Clear",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/It%20Came%20Upon%20a%20Midnight%20Clear.mp3",
+   "file": "music/incompetech/it-came-upon-a-midnight-clear.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"It Came Upon a Midnight Clear\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "christmas",
+   "moods": [
+    "calm",
+    "relaxed",
+    "christmas"
+   ],
+   "genres": [
+    "holiday"
+   ],
+   "instruments": [
+    "english horn",
+    "piano",
+    "violin"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "meditation",
+    "holiday"
+   ],
+   "bpm": 78,
+   "description": "You know that touching Christmas slideshow you're working on? This is for that.",
+   "isrc": "USUAN1100191",
+   "tags": [
+    "calm",
+    "christmas",
+    "english horn",
+    "holiday",
+    "piano",
+    "relaxed",
+    "violin"
+   ],
+   "bytes": 9567470,
+   "sha256": "886c5d63c54163a18f66695996cc5cc6f66450d863db9f4f1c7b4ae15c9b4c2a",
+   "duration": 265.6,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/it-came-upon-a-midnight-clear.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/it-came-upon-a-midnight-clear.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-jingle-bells",
+   "title": "Jingle Bells",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Jingle%20Bells.mp3",
+   "file": "music/incompetech/jingle-bells.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Jingle Bells\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "christmas",
+   "moods": [
+    "bright",
+    "playful",
+    "christmas"
+   ],
+   "genres": [
+    "holiday"
+   ],
+   "instruments": [
+    "clarinet",
+    "flute",
+    "horn",
+    "piano"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "kids",
+    "motivation",
+    "holiday"
+   ],
+   "bpm": 90,
+   "description": "Happy, clappy arrangement worthy of a 6th grade band program.",
+   "isrc": "USUAN1100889",
+   "tags": [
+    "bright",
+    "christmas",
+    "clarinet",
+    "flute",
+    "holiday",
+    "horn",
+    "piano",
+    "playful"
+   ],
+   "bytes": 5503168,
+   "sha256": "5f56f73694533c9f62eddc1473c8d96689d90b2d4e33a5c51507fa1ce45da9a1",
+   "duration": 142.1,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/jingle-bells.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/jingle-bells.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-krampus-workshop",
+   "title": "Krampus Workshop",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Krampus%20Workshop.mp3",
+   "file": "music/incompetech/krampus-workshop.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Krampus Workshop\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "christmas",
+   "moods": [
+    "dark",
+    "driving",
+    "funny",
+    "christmas"
+   ],
+   "genres": [
+    "holiday"
+   ],
+   "instruments": [
+    "bassoons",
+    "cello",
+    "chimes",
+    "flute",
+    "french horns",
+    "glockenspiel",
+    "percussion",
+    "trombones",
+    "trumpet",
+    "tuba",
+    "xylophone"
+   ],
+   "uses": [
+    "kids",
+    "motivation",
+    "horror",
+    "holiday"
+   ],
+   "bpm": 120,
+   "description": "Is it looking a little claymation in here, or is it just me?",
+   "isrc": "USUAN1900029",
+   "tags": [
+    "bassoons",
+    "cello",
+    "chimes",
+    "christmas",
+    "dark",
+    "driving",
+    "flute",
+    "french horns",
+    "funny",
+    "glockenspiel",
+    "holiday",
+    "percussion",
+    "trombones",
+    "trumpet",
+    "tuba",
+    "xylophone"
+   ],
+   "bytes": 3791928,
+   "sha256": "f6ca4478f5b33cc47fc2d537f5892da53c61438976623f52e1acf168e513fdfe",
+   "duration": 94.7,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/krampus-workshop.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/krampus-workshop.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-nouvelle-noel",
+   "title": "Nouvelle Noel",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Nouvelle%20Noel.mp3",
+   "file": "music/incompetech/nouvelle-noel.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Nouvelle Noel\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "christmas",
+   "moods": [
+    "bright",
+    "playful",
+    "relaxed",
+    "christmas"
+   ],
+   "genres": [
+    "jazz"
+   ],
+   "instruments": [
+    "bass",
+    "bells",
+    "drums",
+    "guitar",
+    "piano",
+    "vibraphone"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "kids",
+    "motivation",
+    "holiday"
+   ],
+   "bpm": 135,
+   "description": "I say! It is such a lovely brisk day! Aren't the horses lovely? I mean... look at all the horseness they have! They are scoring quite high on the horse-o-meters today! Nothing bovine on this street, Nay! ... ... ... Wait... I was trying to make a joke involving a horse's \"neigh\" combined with the ar",
+   "isrc": "USUAN1700072",
+   "tags": [
+    "bass",
+    "bells",
+    "bright",
+    "christmas",
+    "drums",
+    "guitar",
+    "jazz",
+    "piano",
+    "playful",
+    "relaxed",
+    "vibraphone"
+   ],
+   "bytes": 6119500,
+   "sha256": "f65bcaaffa386f4b719bc3cfc8c89e5ac19804f2fdeb94940559790c4645bff7",
+   "duration": 191.2,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/nouvelle-noel.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/nouvelle-noel.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-silent-night",
+   "title": "Silent Night",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Silent%20Night.mp3",
+   "file": "music/incompetech/silent-night.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Silent Night\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "christmas",
+   "moods": [
+    "calm",
+    "relaxed",
+    "christmas"
+   ],
+   "genres": [
+    "holiday"
+   ],
+   "instruments": [
+    "piano"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "meditation",
+    "holiday"
+   ],
+   "bpm": 72,
+   "description": "",
+   "isrc": "USUAN1100075",
+   "tags": [
+    "calm",
+    "christmas",
+    "holiday",
+    "piano",
+    "relaxed"
+   ],
+   "bytes": 5369410,
+   "sha256": "4303f2a73ffd4e872503eb0898f62d7d0b9f1f15c783fcb3495e01c7383b6c00",
+   "duration": 131.2,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/silent-night.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/silent-night.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-we-wish-you-a-merry-christmas",
+   "title": "We Wish you a Merry Christmas",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/We%20Wish%20You.mp3",
+   "file": "music/incompetech/we-wish-you-a-merry-christmas.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"We Wish you a Merry Christmas\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "christmas",
+   "moods": [
+    "bright",
+    "uplifting",
+    "christmas"
+   ],
+   "genres": [
+    "holiday"
+   ],
+   "instruments": [
+    "brass",
+    "celesta",
+    "clarinet",
+    "drum kit",
+    "glockenspiel",
+    "oboe",
+    "piano",
+    "strings",
+    "violin"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "kids",
+    "motivation",
+    "holiday"
+   ],
+   "bpm": 118,
+   "description": "Starts out slowly and accelerates as it builds.",
+   "isrc": "USUAN1100369",
+   "tags": [
+    "brass",
+    "bright",
+    "celesta",
+    "christmas",
+    "clarinet",
+    "drum kit",
+    "glockenspiel",
+    "holiday",
+    "oboe",
+    "piano",
+    "strings",
+    "uplifting",
+    "violin"
+   ],
+   "bytes": 5643283,
+   "sha256": "a4f44aa06c8f5965d7846f3985d327c10e523ed47bb4ecbb4b5789bdecb97a97",
+   "duration": 138.0,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/we-wish-you-a-merry-christmas.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/we-wish-you-a-merry-christmas.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-chase",
+   "title": "Chase",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Chase.mp3",
+   "file": "music/incompetech/chase.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Chase\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "epic-cinematic",
+   "moods": [
+    "action",
+    "driving",
+    "eerie",
+    "epic",
+    "intense"
+   ],
+   "genres": [
+    "soundtrack"
+   ],
+   "instruments": [
+    "brass",
+    "percussion",
+    "strings",
+    "woodwinds"
+   ],
+   "uses": [
+    "story",
+    "motivation",
+    "horror"
+   ],
+   "bpm": 148,
+   "description": "Several mode changes made for an action-like chase scene.",
+   "isrc": "USUAN1100399",
+   "tags": [
+    "action",
+    "brass",
+    "driving",
+    "eerie",
+    "epic",
+    "intense",
+    "percussion",
+    "soundtrack",
+    "strings",
+    "woodwinds"
+   ],
+   "bytes": 5413478,
+   "sha256": "c7a8f82e4e9c2a5a5db57a00ecc2803d283b2720244306c72b9eee56bd90a98e",
+   "duration": 132.7,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/chase.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/chase.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-clenched-teeth",
+   "title": "Clenched Teeth",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Clenched%20Teeth.mp3",
+   "file": "music/incompetech/clenched-teeth.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Clenched Teeth\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "epic-cinematic",
+   "moods": [
+    "action",
+    "driving",
+    "epic",
+    "intense"
+   ],
+   "genres": [
+    "soundtrack"
+   ],
+   "instruments": [
+    "brass",
+    "percussion",
+    "strings"
+   ],
+   "uses": [
+    "story",
+    "motivation"
+   ],
+   "bpm": 164,
+   "description": "Timpanis and strings battle with a snare drum and horns throughout this epic piece, slowly building and rising to chaos. The music is high-action and only includes a few short dramatic interludes.",
+   "isrc": "USUAN1100705",
+   "tags": [
+    "action",
+    "brass",
+    "driving",
+    "epic",
+    "intense",
+    "percussion",
+    "soundtrack",
+    "strings"
+   ],
+   "bytes": 3648195,
+   "sha256": "a113c6c93730d8517b5f851cd2ac72c1e89b8a3f61abfd62ae499c60b1456998",
+   "duration": 91.2,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/clenched-teeth.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/clenched-teeth.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-death-of-kings",
+   "title": "Death of Kings",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Death%20of%20Kings.mp3",
+   "file": "music/incompetech/death-of-kings.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Death of Kings\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "epic-cinematic",
+   "moods": [
+    "dark",
+    "epic",
+    "sad"
+   ],
+   "genres": [
+    "soundtrack"
+   ],
+   "instruments": [
+    "chimes",
+    "cimbasso",
+    "drum",
+    "french horns",
+    "trombones",
+    "trumpets"
+   ],
+   "uses": [
+    "story",
+    "motivation",
+    "horror"
+   ],
+   "bpm": 60,
+   "description": "Deep and rich piece of remembrance for brass. The melody is carried by the horn, with some help later by trumpets.",
+   "isrc": "USUAN1100876",
+   "tags": [
+    "chimes",
+    "cimbasso",
+    "dark",
+    "drum",
+    "epic",
+    "french horns",
+    "sad",
+    "soundtrack",
+    "trombones",
+    "trumpets"
+   ],
+   "bytes": 5771103,
+   "sha256": "758885b7f934885ce9b89f5ab08596032ea46ad6c49d01967e874426e2d4de02",
+   "duration": 144.2,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/death-of-kings.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/death-of-kings.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-heroic-age",
+   "title": "Heroic Age",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Heroic%20Age.mp3",
+   "file": "music/incompetech/heroic-age.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Heroic Age\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "epic-cinematic",
+   "moods": [
+    "action",
+    "bright",
+    "driving",
+    "epic"
+   ],
+   "genres": [
+    "soundtrack"
+   ],
+   "instruments": [
+    "basses",
+    "celesta",
+    "cellos",
+    "clarinets",
+    "flutes",
+    "oboes",
+    "percussion",
+    "trombones",
+    "tuba"
+   ],
+   "uses": [
+    "podcast",
+    "story",
+    "kids",
+    "motivation"
+   ],
+   "bpm": 129,
+   "description": "See title, instrumentation, tempo, and feels for description. Originally written for a live performance.",
+   "isrc": "USUAN1100848",
+   "tags": [
+    "action",
+    "basses",
+    "bright",
+    "celesta",
+    "cellos",
+    "clarinets",
+    "driving",
+    "epic",
+    "flutes",
+    "oboes",
+    "percussion",
+    "soundtrack",
+    "trombones",
+    "tuba"
+   ],
+   "bytes": 3902611,
+   "sha256": "d0bbd367ab8c6d744e18f317df12de67e1b40f8b5d1c3812d7025eec9e9a0e7b",
+   "duration": 97.5,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/heroic-age.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/heroic-age.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-hiding-your-reality",
+   "title": "Hiding Your Reality",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Hiding%20Your%20Reality.mp3",
+   "file": "music/incompetech/hiding-your-reality.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Hiding Your Reality\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "epic-cinematic",
+   "moods": [
+    "action",
+    "driving",
+    "epic"
+   ],
+   "genres": [
+    "soundtrack"
+   ],
+   "instruments": [
+    "bass trombone",
+    "brass",
+    "euphonium",
+    "french horn",
+    "percussion",
+    "synths",
+    "trombone",
+    "trumpet",
+    "tuba"
+   ],
+   "uses": [
+    "story",
+    "motivation"
+   ],
+   "bpm": 107,
+   "description": "It hurts my brain to switch from english words to symbols. Try to read these words and symbols out loud quickly: hyphen-slash-backslash/dash/-\\hyphen//hashtag_octothorpe#- Crazy, right? That had nothing to do with this piece of music. I'm just sharing.",
+   "isrc": "USUAN1700081",
+   "tags": [
+    "action",
+    "bass trombone",
+    "brass",
+    "driving",
+    "epic",
+    "euphonium",
+    "french horn",
+    "percussion",
+    "soundtrack",
+    "synths",
+    "trombone",
+    "trumpet",
+    "tuba"
+   ],
+   "bytes": 6177188,
+   "sha256": "356f56b5231efe2c0507cbba22b6e61cc2acc40582933fb82f34112d94010cf5",
+   "duration": 193.0,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/hiding-your-reality.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/hiding-your-reality.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-tectonic",
+   "title": "Tectonic",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Tectonic.mp3",
+   "file": "music/incompetech/tectonic.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Tectonic\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "epic-cinematic",
+   "moods": [
+    "dark",
+    "driving",
+    "epic",
+    "tense"
+   ],
+   "genres": [
+    "soundtrack"
+   ],
+   "instruments": [],
+   "uses": [
+    "story",
+    "motivation",
+    "horror"
+   ],
+   "bpm": null,
+   "description": "Sister piece to Earth Prelude. Battle sequence.",
+   "isrc": "USUAN1100054",
+   "tags": [
+    "dark",
+    "driving",
+    "epic",
+    "soundtrack",
+    "tense"
+   ],
+   "bytes": 2742991,
+   "sha256": "f4b7f0733dea5428694e68109c137470b8ff0289539cc304fb733e8130d20602",
+   "duration": 82.7,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/tectonic.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/tectonic.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-heart-of-the-beast",
+   "title": "Heart of the Beast",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Heart%20of%20the%20Beast.mp3",
+   "file": "music/incompetech/heart-of-the-beast.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Heart of the Beast\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "horror",
+   "moods": [
+    "dark",
+    "eerie",
+    "intense",
+    "tense"
+   ],
+   "genres": [
+    "horror"
+   ],
+   "instruments": [
+    "synth"
+   ],
+   "uses": [
+    "horror"
+   ],
+   "bpm": null,
+   "description": "Alien soundscape with touches of humanity. Low and smooth; discordant.",
+   "isrc": "USUAN1100209",
+   "tags": [
+    "dark",
+    "eerie",
+    "horror",
+    "intense",
+    "synth",
+    "tense"
+   ],
+   "bytes": 12042391,
+   "sha256": "7a3a975d0059d9cf2f59f23d52f3d3aa30d40475653876594831499e314a46de",
+   "duration": 297.4,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/heart-of-the-beast.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/heart-of-the-beast.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-nervous",
+   "title": "Nervous",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Nervous%20Piano.mp3",
+   "file": "music/incompetech/nervous.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Nervous\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "horror",
+   "moods": [
+    "mysterious",
+    "mystical",
+    "tense"
+   ],
+   "genres": [
+    "horror"
+   ],
+   "instruments": [
+    "piano"
+   ],
+   "uses": [
+    "study",
+    "story",
+    "meditation",
+    "horror"
+   ],
+   "bpm": null,
+   "description": "Background horror music. Solo piano; high and out of tune.",
+   "isrc": "USUAN1100139",
+   "tags": [
+    "horror",
+    "mysterious",
+    "mystical",
+    "piano",
+    "tense"
+   ],
+   "bytes": 4616294,
+   "sha256": "03ef0ee2a7bfb73332dd2cf72498a7adef09f42e545fdfe43a557b923b806ed0",
+   "duration": 118.2,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/nervous.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/nervous.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-shadowlands-6-the-pit",
+   "title": "Shadowlands 6 - The Pit",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Shadowlands%206%20-%20The%20Pit.mp3",
+   "file": "music/incompetech/shadowlands-6-the-pit.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Shadowlands 6 - The Pit\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "horror",
+   "moods": [
+    "eerie",
+    "intense",
+    "tense"
+   ],
+   "genres": [
+    "horror"
+   ],
+   "instruments": [
+    "synths"
+   ],
+   "uses": [
+    "horror"
+   ],
+   "bpm": null,
+   "description": "Part alien cacophony, part organic awfulness, part six of seven. If you set this piece as music you wake up to in the morning, you're going to have a bad, bad day. There will be half remembered monsters from the times of not-asleep, not-awake... whose only jobs are to induce unexpected nausea inside",
+   "isrc": "USUAN1700039",
+   "tags": [
+    "eerie",
+    "horror",
+    "intense",
+    "synths",
+    "tense"
+   ],
+   "bytes": 6595956,
+   "sha256": "499e801bb93c3d4241787c3cba054abd2af5f6f09c091c0de871966c256b0644",
+   "duration": 206.1,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/shadowlands-6-the-pit.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/shadowlands-6-the-pit.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-shadowlands-7-codex",
+   "title": "Shadowlands 7 - Codex",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Shadowlands%207%20-%20Codex.mp3",
+   "file": "music/incompetech/shadowlands-7-codex.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Shadowlands 7 - Codex\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "horror",
+   "moods": [
+    "eerie",
+    "intense",
+    "tense"
+   ],
+   "genres": [
+    "horror"
+   ],
+   "instruments": [
+    "basses",
+    "cellos",
+    "percussion",
+    "violas",
+    "violins"
+   ],
+   "uses": [
+    "horror"
+   ],
+   "bpm": null,
+   "description": "Part seven of seven. A real mind bender. This one is all acoustic, and no artificial synths, so it has an organic feel. Not Certified Organic, just normal organic. So, that means it looks better, requires less fertilizer, has fewer pests and a higher yield.",
+   "isrc": "USUAN1700040",
+   "tags": [
+    "basses",
+    "cellos",
+    "eerie",
+    "horror",
+    "intense",
+    "percussion",
+    "tense",
+    "violas",
+    "violins"
+   ],
+   "bytes": 6788215,
+   "sha256": "d8792fc750814bbaf7ca9b63cb5969446996a941cd86885c6dc8c109a976ed6a",
+   "duration": 212.1,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/shadowlands-7-codex.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/shadowlands-7-codex.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-backbay-lounge",
+   "title": "Backbay Lounge",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Backbay%20Lounge.mp3",
+   "file": "music/incompetech/backbay-lounge.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Backbay Lounge\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "jazz-lounge",
+   "moods": [
+    "bright",
+    "groovy",
+    "relaxed"
+   ],
+   "genres": [
+    "jazz"
+   ],
+   "instruments": [
+    "bass",
+    "drums",
+    "guitar",
+    "piano"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "kids",
+    "motivation"
+   ],
+   "bpm": 120,
+   "description": "This is cool. You can walk into a dinner party, grab a glass of prosecco, kiss the host, then casually defuse a large bomb one second before the timer runs out. That level of cool. Maybe you're not that cool, but if you adopt this as your personal theme tune, people will THINK you're that cool.",
+   "isrc": "USUAN1700068",
+   "tags": [
+    "bass",
+    "bright",
+    "drums",
+    "groovy",
+    "guitar",
+    "jazz",
+    "piano",
+    "relaxed"
+   ],
+   "bytes": 8531962,
+   "sha256": "9567e71a213b0026341b2c0ecd226950e7653abd235cf520fb9aee4247d74d96",
+   "duration": 266.6,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/backbay-lounge.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/backbay-lounge.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-backed-vibes-clean",
+   "title": "Backed Vibes (clean)",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Backed%20Vibes%20Clean.mp3",
+   "file": "music/incompetech/backed-vibes-clean.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Backed Vibes (clean)\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "jazz-lounge",
+   "moods": [
+    "groovy",
+    "relaxed"
+   ],
+   "genres": [
+    "jazz"
+   ],
+   "instruments": [
+    "bass",
+    "vibraphone"
+   ],
+   "uses": [
+    "podcast",
+    "study"
+   ],
+   "bpm": 103,
+   "description": "Cool background jazz sound.",
+   "isrc": "USUAN1100479",
+   "tags": [
+    "bass",
+    "groovy",
+    "jazz",
+    "relaxed",
+    "vibraphone"
+   ],
+   "bytes": 9277779,
+   "sha256": "e8dbe9ebab11de3e492fc6a95a4d9523d9a52845f289c4205569268224d521e9",
+   "duration": 228.4,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/backed-vibes-clean.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/backed-vibes-clean.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-deuces",
+   "title": "Deuces",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Deuces.mp3",
+   "file": "music/incompetech/deuces.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Deuces\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "jazz-lounge",
+   "moods": [
+    "bright",
+    "groovy",
+    "relaxed"
+   ],
+   "genres": [
+    "jazz"
+   ],
+   "instruments": [
+    "bass",
+    "drums",
+    "organ",
+    "piano"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "kids",
+    "motivation"
+   ],
+   "bpm": 190,
+   "description": "1960s club-style jazz. This pairs well with the White Russian cocktail and a Lucky Strike. Also pretty decent for establishing shots, and anything sci-fi that has a retro party.",
+   "isrc": "USUAN1700075",
+   "tags": [
+    "bass",
+    "bright",
+    "drums",
+    "groovy",
+    "jazz",
+    "organ",
+    "piano",
+    "relaxed"
+   ],
+   "bytes": 6107790,
+   "sha256": "a475a7612bc9fd9ee5af13b61bf74c10fdaae31c7d4aef8cc6e052073b3f486d",
+   "duration": 190.8,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/deuces.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/deuces.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-groove-grove",
+   "title": "Groove Grove",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Groove%20Grove.mp3",
+   "file": "music/incompetech/groove-grove.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Groove Grove\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "jazz-lounge",
+   "moods": [
+    "calm",
+    "groovy",
+    "mysterious",
+    "relaxed"
+   ],
+   "genres": [
+    "jazz"
+   ],
+   "instruments": [
+    "electric piano",
+    "percussion",
+    "synth"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "meditation"
+   ],
+   "bpm": 70,
+   "description": "Background music for ethereal storytelling. It maintains interest, without driving and usurping attention away from the story or visuals.",
+   "isrc": "USUAN1200054",
+   "tags": [
+    "calm",
+    "electric piano",
+    "groovy",
+    "jazz",
+    "mysterious",
+    "percussion",
+    "relaxed",
+    "synth"
+   ],
+   "bytes": 8232879,
+   "sha256": "e47b9c1615ad8e759c19109f487f7c484dd0785d3a66499ecd240bc492ee33b5",
+   "duration": 205.8,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/groove-grove.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/groove-grove.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-kool-kats",
+   "title": "Kool Kats",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Kool%20Kats.mp3",
+   "file": "music/incompetech/kool-kats.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Kool Kats\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "jazz-lounge",
+   "moods": [
+    "groovy",
+    "mysterious"
+   ],
+   "genres": [
+    "jazz"
+   ],
+   "instruments": [
+    "drum kit",
+    "guitar",
+    "organs",
+    "piano"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story"
+   ],
+   "bpm": 113,
+   "description": "A sort of simple lounge chill spy piece.",
+   "isrc": "USUAN1100601",
+   "tags": [
+    "drum kit",
+    "groovy",
+    "guitar",
+    "jazz",
+    "mysterious",
+    "organs",
+    "piano"
+   ],
+   "bytes": 8125616,
+   "sha256": "019ba5f2ebb617b35a1302b4907ca0b25ba5eda5a150b2f9ee33dc48b032cfcf",
+   "duration": 200.8,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/kool-kats.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/kool-kats.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-night-on-the-docks-sax",
+   "title": "Night on the Docks - Sax",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Night%20on%20the%20Docks%20-%20Sax.mp3",
+   "file": "music/incompetech/night-on-the-docks-sax.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Night on the Docks - Sax\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "jazz-lounge",
+   "moods": [
+    "dark",
+    "relaxed",
+    "sad"
+   ],
+   "genres": [
+    "jazz"
+   ],
+   "instruments": [
+    "electric piano",
+    "tenor sax"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "horror"
+   ],
+   "bpm": null,
+   "description": "Sad and smooth; Think 1950's detective film.",
+   "isrc": "USUAN1100137",
+   "tags": [
+    "dark",
+    "electric piano",
+    "jazz",
+    "relaxed",
+    "sad",
+    "tenor sax"
+   ],
+   "bytes": 5919408,
+   "sha256": "732871fa31755c4a3ae260cccbdd4044b81ad49cabf8fbb1ee0f5927d36d7d79",
+   "duration": 174.1,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/night-on-the-docks-sax.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/night-on-the-docks-sax.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-rollin-at-5",
+   "title": "Rollin at 5",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Rollin%20at%205.mp3",
+   "file": "music/incompetech/rollin-at-5.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Rollin at 5\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "jazz-lounge",
+   "moods": [
+    "driving",
+    "groovy",
+    "playful"
+   ],
+   "genres": [
+    "jazz"
+   ],
+   "instruments": [
+    "bass",
+    "drums",
+    "piano",
+    "trombone",
+    "trumpet"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "kids",
+    "motivation"
+   ],
+   "bpm": 210,
+   "description": "Acoustic version of \"Rolling at 5\".",
+   "isrc": "USUAN1400029",
+   "tags": [
+    "bass",
+    "driving",
+    "drums",
+    "groovy",
+    "jazz",
+    "piano",
+    "playful",
+    "trombone",
+    "trumpet"
+   ],
+   "bytes": 4186817,
+   "sha256": "f64025e2a3ed44e8d584e98385fe906759bcc32d7ffe7f133e0e339773647bc8",
+   "duration": 130.8,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/rollin-at-5.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/rollin-at-5.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-sidewalk-shade",
+   "title": "Sidewalk Shade",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sidewalk%20Shade.mp3",
+   "file": "music/incompetech/sidewalk-shade.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Sidewalk Shade\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "jazz-lounge",
+   "moods": [
+    "groovy",
+    "playful"
+   ],
+   "genres": [
+    "jazz"
+   ],
+   "instruments": [
+    "bass",
+    "drum kit",
+    "piano",
+    "vibraphone"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "kids"
+   ],
+   "bpm": 128,
+   "description": "Just a nice little jazz piece. A slower version is also available.",
+   "isrc": "USUAN1200103",
+   "tags": [
+    "bass",
+    "drum kit",
+    "groovy",
+    "jazz",
+    "piano",
+    "playful",
+    "vibraphone"
+   ],
+   "bytes": 6306070,
+   "sha256": "631ebc600aef0e798d3a209fc92e41125629f15e19a5ad1bd9e7039e5446ac50",
+   "duration": 157.6,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/sidewalk-shade.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/sidewalk-shade.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-airport-lounge",
+   "title": "Airport Lounge",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Airport%20Lounge.mp3",
+   "file": "music/incompetech/airport-lounge.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Airport Lounge\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "kids-fun",
+   "moods": [
+    "calm",
+    "playful",
+    "relaxed"
+   ],
+   "genres": [
+    "jazz"
+   ],
+   "instruments": [
+    "bass",
+    "drum kit",
+    "electric piano",
+    "vibraphone"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "kids",
+    "meditation"
+   ],
+   "bpm": 129,
+   "description": "Light and airy, this piece is guaranteed not to steal focus.",
+   "isrc": "USUAN1100806",
+   "tags": [
+    "bass",
+    "calm",
+    "drum kit",
+    "electric piano",
+    "jazz",
+    "playful",
+    "relaxed",
+    "vibraphone"
+   ],
+   "bytes": 12309016,
+   "sha256": "e20d316b541c72690a3b0311c9f3d40fd00717359ab7567d7df82a9316c1dec4",
+   "duration": 307.7,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/airport-lounge.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/airport-lounge.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-chee-zee-jungle",
+   "title": "Chee Zee Jungle",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Chee%20Zee%20Jungle.mp3",
+   "file": "music/incompetech/chee-zee-jungle.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Chee Zee Jungle\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "kids-fun",
+   "moods": [
+    "driving",
+    "funny",
+    "groovy",
+    "suspense"
+   ],
+   "genres": [
+    "world"
+   ],
+   "instruments": [
+    "didgeridoo",
+    "percussion",
+    "strings",
+    "voices"
+   ],
+   "uses": [
+    "podcast",
+    "story",
+    "kids",
+    "motivation"
+   ],
+   "bpm": 94,
+   "description": "Where is this jungle? I have no idea. Videogameland, I suspect.",
+   "isrc": "USUAN1100684",
+   "tags": [
+    "didgeridoo",
+    "driving",
+    "funny",
+    "groovy",
+    "percussion",
+    "strings",
+    "suspense",
+    "voices",
+    "world"
+   ],
+   "bytes": 6472129,
+   "sha256": "c33ba1d2d5400f9c8e032b7fe9940da369c0e6971b908b0d12e9a484f46c0b78",
+   "duration": 161.8,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/chee-zee-jungle.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/chee-zee-jungle.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-cyborg-ninja",
+   "title": "Cyborg Ninja",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Cyborg%20Ninja.mp3",
+   "file": "music/incompetech/cyborg-ninja.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Cyborg Ninja\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "kids-fun",
+   "moods": [
+    "action",
+    "driving",
+    "playful"
+   ],
+   "genres": [
+    "electronica"
+   ],
+   "instruments": [
+    "synths"
+   ],
+   "uses": [
+    "kids",
+    "motivation"
+   ],
+   "bpm": 160,
+   "description": "Your girlfriend has be kidnapped by ninja! Stage 1: Desert. Avoid the flaming balls and shoot cyborg ninja in the eye to win round. Retro-gaming circa 1988. I was seriously considering naming this piece \"Flaming Balls\" as that would also have been appropriate. Cyborg ninjas are just a little more '1",
+   "isrc": "USUAN1600008",
+   "tags": [
+    "action",
+    "driving",
+    "electronica",
+    "playful",
+    "synths"
+   ],
+   "bytes": 5764236,
+   "sha256": "b266d2ac6af6b295b8ac278dafc63cb6c336551b7cc3c66e824f9c1bda945f7a",
+   "duration": 180.1,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/cyborg-ninja.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/cyborg-ninja.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-hackbeat",
+   "title": "Hackbeat",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Hackbeat.mp3",
+   "file": "music/incompetech/hackbeat.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Hackbeat\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "kids-fun",
+   "moods": [
+    "funny",
+    "groovy",
+    "playful",
+    "relaxed"
+   ],
+   "genres": [
+    "latin"
+   ],
+   "instruments": [
+    "bass",
+    "drum kit",
+    "guitar"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "kids"
+   ],
+   "bpm": 80,
+   "description": "Only obliquely Latin, I didn't know how else to classify this one. No melody.",
+   "isrc": "USUAN1100805",
+   "tags": [
+    "bass",
+    "drum kit",
+    "funny",
+    "groovy",
+    "guitar",
+    "latin",
+    "playful",
+    "relaxed"
+   ],
+   "bytes": 9693630,
+   "sha256": "be06327a3578250c84c189ad89c9e6c2f8b326bf342a701775824e9cbedfea64",
+   "duration": 242.3,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/hackbeat.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/hackbeat.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-modern-jazz-samba",
+   "title": "Modern Jazz Samba",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Modern%20Jazz%20Samba.mp3",
+   "file": "music/incompetech/modern-jazz-samba.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Modern Jazz Samba\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "kids-fun",
+   "moods": [
+    "bright",
+    "driving",
+    "playful"
+   ],
+   "genres": [
+    "latin"
+   ],
+   "instruments": [
+    "acoustic guitar",
+    "bass",
+    "drum kit",
+    "flute",
+    "piano"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "kids",
+    "motivation"
+   ],
+   "bpm": 85,
+   "description": "A nice little 85 BMP piece with guitar, piano, bass, and flute. Kind of jazzy and slightly blues-y with a more rocking beat. The bass in this piece is actually a sample from an 18th century double bass. Most latin players aren't likely to be on one of these... but it was the only one I had at the ti",
+   "isrc": "USUAN1100153",
+   "tags": [
+    "acoustic guitar",
+    "bass",
+    "bright",
+    "driving",
+    "drum kit",
+    "flute",
+    "latin",
+    "piano",
+    "playful"
+   ],
+   "bytes": 6070802,
+   "sha256": "d993cbee80bba09af9c0b7eb92df80729ac68940059c6844f60e7f33f25c5bb1",
+   "duration": 248.5,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/modern-jazz-samba.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/modern-jazz-samba.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-plain-loafer",
+   "title": "Plain Loafer",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Plain%20Loafer.mp3",
+   "file": "music/incompetech/plain-loafer.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Plain Loafer\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "kids-fun",
+   "moods": [
+    "funny",
+    "playful"
+   ],
+   "genres": [
+    "unclassifiable"
+   ],
+   "instruments": [
+    "bass",
+    "conga",
+    "drum kit",
+    "guitar"
+   ],
+   "uses": [
+    "kids"
+   ],
+   "bpm": 90,
+   "description": "Sort of rock, but not. Neither is this jazz or funk... I really don't know what this is... but it is kind of fun.",
+   "isrc": "USUAN1100111",
+   "tags": [
+    "bass",
+    "conga",
+    "drum kit",
+    "funny",
+    "guitar",
+    "playful",
+    "unclassifiable"
+   ],
+   "bytes": 3585008,
+   "sha256": "3fa416338da84d8d3f243a5a8cb4e57674031c2e710dd8f2ef0f73635b12f1dd",
+   "duration": 88.1,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/plain-loafer.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/plain-loafer.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-rock-on-chicago",
+   "title": "Rock on Chicago",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Rock%20on%20Chicago.mp3",
+   "file": "music/incompetech/rock-on-chicago.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Rock on Chicago\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "kids-fun",
+   "moods": [
+    "funny"
+   ],
+   "genres": [
+    "rock"
+   ],
+   "instruments": [
+    "bass",
+    "electronic drums",
+    "guitar"
+   ],
+   "uses": [
+    "kids"
+   ],
+   "bpm": 182,
+   "description": "Wesley Willis inspired rock music. C major.",
+   "isrc": "USUAN1100093",
+   "tags": [
+    "bass",
+    "electronic drums",
+    "funny",
+    "guitar",
+    "rock"
+   ],
+   "bytes": 4076060,
+   "sha256": "6c8b7e4282d72764f62f3996fd2d441e5be2ca1d75529f81b8a49af6ca2f3a2c",
+   "duration": 99.4,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/rock-on-chicago.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/rock-on-chicago.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-townie-loop",
+   "title": "Townie Loop",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Townie%20Loop.mp3",
+   "file": "music/incompetech/townie-loop.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Townie Loop\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "kids-fun",
+   "moods": [
+    "calm",
+    "funny",
+    "relaxed"
+   ],
+   "genres": [
+    "electronica"
+   ],
+   "instruments": [
+    "drums",
+    "synths"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "kids",
+    "meditation"
+   ],
+   "bpm": 90,
+   "description": "Welcome to the town! If you have anything to sell, just put it in the box. The general store sells seeds. There is a Mountain Totem in the mountains. You can have a drink at the Iridium Bar. I need to tend to my giant melons now. That is not a euphemism. Bye!",
+   "isrc": "USUAN1800003",
+   "tags": [
+    "calm",
+    "drums",
+    "electronica",
+    "funny",
+    "relaxed",
+    "synths"
+   ],
+   "bytes": 4953400,
+   "sha256": "01ceb91565a7ff4f482484d2ef20bfcae4d83d9825ed17a42857b5768a71fbeb",
+   "duration": 154.7,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/townie-loop.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/townie-loop.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-dark-times",
+   "title": "Dark Times",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Dark%20Times.mp3",
+   "file": "music/incompetech/dark-times.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Dark Times\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "sad-emotional",
+   "moods": [
+    "dark",
+    "sad"
+   ],
+   "genres": [
+    "soundtrack"
+   ],
+   "instruments": [
+    "strings"
+   ],
+   "uses": [
+    "story",
+    "horror"
+   ],
+   "bpm": 48,
+   "description": "Deeply troubling and somber, this piece is heavy on the bass strings, especially in the last minute. The feel is very dark and funereal, and could be used to depict the beginning of the apocalypse.",
+   "isrc": "USUAN1100747",
+   "tags": [
+    "dark",
+    "sad",
+    "soundtrack",
+    "strings"
+   ],
+   "bytes": 7349969,
+   "sha256": "8c05efb338ee645a1f630c7d2aafbb64ac04ad1fee79c6325eafe22f3ad7f15f",
+   "duration": 183.7,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/dark-times.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/dark-times.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-despair-and-triumph",
+   "title": "Despair and Triumph",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Despair%20and%20Triumph.mp3",
+   "file": "music/incompetech/despair-and-triumph.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Despair and Triumph\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "sad-emotional",
+   "moods": [
+    "dark",
+    "mysterious",
+    "sad"
+   ],
+   "genres": [
+    "contemporary"
+   ],
+   "instruments": [
+    "piano"
+   ],
+   "uses": [
+    "study",
+    "story",
+    "horror"
+   ],
+   "bpm": 43,
+   "description": "Very moody digitally altered piano.",
+   "isrc": "USUAN1400012",
+   "tags": [
+    "contemporary",
+    "dark",
+    "mysterious",
+    "piano",
+    "sad"
+   ],
+   "bytes": 11431326,
+   "sha256": "957526b21ae4859557c5b1082a81ace57c6d01cac7055c0a0f63e4f3ea82c46c",
+   "duration": 285.7,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/despair-and-triumph.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/despair-and-triumph.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-memory-lane",
+   "title": "Memory Lane",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Memory%20Lane.mp3",
+   "file": "music/incompetech/memory-lane.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Memory Lane\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "sad-emotional",
+   "moods": [
+    "calm",
+    "dark",
+    "relaxed",
+    "sad"
+   ],
+   "genres": [
+    "contemporary"
+   ],
+   "instruments": [
+    "piano"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "meditation",
+    "horror"
+   ],
+   "bpm": 89,
+   "description": "Casual, quiet piano solo for those introspective moments. 3/4",
+   "isrc": "USUAN1100485",
+   "tags": [
+    "calm",
+    "contemporary",
+    "dark",
+    "piano",
+    "relaxed",
+    "sad"
+   ],
+   "bytes": 4553268,
+   "sha256": "cab5d485de17e61b5b78dfa06a739b20a0d5edc61c9f78df5a239d0988c49138",
+   "duration": 111.0,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/memory-lane.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/memory-lane.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-on-the-passing-of-time",
+   "title": "On the Passing of Time",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/On%20the%20Passing%20of%20Time.mp3",
+   "file": "music/incompetech/on-the-passing-of-time.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"On the Passing of Time\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "sad-emotional",
+   "moods": [
+    "calm",
+    "mystical",
+    "sad"
+   ],
+   "genres": [
+    "contemporary"
+   ],
+   "instruments": [
+    "piano"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "meditation"
+   ],
+   "bpm": 80,
+   "description": "A slow somber piano piece. Small amount of reverb to the notes.  Ends early, last 20 seconds dedicated to a fadeout.",
+   "isrc": "USUAN1100520",
+   "tags": [
+    "calm",
+    "contemporary",
+    "mystical",
+    "piano",
+    "sad"
+   ],
+   "bytes": 9132874,
+   "sha256": "fbe37e23c09588c36271c554f6fa2c7c11bd0a65fc2f6e6ea4de2642da022440",
+   "duration": 225.0,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/on-the-passing-of-time.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/on-the-passing-of-time.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-reign",
+   "title": "Reign",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Reign.mp3",
+   "file": "music/incompetech/reign.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Reign\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "sad-emotional",
+   "moods": [
+    "calm",
+    "epic",
+    "sad",
+    "uplifting"
+   ],
+   "genres": [
+    "soundtrack"
+   ],
+   "instruments": [
+    "basses",
+    "choir",
+    "drum kit",
+    "french horn",
+    "guitar",
+    "piano"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "meditation",
+    "motivation"
+   ],
+   "bpm": null,
+   "description": "A piece in two parts. Slow piano intro, and then a giant power section at 1 minute 50 seconds in. Written for an animation piece.",
+   "isrc": "USUAN1100373",
+   "tags": [
+    "basses",
+    "calm",
+    "choir",
+    "drum kit",
+    "epic",
+    "french horn",
+    "guitar",
+    "piano",
+    "sad",
+    "soundtrack",
+    "uplifting"
+   ],
+   "bytes": 6625699,
+   "sha256": "0379cc92642bd6961e6f7ee80f373b4c19321fb816fbe83df9f88e19807a553b",
+   "duration": 162.6,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/reign.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/reign.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-trio-for-piano-violin-and-viola",
+   "title": "Trio for Piano Violin and Viola",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Trio%20for%20Piano%20Violin%20and%20Viola.mp3",
+   "file": "music/incompetech/trio-for-piano-violin-and-viola.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Trio for Piano Violin and Viola\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "sad-emotional",
+   "moods": [
+    "dark",
+    "relaxed",
+    "sad"
+   ],
+   "genres": [
+    "classical"
+   ],
+   "instruments": [
+    "piano",
+    "viola",
+    "violin"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "horror"
+   ],
+   "bpm": 104,
+   "description": "An unfinished trio in 2 main parts.",
+   "isrc": "USUAN1100460",
+   "tags": [
+    "classical",
+    "dark",
+    "piano",
+    "relaxed",
+    "sad",
+    "viola",
+    "violin"
+   ],
+   "bytes": 3397239,
+   "sha256": "97fe8fe121a132b2a38c76ee311ae0b15045f47405b77a68ff2f2aa5d6d95a66",
+   "duration": 84.9,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/trio-for-piano-violin-and-viola.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/trio-for-piano-violin-and-viola.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-atlantean-twilight",
+   "title": "Atlantean Twilight",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Atlantean%20Twilight.mp3",
+   "file": "music/incompetech/atlantean-twilight.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Atlantean Twilight\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "story-mystery",
+   "moods": [
+    "mystical",
+    "sad"
+   ],
+   "genres": [
+    "contemporary"
+   ],
+   "instruments": [
+    "piano"
+   ],
+   "uses": [
+    "study",
+    "story",
+    "meditation"
+   ],
+   "bpm": 44,
+   "description": "Time ticks away in a far away place in this little new-age piece.",
+   "isrc": "USUAN1100322",
+   "tags": [
+    "contemporary",
+    "mystical",
+    "piano",
+    "sad"
+   ],
+   "bytes": 5579577,
+   "sha256": "a3ad327aa9661d95ab701860e5583dac2a59b710af6d204316ff6043ee7205d3",
+   "duration": 171.2,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/atlantean-twilight.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/atlantean-twilight.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-awkward-meeting",
+   "title": "Awkward Meeting",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Awkward%20Meeting.mp3",
+   "file": "music/incompetech/awkward-meeting.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Awkward Meeting\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "story-mystery",
+   "moods": [
+    "dark",
+    "eerie",
+    "intense",
+    "mysterious",
+    "mystical",
+    "suspense",
+    "tense"
+   ],
+   "genres": [
+    "horror"
+   ],
+   "instruments": [
+    "piano",
+    "synths"
+   ],
+   "uses": [
+    "study",
+    "story",
+    "meditation",
+    "horror"
+   ],
+   "bpm": null,
+   "description": "Simple piano theme drives this, but it sometimes buried under unnerving textures. 7/4 time, rubato.",
+   "isrc": "USUAN1100574",
+   "tags": [
+    "dark",
+    "eerie",
+    "horror",
+    "intense",
+    "mysterious",
+    "mystical",
+    "piano",
+    "suspense",
+    "synths",
+    "tense"
+   ],
+   "bytes": 3457298,
+   "sha256": "a0dae90e331886616cf577c5ceece05f0ebc2a3805e6fb554499cfe8961c02de",
+   "duration": 84.1,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/awkward-meeting.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/awkward-meeting.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-ossuary-2-turn",
+   "title": "Ossuary 2 - Turn",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Ossuary%202%20-%20Turn.mp3",
+   "file": "music/incompetech/ossuary-2-turn.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Ossuary 2 - Turn\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "story-mystery",
+   "moods": [
+    "calm",
+    "dark",
+    "eerie",
+    "mysterious",
+    "relaxed"
+   ],
+   "genres": [
+    "unclassifiable"
+   ],
+   "instruments": [
+    "percussion",
+    "synths"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "meditation",
+    "horror"
+   ],
+   "bpm": 80,
+   "description": "At the intersection of relaxation and horror lies \"The Ossuary\".  Part 2: Turn More aggressive than part one, something is most certainly going down here. Perfect for; seeing how far down the rabbit hole goes, Loch Ness expeditions, videos about giant capacitors, dinner parties where you want everyo",
+   "isrc": "USUAN1500044",
+   "tags": [
+    "calm",
+    "dark",
+    "eerie",
+    "mysterious",
+    "percussion",
+    "relaxed",
+    "synths",
+    "unclassifiable"
+   ],
+   "bytes": 9219947,
+   "sha256": "ed2ece9640d631d440417ee419537f610f71d39f38740eb77afef619b9fc5567",
+   "duration": 288.1,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/ossuary-2-turn.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/ossuary-2-turn.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-rising",
+   "title": "Rising",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Rising.mp3",
+   "file": "music/incompetech/rising.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Rising\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "story-mystery",
+   "moods": [
+    "groovy",
+    "intense",
+    "suspense"
+   ],
+   "genres": [
+    "modern"
+   ],
+   "instruments": [
+    "choir",
+    "percussion",
+    "synths"
+   ],
+   "uses": [
+    "podcast",
+    "story"
+   ],
+   "bpm": 84,
+   "description": "Heavy on the percussion, this piece is dominated by the rising strings in the second minute, which quickly give way to an ethereal alto chorus. The accompaniment rises together before dissipating. Loopable.",
+   "isrc": "USUAN1100754",
+   "tags": [
+    "choir",
+    "groovy",
+    "intense",
+    "modern",
+    "percussion",
+    "suspense",
+    "synths"
+   ],
+   "bytes": 6061587,
+   "sha256": "7f2ca07cd183685f36e6cfa351c715e3029ef828fc662b58b5866f990709ac0f",
+   "duration": 151.5,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/rising.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/rising.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-satiate-only-strings",
+   "title": "Satiate - only strings",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Satiate%20Strings.mp3",
+   "file": "music/incompetech/satiate-only-strings.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Satiate - only strings\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "story-mystery",
+   "moods": [
+    "dark",
+    "intense",
+    "suspense",
+    "tense"
+   ],
+   "genres": [
+    "soundtrack"
+   ],
+   "instruments": [
+    "strings"
+   ],
+   "uses": [
+    "story",
+    "horror"
+   ],
+   "bpm": 90,
+   "description": "I piece unlike anything I've done, this is a very difficult piece to process emotionally. It just never lets the audience rest. There are a lot of uses for this sort of piece.  It is also available with percussion, which gives it a more immediacy.",
+   "isrc": "USUAN1200056",
+   "tags": [
+    "dark",
+    "intense",
+    "soundtrack",
+    "strings",
+    "suspense",
+    "tense"
+   ],
+   "bytes": 7684310,
+   "sha256": "c960fd128673db9ea12c01f92814300697aadf68728a87b591bf781847f7c6ac",
+   "duration": 192.1,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/satiate-only-strings.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/satiate-only-strings.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-seven-march",
+   "title": "Seven March",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Seven%20March.mp3",
+   "file": "music/incompetech/seven-march.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Seven March\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "story-mystery",
+   "moods": [
+    "dark",
+    "mysterious",
+    "tense"
+   ],
+   "genres": [
+    "horror"
+   ],
+   "instruments": [
+    "percussion",
+    "synths"
+   ],
+   "uses": [
+    "story",
+    "horror"
+   ],
+   "bpm": null,
+   "description": "A piece in 7/8 time with 2-measure phrasing. Very dark and round sounding with randomly placed percussions.",
+   "isrc": "USUAN1100379",
+   "tags": [
+    "dark",
+    "horror",
+    "mysterious",
+    "percussion",
+    "synths",
+    "tense"
+   ],
+   "bytes": 5244361,
+   "sha256": "7128334a893748b9007e4561d0ed3c4336541f5c4c055f13b15d411cdf788917",
+   "duration": 128.3,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/seven-march.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/seven-march.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-spy-groove",
+   "title": "Spy Groove",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Spy%20Groove.mp3",
+   "file": "music/incompetech/spy-groove.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Spy Groove\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "story-mystery",
+   "moods": [
+    "dark",
+    "groovy",
+    "intense",
+    "mysterious"
+   ],
+   "genres": [
+    "soundtrack"
+   ],
+   "instruments": [
+    "bass",
+    "cellos",
+    "conga",
+    "drum kit",
+    "electric piano",
+    "organ",
+    "violin"
+   ],
+   "uses": [
+    "podcast",
+    "story",
+    "horror"
+   ],
+   "bpm": 115,
+   "description": "Aggressive drum kit sound with warmth added by a B3 organ and conga. Modulation in the final repeat.",
+   "isrc": "USUAN1100372",
+   "tags": [
+    "bass",
+    "cellos",
+    "conga",
+    "dark",
+    "drum kit",
+    "electric piano",
+    "groovy",
+    "intense",
+    "mysterious",
+    "organ",
+    "soundtrack",
+    "violin"
+   ],
+   "bytes": 7354025,
+   "sha256": "2e6786281b9641c2a3d71f2a8f513b73aff7c86b2c97999f5eb7a3f7948c0a17",
+   "duration": 180.8,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/spy-groove.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/spy-groove.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-stay-the-course",
+   "title": "Stay the Course",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Stay%20the%20Course.mp3",
+   "file": "music/incompetech/stay-the-course.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Stay the Course\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "story-mystery",
+   "moods": [
+    "calm",
+    "dark",
+    "suspense"
+   ],
+   "genres": [
+    "soundtrack"
+   ],
+   "instruments": [
+    "percussion",
+    "synths"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "meditation",
+    "horror"
+   ],
+   "bpm": 60,
+   "description": "A low rumble marks the seconds. Out of nowhere comes nothing! Just a continuous ominous force, never seen. You can see the ominous force if you sprinkle some iron filing around.",
+   "isrc": "USUAN1900018",
+   "tags": [
+    "calm",
+    "dark",
+    "percussion",
+    "soundtrack",
+    "suspense",
+    "synths"
+   ],
+   "bytes": 10886709,
+   "sha256": "f7a2eefd36878a811fa479af45bd9e3efc433dd312366ba7c5ba69e493cf3321",
+   "duration": 272.1,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/stay-the-course.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/stay-the-course.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-thinking-music",
+   "title": "Thinking Music",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Thinking%20Music.mp3",
+   "file": "music/incompetech/thinking-music.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Thinking Music\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "story-mystery",
+   "moods": [
+    "dark",
+    "funny",
+    "suspense"
+   ],
+   "genres": [
+    "soundtrack"
+   ],
+   "instruments": [
+    "cello",
+    "harp",
+    "viola",
+    "violin"
+   ],
+   "uses": [
+    "story",
+    "kids",
+    "horror"
+   ],
+   "bpm": 125,
+   "description": "Comedic \"hard thinking\" music. Chances are you won't need the entire piece if you are making a film. I made it so you can cut it up into different sounding sections of various seriousness. If you're using it for a video game, everything flows together well, or you could loop sections that work best.",
+   "isrc": "USUAN1600060",
+   "tags": [
+    "cello",
+    "dark",
+    "funny",
+    "harp",
+    "soundtrack",
+    "suspense",
+    "viola",
+    "violin"
+   ],
+   "bytes": 6270785,
+   "sha256": "891d3ea47e443e590a6562a1e2bff37c8830817b3cdf604091f92bfe87e5cc4f",
+   "duration": 195.9,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/thinking-music.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/thinking-music.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-very-low-note",
+   "title": "Very Low Note",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Very%20Low%20Note.mp3",
+   "file": "music/incompetech/very-low-note.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Very Low Note\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "story-mystery",
+   "moods": [
+    "dark",
+    "eerie",
+    "mysterious",
+    "tense"
+   ],
+   "genres": [
+    "horror"
+   ],
+   "instruments": [
+    "synth"
+   ],
+   "uses": [
+    "story",
+    "horror"
+   ],
+   "bpm": null,
+   "description": "Just a very low note (a C) to be used as a bed for any very unnerving and dark scene.",
+   "isrc": "USUAN1100378",
+   "tags": [
+    "dark",
+    "eerie",
+    "horror",
+    "mysterious",
+    "synth",
+    "tense"
+   ],
+   "bytes": 3426981,
+   "sha256": "8a2471b013624b6641970f4e69f4754a71414641deb2e1ba91bc1710449edaa4",
+   "duration": 83.1,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/very-low-note.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/very-low-note.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-back-on-track",
+   "title": "Back on Track",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Back%20on%20Track.mp3",
+   "file": "music/incompetech/back-on-track.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Back on Track\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "uplifting",
+   "moods": [
+    "bright",
+    "groovy"
+   ],
+   "genres": [
+    "latin"
+   ],
+   "instruments": [
+    "bass",
+    "conga",
+    "drum kit",
+    "shakers"
+   ],
+   "uses": [
+    "podcast",
+    "kids",
+    "motivation"
+   ],
+   "bpm": 120,
+   "description": "A percussion-loaded piece with a cut out in the middle for dialog (or whatever you like).",
+   "isrc": "USUAN1100426",
+   "tags": [
+    "bass",
+    "bright",
+    "conga",
+    "drum kit",
+    "groovy",
+    "latin",
+    "shakers"
+   ],
+   "bytes": 3248121,
+   "sha256": "4ea1e42e3fbed70a2756fa931f64014a5a0f6ccdaea645a732a974cf9bc8daed",
+   "duration": 78.6,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/back-on-track.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/back-on-track.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-bushwick-tarantella-loop",
+   "title": "Bushwick Tarantella Loop",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Bushwick%20Tarantella%20Loop.mp3",
+   "file": "music/incompetech/bushwick-tarantella-loop.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Bushwick Tarantella Loop\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "uplifting",
+   "moods": [
+    "bright",
+    "funny",
+    "playful"
+   ],
+   "genres": [
+    "world"
+   ],
+   "instruments": [
+    "accordion",
+    "bass",
+    "clarinet",
+    "guitar",
+    "percussion"
+   ],
+   "uses": [
+    "podcast",
+    "kids",
+    "motivation"
+   ],
+   "bpm": 215,
+   "description": "An Italian piece that was made nowhere near Italy. Fast, bright and fun! A longer non-looping version is available.",
+   "isrc": "USUAN1300003",
+   "tags": [
+    "accordion",
+    "bass",
+    "bright",
+    "clarinet",
+    "funny",
+    "guitar",
+    "percussion",
+    "playful",
+    "world"
+   ],
+   "bytes": 3219190,
+   "sha256": "3ea8572ca2711b88daf2c6ff47b3b32e75748bdc2660b80e1331a1ee33a0c0ad",
+   "duration": 80.4,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/bushwick-tarantella-loop.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/bushwick-tarantella-loop.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-cipher",
+   "title": "Cipher",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Cipher2.mp3",
+   "file": "music/incompetech/cipher.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Cipher\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "uplifting",
+   "moods": [
+    "bright",
+    "groovy",
+    "uplifting"
+   ],
+   "genres": [
+    "electronica"
+   ],
+   "instruments": [
+    "electric piano",
+    "percussion",
+    "strings",
+    "synths"
+   ],
+   "uses": [
+    "podcast",
+    "kids",
+    "motivation"
+   ],
+   "bpm": 150,
+   "description": "I've been told this is R&B, but could be a few other things. It is certainly pretty neat. Warning: Very sticky hook.",
+   "isrc": "USUAN1100844",
+   "tags": [
+    "bright",
+    "electric piano",
+    "electronica",
+    "groovy",
+    "percussion",
+    "strings",
+    "synths",
+    "uplifting"
+   ],
+   "bytes": 9252699,
+   "sha256": "d3d0614535a61d748e2fd8d5117fc4d781022a7624794802a2462d8af3fdd522",
+   "duration": 231.3,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/cipher.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/cipher.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-fig-leaf-rag",
+   "title": "Fig Leaf Rag",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Fig%20Leaf%20Rag.mp3",
+   "file": "music/incompetech/fig-leaf-rag.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Fig Leaf Rag\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "uplifting",
+   "moods": [
+    "bright",
+    "playful"
+   ],
+   "genres": [
+    "silent-film"
+   ],
+   "instruments": [
+    "piano"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "kids",
+    "motivation"
+   ],
+   "bpm": 85,
+   "description": "The classic ragtime ditty of Scott Joplin, perfect for a silent film of whimsy and humor. The piece begins with a short intro, then plays the bouncy rhythm of with a bright plodding beat. At the end of the third minute, the pace quickens, and leads into a darker refrain, but the jolly melody returns",
+   "isrc": "USUAN1100701",
+   "tags": [
+    "bright",
+    "piano",
+    "playful",
+    "silent-film"
+   ],
+   "bytes": 8361806,
+   "sha256": "c0ca916e86f0a2b49d234fbe1a0269470468e13fa02cd5d72c8c375ee93968fa",
+   "duration": 209.0,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/fig-leaf-rag.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/fig-leaf-rag.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-flying-kerfuffle",
+   "title": "Flying Kerfuffle",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Flying%20Kerfuffle.mp3",
+   "file": "music/incompetech/flying-kerfuffle.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Flying Kerfuffle\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "uplifting",
+   "moods": [
+    "bright",
+    "playful",
+    "uplifting"
+   ],
+   "genres": [
+    "polka"
+   ],
+   "instruments": [
+    "synths"
+   ],
+   "uses": [
+    "podcast",
+    "kids",
+    "motivation"
+   ],
+   "bpm": 144,
+   "description": "Happy happy, happy happiness. Happier, happiest? Happy. Now that the word has lost all meaning, take a listen to this thing. It is dripping with joy. Ever see a sad person on a jetski? Of course not. It isn't possible. Similarly, you can't listen to this and be sad. No Mortal Can! You can be angry a",
+   "isrc": "USUAN1800020",
+   "tags": [
+    "bright",
+    "playful",
+    "polka",
+    "synths",
+    "uplifting"
+   ],
+   "bytes": 10006904,
+   "sha256": "310e88de5d00c7f21182405adb28042d39bdab50ee87ca11e013b9134b7dd5d1",
+   "duration": 250.1,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/flying-kerfuffle.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/flying-kerfuffle.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-nonstop",
+   "title": "Nonstop",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Nonstop.mp3",
+   "file": "music/incompetech/nonstop.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Nonstop\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "uplifting",
+   "moods": [
+    "driving",
+    "groovy",
+    "uplifting"
+   ],
+   "genres": [
+    "unclassifiable"
+   ],
+   "instruments": [
+    "guitar",
+    "percussion",
+    "synths"
+   ],
+   "uses": [
+    "podcast",
+    "motivation"
+   ],
+   "bpm": 128,
+   "description": "From what I can tell, this piece has no genre... it is an odd mix of a few things, but not enough of any one of them to be considered a member of that group. So, when you find a new critter which is certainly a new species... likely a new genus... probably a new family... and seriously might be a or",
+   "isrc": "USUAN1600042",
+   "tags": [
+    "driving",
+    "groovy",
+    "guitar",
+    "percussion",
+    "synths",
+    "unclassifiable",
+    "uplifting"
+   ],
+   "bytes": 6124486,
+   "sha256": "2f2cef2f811dc267f958e483fa17211a3f7efcd93535adfd865ce3224f9b9b7c",
+   "duration": 191.3,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/nonstop.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/nonstop.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-paradise-found",
+   "title": "Paradise Found",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Paradise_Found.mp3",
+   "file": "music/incompetech/paradise-found.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Paradise Found\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "uplifting",
+   "moods": [
+    "bright",
+    "groovy",
+    "playful"
+   ],
+   "genres": [
+    "world"
+   ],
+   "instruments": [
+    "percussion",
+    "steel drum",
+    "synths"
+   ],
+   "uses": [
+    "podcast",
+    "kids",
+    "motivation"
+   ],
+   "bpm": 105,
+   "description": "This piece of music never stops smiling. It is a happy, dancy, and never over-the-top party opener! The bass will move people. I found the \"Tropical House\" genre on some AI music site, and put this together. Overall, I'm a fan!",
+   "isrc": "USUAN2300000",
+   "tags": [
+    "bright",
+    "groovy",
+    "percussion",
+    "playful",
+    "steel drum",
+    "synths",
+    "world"
+   ],
+   "bytes": 3751848,
+   "sha256": "7ea20dd113983ecaab67f774da1f0699114b3a6f93a386c202b977a2cb9e00a2",
+   "duration": 187.5,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/paradise-found.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/paradise-found.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-peppy-pepe",
+   "title": "Peppy Pepe",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Peppy%20Pepe.mp3",
+   "file": "music/incompetech/peppy-pepe.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Peppy Pepe\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "uplifting",
+   "moods": [
+    "bright",
+    "playful"
+   ],
+   "genres": [
+    "latin"
+   ],
+   "instruments": [],
+   "uses": [
+    "podcast",
+    "kids",
+    "motivation"
+   ],
+   "bpm": 124,
+   "description": "Hideously happy Latin piece. Nice trombone solo. Lots of auxiliary percussion.",
+   "isrc": "USUAN1100115",
+   "tags": [
+    "bright",
+    "latin",
+    "playful"
+   ],
+   "bytes": 3926040,
+   "sha256": "3dac8d1055026341345b196a56b0a94f4480f304e87de550d25805e36a0b6fcb",
+   "duration": 158.8,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/peppy-pepe.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/peppy-pepe.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-rainbows",
+   "title": "Rainbows",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Rainbows.mp3",
+   "file": "music/incompetech/rainbows.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Rainbows\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "uplifting",
+   "moods": [
+    "bright",
+    "calm",
+    "groovy"
+   ],
+   "genres": [
+    "soundtrack"
+   ],
+   "instruments": [
+    "cello",
+    "drums",
+    "marimba",
+    "percussion",
+    "ukulele"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "kids",
+    "meditation",
+    "motivation"
+   ],
+   "bpm": 110,
+   "description": "Light and refreshing as a summer's day! I really just should lift ad copy for laundry detergent and fabric softener for this one. Springtime Fresh Scent! Pure and Simple! Brightens! Gentle on Fabrics! Great Value! Easy-pour Bottle! Marimbas!",
+   "isrc": "USUAN1600063",
+   "tags": [
+    "bright",
+    "calm",
+    "cello",
+    "drums",
+    "groovy",
+    "marimba",
+    "percussion",
+    "soundtrack",
+    "ukulele"
+   ],
+   "bytes": 7021434,
+   "sha256": "71bd8b3f78187c44cc8da14783f7ebb14a6f122307e6622c3f449bdc03eae4b6",
+   "duration": 219.4,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/rainbows.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/rainbows.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-shiny-tech",
+   "title": "Shiny Tech",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Shiny%20Tech.mp3",
+   "file": "music/incompetech/shiny-tech.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Shiny Tech\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "uplifting",
+   "moods": [
+    "action",
+    "bright",
+    "driving",
+    "intense",
+    "uplifting"
+   ],
+   "genres": [
+    "electronica"
+   ],
+   "instruments": [],
+   "uses": [
+    "podcast",
+    "kids",
+    "motivation"
+   ],
+   "bpm": 138,
+   "description": "Electronica (techo-pop dance). This is a fast and energetic piece polished almost to a fault. Lots of synth, and a happy clave. Think fashion show runway. Works best loud, works also not so loud.",
+   "isrc": "USUAN1100078",
+   "tags": [
+    "action",
+    "bright",
+    "driving",
+    "electronica",
+    "intense",
+    "uplifting"
+   ],
+   "bytes": 9014582,
+   "sha256": "1889779e953b392ae07c57219066e2a14407e796eaa5a167da5cea6fc622d357",
+   "duration": 222.7,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/shiny-tech.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/shiny-tech.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-theme-for-harold-var-3",
+   "title": "Theme for Harold (var. 3)",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Theme%20for%20Harold%20var%203.mp3",
+   "file": "music/incompetech/theme-for-harold-var-3.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Theme for Harold (var. 3)\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "uplifting",
+   "moods": [
+    "bright",
+    "funny",
+    "playful"
+   ],
+   "genres": [
+    "electronica"
+   ],
+   "instruments": [
+    "synths"
+   ],
+   "uses": [
+    "podcast",
+    "kids",
+    "motivation"
+   ],
+   "bpm": 178,
+   "description": "Simple simple 8-bit theme. This is the fastest \"Boss Level\" version of the three. It was originally written by a puppet, so mostly black keys, which are easier for a puppet to play.",
+   "isrc": "USUAN1200010",
+   "tags": [
+    "bright",
+    "electronica",
+    "funny",
+    "playful",
+    "synths"
+   ],
+   "bytes": 3059600,
+   "sha256": "d0966e6b2203091b886678db78d7a0c81861914ef8aa8bd0817a57fa020ef942",
+   "duration": 76.4,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/theme-for-harold-var-3.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/theme-for-harold-var-3.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-voice-over-under",
+   "title": "Voice Over Under",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Voice%20Over%20Under.mp3",
+   "file": "music/incompetech/voice-over-under.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Voice Over Under\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "uplifting",
+   "moods": [
+    "bright",
+    "playful"
+   ],
+   "genres": [
+    "electronica"
+   ],
+   "instruments": [
+    "percussion",
+    "synths"
+   ],
+   "uses": [
+    "podcast",
+    "kids",
+    "motivation"
+   ],
+   "bpm": 135,
+   "description": "This is a piece of music classified as \"GNDN\". Goes Nowhere. Does Nothing. It sort of sits there and just repeats mild variants. There isn't even an ending.  Yet, this was all on purpose. This piece was designed for keeping energy in news reports or review segments where there is a lot of talking. T",
+   "isrc": "USUAN1600001",
+   "tags": [
+    "bright",
+    "electronica",
+    "percussion",
+    "playful",
+    "synths"
+   ],
+   "bytes": 6319297,
+   "sha256": "11662d206275949f8fcd3555b8448c00c9c952cf5eb9c0698a853a23b0e78265",
+   "duration": 197.4,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/voice-over-under.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/voice-over-under.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-expeditionary",
+   "title": "Expeditionary",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Expeditionary.mp3",
+   "file": "music/incompetech/expeditionary.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Expeditionary\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "world-calm",
+   "moods": [
+    "groovy",
+    "mysterious",
+    "mystical",
+    "relaxed",
+    "tense"
+   ],
+   "genres": [
+    "world"
+   ],
+   "instruments": [
+    "basses",
+    "flute",
+    "kalimba",
+    "percussion"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "meditation",
+    "horror"
+   ],
+   "bpm": 114,
+   "description": "A sort of African/European salad mix of sounds.",
+   "isrc": "USUAN1100436",
+   "tags": [
+    "basses",
+    "flute",
+    "groovy",
+    "kalimba",
+    "mysterious",
+    "mystical",
+    "percussion",
+    "relaxed",
+    "tense",
+    "world"
+   ],
+   "bytes": 7713726,
+   "sha256": "eb0f81a7d8f10f57e824e1554b0839f3682e099df75bbd62b0582fa5e18e661c",
+   "duration": 189.5,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/expeditionary.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/expeditionary.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-mystery-bazaar",
+   "title": "Mystery Bazaar",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Mystery%20Bazaar.mp3",
+   "file": "music/incompetech/mystery-bazaar.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Mystery Bazaar\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "world-calm",
+   "moods": [
+    "calm",
+    "dark",
+    "mysterious"
+   ],
+   "genres": [
+    "world"
+   ],
+   "instruments": [
+    "percussion",
+    "santur",
+    "strings"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story",
+    "meditation",
+    "horror"
+   ],
+   "bpm": 75,
+   "description": "Well met, traveller! Come warm by my brazier... Is that a Djinn in your pocket, or are you just happy to see me? Hah! I have a joke with you! ...unless it is a djinn - then you must leave immediately! ...unless that would offend the djinn - then you must stay! ...unless the djinn is going to kill me",
+   "isrc": "USUAN1700005",
+   "tags": [
+    "calm",
+    "dark",
+    "mysterious",
+    "percussion",
+    "santur",
+    "strings",
+    "world"
+   ],
+   "bytes": 5072914,
+   "sha256": "c4cd13a22b5bcf2191e2de0f8c30b94751987ee47ffcaff7bd9b76a4f81305d0",
+   "duration": 158.5,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/mystery-bazaar.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/mystery-bazaar.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-suonatore-di-liuto",
+   "title": "Suonatore di Liuto",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Suonatore%20di%20Liuto.mp3",
+   "file": "music/incompetech/suonatore-di-liuto.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Suonatore di Liuto\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "world-calm",
+   "moods": [
+    "mysterious",
+    "relaxed"
+   ],
+   "genres": [
+    "world"
+   ],
+   "instruments": [
+    "lute"
+   ],
+   "uses": [
+    "podcast",
+    "study",
+    "story"
+   ],
+   "bpm": 70,
+   "description": "Simple little background lute piece.",
+   "isrc": "USUAN1400023",
+   "tags": [
+    "lute",
+    "mysterious",
+    "relaxed",
+    "world"
+   ],
+   "bytes": 4625703,
+   "sha256": "4818a52a5605300abed84bae967fb8e25af7eabd6f5b3c56cc7e1cfebfa96b44",
+   "duration": 144.5,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/suonatore-di-liuto.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/suonatore-di-liuto.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-temple-of-the-manes",
+   "title": "Temple of the Manes",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Temple%20of%20the%20Manes.mp3",
+   "file": "music/incompetech/temple-of-the-manes.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Temple of the Manes\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "world-calm",
+   "moods": [
+    "dark",
+    "mystical"
+   ],
+   "genres": [
+    "world"
+   ],
+   "instruments": [
+    "flutes",
+    "harps",
+    "oboe",
+    "percussion"
+   ],
+   "uses": [
+    "story",
+    "meditation",
+    "horror"
+   ],
+   "bpm": 108,
+   "description": "An ancient-feeling modal piece.",
+   "isrc": "USUAN1100053",
+   "tags": [
+    "dark",
+    "flutes",
+    "harps",
+    "mystical",
+    "oboe",
+    "percussion",
+    "world"
+   ],
+   "bytes": 6336457,
+   "sha256": "21774c909751472f4fb6621e4cb5d0ac29ae535c4768392d13d2917f7107bcbf",
+   "duration": 155.6,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/temple-of-the-manes.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/temple-of-the-manes.mp3",
+   "vocals": false,
+   "modified": false
+  },
+  {
+   "id": "incompetech-thunderhead",
+   "title": "Thunderhead",
+   "artist": "Kevin MacLeod",
+   "source": "incompetech",
+   "sourcePage": "https://incompetech.com/music/royalty-free/music.html",
+   "originalUrl": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Thunderhead.mp3",
+   "file": "music/incompetech/thunderhead.mp3",
+   "license": "CC-BY-4.0",
+   "attribution": "\"Thunderhead\" Kevin MacLeod (incompetech.com) — Licensed under Creative Commons: By Attribution 4.0 — https://creativecommons.org/licenses/by/4.0/",
+   "collection": "world-calm",
+   "moods": [
+    "dark",
+    "mystical"
+   ],
+   "genres": [
+    "world"
+   ],
+   "instruments": [
+    "drums",
+    "rattles",
+    "shakers"
+   ],
+   "uses": [
+    "story",
+    "meditation",
+    "horror"
+   ],
+   "bpm": 83,
+   "description": "Native American drumming. The branch rattle is reminiscent of thunder. Tempo picks up about halfway through.",
+   "isrc": "USUAN1100596",
+   "tags": [
+    "dark",
+    "drums",
+    "mystical",
+    "rattles",
+    "shakers",
+    "world"
+   ],
+   "bytes": 7120311,
+   "sha256": "af19ecd00a5e1042ccdbf7b212a4a8943785d27388def6f602c150a1fc1b5e75",
+   "duration": 175.4,
+   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/music/incompetech/thunderhead.mp3",
+   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/music/incompetech/thunderhead.mp3",
+   "vocals": false,
+   "modified": false
+  }
+ ]
+}

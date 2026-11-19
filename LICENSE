@@ -1,0 +1,26 @@
+gbm — free background music collection
+======================================
+
+THE AUDIO FILES IN THIS REPOSITORY ARE NOT LICENSED UNDER A SINGLE REPOSITORY LICENSE.
+
+Each file under music/ keeps the licence its author released it under. The licence of every file is recorded in
+tracks.json (field "license", with the full name and URL in the top-level "licenses" table) and in CREDITS.md.
+The files are unmodified copies of the originals.
+
+Licences used in this collection:
+
+  • CC0 1.0 (Public Domain Dedication) — https://creativecommons.org/publicdomain/zero/1.0/
+      No attribution required (credit is appreciated).
+
+  • CC BY 3.0 / CC BY 4.0 (Attribution) — https://creativecommons.org/licenses/by/3.0/
+                                         https://creativecommons.org/licenses/by/4.0/
+      You must give appropriate credit (title, author, source, licence and a link to it), and indicate if you made
+      changes. The ready-made credit line of each track is in tracks.json ("attribution") and CREDITS.md.
+
+No file under a NonCommercial (NC) or NoDerivatives (ND) licence is included.
+
+A Creative Commons licence covers the copyright the author holds. It does not stop automated systems (for example
+YouTube Content ID) from occasionally flagging a track; keep the credit line and the source link to dispute a claim.
+
+Everything else in this repository (scripts/, README.md, tracks.json structure, CREDITS.md layout) is released under
+CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/
