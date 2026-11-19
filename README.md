@@ -89,8 +89,11 @@ Wikimedia Commons through the [Openverse](https://openverse.org) API; resized an
 CC0 / PDM allow. Every photo has a 480 px WebP thumbnail next to it (`*.thumb.webp`) for pickers.
 
 ```
-https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/images.json
+https://raw.githubusercontent.com/zuizui46/gbm/main/images.json
 ```
+
+Use raw.githubusercontent.com (`url`, `baseUrl + thumb`), not jsDelivr: jsDelivr refuses GitHub repos over 50 MB
+(«Package size exceeded the configured limit»), so the `cdnUrl` fields only work for files it cached earlier.
 
 ```jsonc
 {
