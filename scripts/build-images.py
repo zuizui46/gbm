@@ -65,8 +65,29 @@ COLLECTIONS = [
     ('school', 'cover', 'School', 12, ['school', 'chalkboard', 'notebook pencil', 'student', 'classroom']),
 ]
 
+# Theme photos (Kat themes, decision 2026-11-20-kast-themes): one wide photo per theme, tagged `theme: <id>` in
+# images.json. The list is read from Kat's themes.ts (id + search words) so the two never drift apart; pass its path
+# with --themes. Each theme takes the first acceptable result of its words.
+THEMES_SRC = sys.argv[sys.argv.index('--themes') + 1] if '--themes' in sys.argv else None
+
+def theme_rows():
+    if not THEMES_SRC:
+        return []
+    src = open(THEMES_SRC).read()
+    return re.findall(r"""^\s+\['([a-z0-9-]+)', (?:'[^']*'|"[^"]*"), '([^']+)'""", src, re.M)
+
 # ids taken out after looking at the contact sheets (wrong subject, text / logo in the photo, people too small, weak photo)
 EXCLUDE = {
+    'theme-lunar-new-year-af0cc5',          # a couple dancing
+    'theme-lunar-new-year-a1fe48',          # a Valentine card
+    'theme-chalk-and-board-be1684',         # Christmas again
+    'theme-lunar-new-year-b9b5a5',          # a stall keeper, signs
+    'theme-chalk-and-board-f7b914',         # a café menu, text all over
+    'theme-lunar-new-year-13ffdb',          # a dark lamp on a white wall
+    'theme-detective-files-e1df71',         # brand logo
+    'theme-chalk-and-board-e91d93',         # a Christmas frame, not a classroom
+    'theme-lunar-new-year-be2529',          # a concert crowd
+    'theme-detective-files-4fdba9',         # a tourist with a viewer
     'city-architecture-buildings-f6a844',   # a sculpture, not a city
     'city-shibuyacrossing-tokyo-d8420e',    # brand billboards
     'people-shibuyacrossing-tokyo-d8420e',
@@ -89,6 +110,23 @@ EXCLUDE = {
     'school-study-school-36b8df',           # a news page on screen
     'school-computer-keyboard-5bfa08',      # «DO MORE.» and a brand logo
     'school-macbook-laptop-210bf9',         # a brand logo
+    # theme photos that do not fit their theme (contact sheet 20/11): wrong subject, text, or a person out of place
+    'theme-chalk-and-board-f7b614',
+    'theme-ruled-page-c3048e',
+    'theme-quiet-ferryman-004e7d',
+    'theme-milkflower-hanoi-cc091c',
+    'theme-lunar-new-year-67fa73',
+    'theme-snowy-village-4297c7',
+    'theme-string-lights-51c569',
+    'theme-snow-globe-86c0be',
+    'theme-silent-night-3558c5',
+    'theme-year-end-thanks-cb251e',
+    'theme-detective-files-4a2ae3',
+    'theme-buddha-birthday-13ffdb',
+    'theme-lotus-lanterns-7fe9ee',
+    'theme-dharma-wheel-0bd0a5',
+    'theme-zen-tea-2bfd17',
+    'theme-morning-chant-3838dd',
 }
 # most photos one search word may give a collection (so «festive» is not eight lanterns); the others take as many as fit
 PER_QUERY = {'festive': 2, 'school': 3}
@@ -229,9 +267,64 @@ def main():
                 'query': c['query'], 'tags': tags,
             })
             sheets.setdefault(col, []).append((c['id'], path))
+    # theme photos: one per theme, wide, never one already used
+    themed = []
+    ok = lambda tid, r: r.get('license') in OV_LICENSE and r.get('url') and (r.get('width') or 0) >= 1600 and (r.get('width') or 0) >= (r.get('height') or 0) and r['id'] not in TAKEN and f"theme-{tid}-{r['id'][:6]}" not in EXCLUDE
+    for tid, words in theme_rows():
+        # the theme's words, then each word alone (longest first): a fixed order, so a rebuild picks the same photo
+        tries = [words] + sorted(set(words.split()) - {words}, key=len, reverse=True)
+        res = []
+        for q in tries:
+            res = [r for r in search(q, wide=True) if ok(tid, r)]
+            if res:
+                words = q
+                break
+        if not res:
+            print('  theme without photo:', tid, words, flush=True)
+            continue
+        r = res[0]
+        TAKEN.add(r['id'])
+        themed.append({'r': r, 'id': f"theme-{tid}-{r['id'][:6]}", 'title': clean_title(r.get('title')), 'query': words, 'theme': tid})
+    print('themes', len(themed), 'of', len(theme_rows()), flush=True)
+    if themed and not DRY:
+        folder = os.path.join(ROOT, 'images', 'themes')
+        os.makedirs(folder, exist_ok=True)
+        keep = {c['id'] for c in themed}
+        for f in os.listdir(folder):
+            if f.split('.')[0] not in keep:
+                os.remove(os.path.join(folder, f))
+        for c in themed:
+            r = c['r']
+            rel = f"images/themes/{c['id']}.jpg"
+            path = os.path.join(ROOT, rel)
+            if not os.path.exists(path):
+                data = curl(r['url'], binary=True)
+                if not data:
+                    print('  skip (download failed)', c['id'], flush=True)
+                    continue
+                try:
+                    save(Image.open(io.BytesIO(data)), 'background', path)
+                except Exception as e:
+                    print('  skip (bad image)', c['id'], e, flush=True)
+                    continue
+            with Image.open(path) as im:
+                size = im.size
+            raw = open(path, 'rb').read()
+            images.append({
+                'id': c['id'], 'kind': 'background', 'collection': 'themes', 'theme': c['theme'], 'title': c['title'],
+                'author': (r.get('creator') or '').strip() or None, 'source': r['source'],
+                'sourcePage': r.get('foreign_landing_url'), 'originalUrl': r['url'], 'license': OV_LICENSE[r['license']],
+                'file': rel, 'url': RAW + rel, 'cdnUrl': CDN + rel,
+                'thumb': rel.replace('.jpg', '.thumb.webp'), 'thumbCdnUrl': CDN + rel.replace('.jpg', '.thumb.webp'),
+                'width': size[0], 'height': size[1], 'bytes': len(raw), 'sha256': hashlib.sha256(raw).hexdigest(),
+                'query': c['query'], 'tags': [],
+            })
+            sheets.setdefault('themes', []).append((c['id'], path))
     if DRY:
         return
     cols = [{'id': c, 'kind': k, 'label': l, 'count': sum(1 for i in images if i['collection'] == c)} for c, k, l, _, _ in COLLECTIONS]
+    if any(i['collection'] == 'themes' for i in images):
+        cols.append({'id': 'themes', 'kind': 'background', 'label': 'Themes', 'count': sum(1 for i in images if i['collection'] == 'themes')})
     lib = {
         'name': 'gbm — free photos for video backgrounds and podcast covers', 'version': 1,
         'generated': time.strftime('%Y-%m-%d'), 'baseUrl': RAW, 'cdnBaseUrl': CDN,

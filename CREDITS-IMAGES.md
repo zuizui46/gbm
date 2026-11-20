@@ -258,3 +258,121 @@ Every photo here is CC0 or Public Domain Mark: no credit is required. Listed for
 - `images/school/school-open-books-88f500.jpg` — Open Books by Matt Bango (stocksnap, CC0-1.0) — https://stocksnap.io/photo/open-books-HECYA5SP1L
 - `images/school/school-apple-textbook-0258e7.jpg` — Apple Textbook by Michal Jarmoluk (stocksnap, CC0-1.0) — https://stocksnap.io/photo/apple-textbook-9HWH04LZWX
 - `images/school/school-chalkboard-chalk-e09acd.jpg` — Chalkboard Chalk by Flat Lay Photos (stocksnap, CC0-1.0) — https://stocksnap.io/photo/chalkboard-chalk-FQCCUDQ3N0
+
+## Themes (background)
+
+- `images/themes/theme-london-corner-3201f2.jpg` — Red Bus by Burst (stocksnap, CC0-1.0) — https://stocksnap.io/photo/red-bus-IFZYRGBZZS
+- `images/themes/theme-listening-lab-216936.jpg` — Headphones Desk by FOCA Stock (stocksnap, CC0-1.0) — https://stocksnap.io/photo/headphones-desk-IJNKVI0ELP
+- `images/themes/theme-sakura-japanese-7864d3.jpg` — Cherry Blossom by Bonnie Moreland (stocksnap, CC0-1.0) — https://stocksnap.io/photo/cherry-blossom-NFZY0LCRS6
+- `images/themes/theme-seoul-vibes-bca4f3.jpg` — Aerial Seoul by Ethan Brooke (stocksnap, CC0-1.0) — https://stocksnap.io/photo/aerial-seoul-BEWFBV0QXM
+- `images/themes/theme-paris-cafe-cb6c91.jpg` — Blackandwhite Paris by Louis Pellissier (stocksnap, CC0-1.0) — https://stocksnap.io/photo/blackandwhite-paris-B013AD944C
+- `images/themes/theme-flashcards-11d38c.jpg` — Notebook Pencil by Thought Catalog (stocksnap, CC0-1.0) — https://stocksnap.io/photo/notebook-pencil-LTY3TGLE73
+- `images/themes/theme-lofi-study-night-3d7a73.jpg` — Office Desk by Frank Oschatz (stocksnap, CC0-1.0) — https://stocksnap.io/photo/office-desk-WDUTVSMPXQ
+- `images/themes/theme-abc-kids-30f5e8.jpg` — Toys Puzzles by Karlo%20Pu%u0161i%u0107%20 (stocksnap, CC0-1.0) — https://stocksnap.io/photo/toys-puzzles-INAKF0ZV5X
+- `images/themes/theme-travel-phrases-a40892.jpg` — Airport Travel by Negative Space (stocksnap, CC0-1.0) — https://stocksnap.io/photo/airport-travel-GLR3UURE7M
+- `images/themes/theme-grammar-notes-6ec1dd.jpg` — Notebook Pen by Negative Space (stocksnap, CC0-1.0) — https://stocksnap.io/photo/notebook-pen-2H0QPGDVGZ
+- `images/themes/theme-recess-time-b55ac0.jpg` — Playground Playset by Kh%FCrt%20Williams (stocksnap, CC0-1.0) — https://stocksnap.io/photo/playground-playset-2R3MEOLE2E
+- `images/themes/theme-exam-sprint-6746b1.jpg` — People Girls by Brodie Vissers (stocksnap, CC0-1.0) — https://stocksnap.io/photo/people-girls-Y2AHVPYB51
+- `images/themes/theme-math-play-890b61.jpg` — Chalkboard Chalk by Elliott Chau (stocksnap, CC0-1.0) — https://stocksnap.io/photo/chalkboard-chalk-ZYYSU8DZ0A
+- `images/themes/theme-science-lab-d9d770.jpg` — Germ Disease by Bango Renders (stocksnap, CC0-1.0) — https://stocksnap.io/photo/germ-disease-BKGJGBMHPM
+- `images/themes/theme-poetry-hour-552e0f.jpg` — Old Vintage by Ryan McGuire (stocksnap, CC0-1.0) — https://stocksnap.io/photo/old-vintage-ACEC27F085
+- `images/themes/theme-history-tales-82c50c.jpg` — Architecture Building by Sergei Gussev (stocksnap, CC0-1.0) — https://stocksnap.io/photo/architecture-building-DO54WMU8K3
+- `images/themes/theme-geo-explorer-e3299a.jpg` — World Map by John-Mark Smith (stocksnap, CC0-1.0) — https://stocksnap.io/photo/world-map-Y4IRSSLD43
+- `images/themes/theme-book-club-b8204e.jpg` — Library Books by Gabriel Ghnassia (stocksnap, CC0-1.0) — https://stocksnap.io/photo/library-books-D8RFKPCP0G
+- `images/themes/theme-pastel-desk-0656e0.jpg` — Background Paper by Sarah Pflug (stocksnap, CC0-1.0) — https://stocksnap.io/photo/background-paper-R7IOD2W1ZU
+- `images/themes/theme-back-to-school-9a03ca.jpg` — Backpack Gear by Lukasz Kowalewski (stocksnap, CC0-1.0) — https://stocksnap.io/photo/backpack-gear-4MT4167LN3
+- `images/themes/theme-chalk-and-board-507aeb.jpg` — Apple Textbooks by Michal Jarmoluk (stocksnap, CC0-1.0) — https://stocksnap.io/photo/apple-textbooks-NAOWFGI5EF
+- `images/themes/theme-rose-of-thanks-dd9441.jpg` — Red Roses by Biel Morro (stocksnap, CC0-1.0) — https://stocksnap.io/photo/red-roses-3OL62OM8V9
+- `images/themes/theme-ruled-page-9e5b1c.jpg` — Notebook Notepad by %u0141ukasz%20Popardowski (stocksnap, CC0-1.0) — https://stocksnap.io/photo/notebook-notepad-816KPMNUS2
+- `images/themes/theme-letter-to-a-teacher-7aa92f.jpg` — Letter Valentine by Kelly Ishmael (stocksnap, CC0-1.0) — https://stocksnap.io/photo/letter-valentine-P2KICW97HO
+- `images/themes/theme-golden-classroom-588a5e.jpg` — Apple Textbooks by Michal Jarmoluk (stocksnap, CC0-1.0) — https://stocksnap.io/photo/apple-textbooks-NVJ4Q1I7K0
+- `images/themes/theme-quiet-ferryman-71f885.jpg` — Bridge Sea by Sergei Gussev (stocksnap, CC0-1.0) — https://stocksnap.io/photo/bridge-sea-MOQOO2D7YL
+- `images/themes/theme-purple-ink-ee99f3.jpg` — Fountain Pen by Vintage RS (stocksnap, CC0-1.0) — https://stocksnap.io/photo/fountain-pen-CJETOU0HKX
+- `images/themes/theme-november-daisies-5e0370.jpg` — Daisy Flower by Aaron Burden (stocksnap, CC0-1.0) — https://stocksnap.io/photo/daisy-flower-832OF9DX15
+- `images/themes/theme-steady-steps-c3cd8f.jpg` — Education Graduation by Candace McDaniel (stocksnap, CC0-1.0) — https://stocksnap.io/photo/education-graduation-XAL3MIM3OC
+- `images/themes/theme-paper-planes-6a1999.jpg` — Paper Airplane by Andrey Larin (stocksnap, CC0-1.0) — https://stocksnap.io/photo/paper-airplane-RQS11NY0CI
+- `images/themes/theme-red-maple-ceac29.jpg` — Nature Leaves by WDnet Studio (stocksnap, CC0-1.0) — https://stocksnap.io/photo/nature-leaves-65RLYORSFJ
+- `images/themes/theme-golden-road-b0f8ff.jpg` — Rural Winding by Jordan Whitt (stocksnap, CC0-1.0) — https://stocksnap.io/photo/rural-winding-CRR8H6RSRI
+- `images/themes/theme-autumn-coffee-ce54b6.jpg` — Brown Cap by Alisa Anton (stocksnap, CC0-1.0) — https://stocksnap.io/photo/brown-cap-PAO8SL0NJE
+- `images/themes/theme-rain-on-glass-33487e.jpg` — Rain Window by Steve Johnson (stocksnap, CC0-1.0) — https://stocksnap.io/photo/rain-window-9WON97E89Q
+- `images/themes/theme-still-lake-cb791c.jpg` — Trees Plants by Alex%20Bl%u0103jan (stocksnap, CC0-1.0) — https://stocksnap.io/photo/trees-plants-YM863UXAFR
+- `images/themes/theme-milkflower-hanoi-469003.jpg` — Ruongbacthang Vietnam by Phan Dang Viet Tung (stocksnap, CC0-1.0) — https://stocksnap.io/photo/ruongbacthang-vietnam-EHOQDOASZJ
+- `images/themes/theme-wool-scarf-9dbcb5.jpg` — Knitting Yarn by Freestocks.org (stocksnap, CC0-1.0) — https://stocksnap.io/photo/knitting-yarn-OJ8A0RI8C2
+- `images/themes/theme-pressed-leaves-f99fd3.jpg` — Book Reading by Patrick Fore (stocksnap, CC0-1.0) — https://stocksnap.io/photo/book-reading-OT37RD9KJN
+- `images/themes/theme-sunset-hills-7324d5.jpg` — Landscape Mountains by Julia Caesar (stocksnap, CC0-1.0) — https://stocksnap.io/photo/landscape-mountains-RKS9M8PY0X
+- `images/themes/theme-autumn-breeze-a3c148.jpg` — Falling Autumn by Altered Reality (stocksnap, CC0-1.0) — https://stocksnap.io/photo/falling-autumn-4Y9AWZZSIB
+- `images/themes/theme-harvest-thanks-8b9cad.jpg` — Hay Bales by Skitter Photo (stocksnap, CC0-1.0) — https://stocksnap.io/photo/hay-bales-0F52D72793
+- `images/themes/theme-family-table-0ef491.jpg` — Hamburger Dinner by Dana Tentis (stocksnap, CC0-1.0) — https://stocksnap.io/photo/hamburger-dinner-7QH4K6AESO
+- `images/themes/theme-pumpkins-and-leaves-512995.jpg` — Halloween Pumpkin by Skitter Photo (stocksnap, CC0-1.0) — https://stocksnap.io/photo/halloween-pumpkin-2659B518FA
+- `images/themes/theme-simple-thank-you-fb20d1.jpg` — Thanksgiving Autumn by Element5 Digital (stocksnap, CC0-1.0) — https://stocksnap.io/photo/thanksgiving-autumn-FAOI1VDJBI
+- `images/themes/theme-fruit-basket-7c7469.jpg` — Fruit Basket by WDnet Studio (stocksnap, CC0-1.0) — https://stocksnap.io/photo/fruit-basket-TV0WT8JT5B
+- `images/themes/theme-cozy-autumn-home-ed8c70.jpg` — Candles Flames by Freestocks.org (stocksnap, CC0-1.0) — https://stocksnap.io/photo/candles-flames-EZ95OEOSLM
+- `images/themes/theme-rice-field-sunset-3211b9.jpg` — Sunset Silhouette by Joshua Earle (stocksnap, CC0-1.0) — https://stocksnap.io/photo/sunset-silhouette-C3ZE3LVO34
+- `images/themes/theme-cinnamon-candles-4afdc9.jpg` — Candles Light by Nicola Fioravanti (stocksnap, CC0-1.0) — https://stocksnap.io/photo/candles-light-W1MD6OXURG
+- `images/themes/theme-letter-of-thanks-0dd529.jpg` — Old Letter by Vintage RS (stocksnap, CC0-1.0) — https://stocksnap.io/photo/old-letter-GRBHA41KW7
+- `images/themes/theme-apple-pie-ea853c.jpg` — Homemade Pie by Foodie Girl (stocksnap, CC0-1.0) — https://stocksnap.io/photo/homemade-pie-TUKUBAALHJ
+- `images/themes/theme-lunar-new-year-3f6897.jpg` — Fireworks Night by Travel Photographer (stocksnap, CC0-1.0) — https://stocksnap.io/photo/fireworks-night-MKOQFDGJZW
+- `images/themes/theme-sweet-valentine-2af690.jpg` — Valentine Rose by Beauty and Fashion (stocksnap, CC0-1.0) — https://stocksnap.io/photo/valentine-rose-MQ5YXVYWB5
+- `images/themes/theme-womens-day-bea139.jpg` — Flowers Bouquet by Marina Pershina (stocksnap, CC0-1.0) — https://stocksnap.io/photo/flowers-bouquet-SHXKTYF3C9
+- `images/themes/theme-childrens-day-776316.jpg` — Children Playing by Kristin Hardwick (stocksnap, CC0-1.0) — https://stocksnap.io/photo/children-playing-G02Q6IVO8J
+- `images/themes/theme-mid-autumn-a7d090.jpg` — Christmaslights Christmas by Suzy Hazelwood (stocksnap, CC0-1.0) — https://stocksnap.io/photo/christmaslights-christmas-AOGJEO6SXB
+- `images/themes/theme-halloween-937252.jpg` — Halloween Pumpkins by Tim Mossholder (stocksnap, CC0-1.0) — https://stocksnap.io/photo/halloween-pumpkins-W014VVTLFE
+- `images/themes/theme-teachers-day-47b5a0.jpg` — Macro Flower by Macro Mama (stocksnap, CC0-1.0) — https://stocksnap.io/photo/macro-flower-MLEZOMCWOW
+- `images/themes/theme-merry-christmas-b71351.jpg` — Christmas Bells by Aaron Burden (stocksnap, CC0-1.0) — https://stocksnap.io/photo/christmas-bells-X7MZJN39SM
+- `images/themes/theme-new-year-countdown-5e437e.jpg` — Fireworks Background by Travel Photographer (stocksnap, CC0-1.0) — https://stocksnap.io/photo/fireworks-background-CPLJUAMC1T
+- `images/themes/theme-mothers-gratitude-37f6b8.jpg` — Mother Child by Direct Media (stocksnap, CC0-1.0) — https://stocksnap.io/photo/mother-child-1QSVAPCGK5
+- `images/themes/theme-national-day-7a6f9e.jpg` — Girls Women by Shopify (stocksnap, CC0-1.0) — https://stocksnap.io/photo/girls-women-HRXTJCEXOW
+- `images/themes/theme-mothers-day-0a7a98.jpg` — Macro Flower by Macro Mama (stocksnap, CC0-1.0) — https://stocksnap.io/photo/macro-flower-R5A1SRFKG9
+- `images/themes/theme-floating-lanterns-d25a54.jpg` — Floating Lantern by Peter Hershey (stocksnap, CC0-1.0) — https://stocksnap.io/photo/floating-lantern-B3UIWYCYX6
+- `images/themes/theme-first-day-of-school-8ba812.jpg` — Alphabeth Abc by Olu Eletu (stocksnap, CC0-1.0) — https://stocksnap.io/photo/alphabeth-abc-Q5FJUK9OFH
+- `images/themes/theme-snowy-village-e64907.jpg` — Switzerland Stoos by Denis Linine (stocksnap, CC0-1.0) — https://stocksnap.io/photo/switzerland-stoos-MOHYBQTEG4
+- `images/themes/theme-surprise-gift-e91d93.jpg` — Gift Box by George Dolgikh (stocksnap, CC0-1.0) — https://stocksnap.io/photo/gift-box-PXJKQ8OFB8
+- `images/themes/theme-string-lights-bb467a.jpg` — Lights Lightbulb by Krzysztof%20Puszczy%u0144ski (stocksnap, CC0-1.0) — https://stocksnap.io/photo/lights-lightbulb-Z3VPU4IDKE
+- `images/themes/theme-winter-window-53ec13.jpg` — Pattern Winter by Lukas (stocksnap, CC0-1.0) — https://stocksnap.io/photo/pattern-winter-XV8R3PQ2TZ
+- `images/themes/theme-gingerbread-171bf6.jpg` — Gingerbread Cookies by Pexels (stocksnap, CC0-1.0) — https://stocksnap.io/photo/gingerbread-cookies-YH7I1ZI4V4
+- `images/themes/theme-golden-wreath-3be36e.jpg` — Christmas Wreath by Dave Meier (stocksnap, CC0-1.0) — https://stocksnap.io/photo/christmas-wreath-1D6D6105AE
+- `images/themes/theme-christmas-aurora-723c35.jpg` — Nature Aurora by Stefan Stefancik (stocksnap, CC0-1.0) — https://stocksnap.io/photo/nature-aurora-C2T1SICGPF
+- `images/themes/theme-town-square-tree-8af747.jpg` — Christmas Tree by FOCA Stock (stocksnap, CC0-1.0) — https://stocksnap.io/photo/christmas-tree-QCF5AFK1Y3
+- `images/themes/theme-carols-e77205.jpg` — Dark Candle by George Becker (stocksnap, CC0-1.0) — https://stocksnap.io/photo/dark-candle-NXJ0DEK459
+- `images/themes/theme-snow-globe-146e13.jpg` — Snow Winter by Aaron Burden (stocksnap, CC0-1.0) — https://stocksnap.io/photo/snow-winter-FQ0XJ0SGRM
+- `images/themes/theme-cozy-christmas-78aaa3.jpg` — Christmas Background by Travel Photographer (stocksnap, CC0-1.0) — https://stocksnap.io/photo/christmas-background-R7RWYRIPB0
+- `images/themes/theme-reindeer-night-b54a59.jpg` — Moon Night by Free Nature Stock (stocksnap, CC0-1.0) — https://stocksnap.io/photo/moon-night-DVJ8TI7H1H
+- `images/themes/theme-candy-cane-a51de8.jpg` — Candy Cane by Travel Photographer (stocksnap, CC0-1.0) — https://stocksnap.io/photo/candy-cane-RCD9RTOUZM
+- `images/themes/theme-gold-christmas-bb686a.jpg` — Christmas Tree by Aaron Burden (stocksnap, CC0-1.0) — https://stocksnap.io/photo/christmas-tree-FJJVRK164H
+- `images/themes/theme-silent-night-254dee.jpg` — Stars Galaxy by Levi Price (stocksnap, CC0-1.0) — https://stocksnap.io/photo/stars-galaxy-J8MJO7EQFM
+- `images/themes/theme-year-end-thanks-f33c94.jpg` — Christmas Celebration by Negative Space (stocksnap, CC0-1.0) — https://stocksnap.io/photo/christmas-celebration-38VXLY6HUM
+- `images/themes/theme-once-upon-a-time-276a28.jpg` — Castle Garden by Daria Nepriakhina (stocksnap, CC0-1.0) — https://stocksnap.io/photo/castle-garden-6323BD73E9
+- `images/themes/theme-late-night-stories-61fb63.jpg` — Building Lights by Andreas%20R%F8nningen (stocksnap, CC0-1.0) — https://stocksnap.io/photo/building-lights-9XDWBXHCR5
+- `images/themes/theme-detective-files-ec061d.jpg` — Wood Typewriter by Dustin Lee (stocksnap, CC0-1.0) — https://stocksnap.io/photo/wood-typewriter-VV0697QWMS
+- `images/themes/theme-midnight-mysteries-65716a.jpg` — Trees Forest by Carmine De Fazio (stocksnap, CC0-1.0) — https://stocksnap.io/photo/trees-forest-WESKZ53XLY
+- `images/themes/theme-romance-novel-3c3b7f.jpg` — Sunset Kiss by Alejandra Quiroz (stocksnap, CC0-1.0) — https://stocksnap.io/photo/sunset-kiss-61C38E9964
+- `images/themes/theme-wandering-swords-5cc21c.jpg` — Misty Mountain by Free Nature Stock (stocksnap, CC0-1.0) — https://stocksnap.io/photo/misty-mountain-FQK6GNZBAL
+- `images/themes/theme-galaxy-tales-505a80.jpg` — Galaxy Stars by Chris Myers (stocksnap, CC0-1.0) — https://stocksnap.io/photo/galaxy-stars-YBSP7ZPUI0
+- `images/themes/theme-bedtime-stories-a3bf06.jpg` — Moon Sunset by Krzysztof%20Puszczy%u0144ski (stocksnap, CC0-1.0) — https://stocksnap.io/photo/moon-sunset-F8HFKX3RIW
+- `images/themes/theme-library-audiobook-2a4591.jpg` — Stacked Books by Matt Bango (stocksnap, CC0-1.0) — https://stocksnap.io/photo/stacked-books-DGF2LFZ6JJ
+- `images/themes/theme-forest-fables-13a28a.jpg` — Bird Walking by Nancy Guth (stocksnap, CC0-1.0) — https://stocksnap.io/photo/bird-walking-L6MNREKKEP
+- `images/themes/theme-dawn-cross-48fdf9.jpg` — Sunrise Beach by Vikram Mudaliar (stocksnap, CC0-1.0) — https://stocksnap.io/photo/sunrise-beach-YGV6SF4MZU
+- `images/themes/theme-scripture-page-2f24c3.jpg` — Still Items by Aaron Burden (stocksnap, CC0-1.0) — https://stocksnap.io/photo/still-items-0DS255SCBZ
+- `images/themes/theme-prayer-candle-70e14d.jpg` — People Group by Edwin Andrade (stocksnap, CC0-1.0) — https://stocksnap.io/photo/people-group-3YIGT9WHKT
+- `images/themes/theme-dove-of-peace-eb947e.jpg` — White Dove by Benjamin (stocksnap, CC0-1.0) — https://stocksnap.io/photo/white-dove-8DVILG53R1
+- `images/themes/theme-stained-glass-381dc6.jpg` — Architecture Building by null (stocksnap, CC0-1.0) — https://stocksnap.io/photo/architecture-building-VC3Z71TX2R
+- `images/themes/theme-green-pastures-a9dd46.jpg` — Deer Nature by Ian Livesey (stocksnap, CC0-1.0) — https://stocksnap.io/photo/deer-nature-KLV5PKCAA2
+- `images/themes/theme-songs-of-praise-213ed3.jpg` — Church Religion by Skitter Photo (stocksnap, CC0-1.0) — https://stocksnap.io/photo/church-religion-421990A57C
+- `images/themes/theme-advent-wreath-ba60ce.jpg` — Candle Decoration by Christian Mackie (stocksnap, CC0-1.0) — https://stocksnap.io/photo/candle-decoration-OVEFAJUOXU
+- `images/themes/theme-loaves-and-fishes-56fb36.jpg` — Bread Basket by JESHOOTS.com (stocksnap, CC0-1.0) — https://stocksnap.io/photo/bread-basket-912FD6384D
+- `images/themes/theme-church-bell-tower-d0095b.jpg` — City River by Sergei Gussev (stocksnap, CC0-1.0) — https://stocksnap.io/photo/city-river-ECHVMJGOBU
+- `images/themes/theme-daily-reflection-b1dfd1.jpg` — Guy Man by Sandis Helvigs (stocksnap, CC0-1.0) — https://stocksnap.io/photo/guy-man-8UPTIAHRPD
+- `images/themes/theme-may-flowers-737586.jpg` — White Flowers by Veri Ivanova (stocksnap, CC0-1.0) — https://stocksnap.io/photo/white-flowers-AQNCHL76XS
+- `images/themes/theme-easter-morning-d1fbb0.jpg` — Easter Egg by Travel Photographer (stocksnap, CC0-1.0) — https://stocksnap.io/photo/easter-egg-X4ZMBOTXER
+- `images/themes/theme-buddha-birthday-705f31.jpg` — Lotus Flower by Free Nature Stock (stocksnap, CC0-1.0) — https://stocksnap.io/photo/lotus-flower-VC8IOCGVII
+- `images/themes/theme-peaceful-dharma-8e0393.jpg` — Water Flower by Nathalie E. Julien (stocksnap, CC0-1.0) — https://stocksnap.io/photo/water-flower-SE9RCCGNTC
+- `images/themes/theme-pink-lotus-2234c5.jpg` — Flowers Nature by Tj Holowaychuk (stocksnap, CC0-1.0) — https://stocksnap.io/photo/flowers-nature-BBJRN5PXFN
+- `images/themes/theme-zen-circle-b3c383.jpg` — Nature Coast by Jeremy Thomas (stocksnap, CC0-1.0) — https://stocksnap.io/photo/nature-coast-FJBFV5KV8N
+- `images/themes/theme-temple-bell-6971ef.jpg` — Temple Water by zhangkaiyv (stocksnap, CC0-1.0) — https://stocksnap.io/photo/temple-water-W8QRNUHIXB
+- `images/themes/theme-lotus-lanterns-d3eadc.jpg` — Picnictable Deck by Markus Spiske (stocksnap, CC0-1.0) — https://stocksnap.io/photo/picnictable-deck-W0CR1F0URM
+- `images/themes/theme-bodhi-tree-8b6323.jpg` — Tree Field by Negative Space (stocksnap, CC0-1.0) — https://stocksnap.io/photo/tree-field-ONV344KX9K
+- `images/themes/theme-dharma-wheel-1b56be.jpg` — Still Items by Peter Hershey (stocksnap, CC0-1.0) — https://stocksnap.io/photo/still-items-RKJAXECLDX
+- `images/themes/theme-zen-tea-0368d3.jpg` — Tea Hot by Jorge Garcia (stocksnap, CC0-1.0) — https://stocksnap.io/photo/tea-hot-04E3HNGAKH
+- `images/themes/theme-mountain-temple-364b19.jpg` — Landscape Nature by Travel Coffee Book (stocksnap, CC0-1.0) — https://stocksnap.io/photo/landscape-nature-7AE1B2EE69
+- `images/themes/theme-morning-chant-733644.jpg` — Monks Religion by Iv%E1n%20Tejero (stocksnap, CC0-1.0) — https://stocksnap.io/photo/monks-religion-9BEBA6B64E
+- `images/themes/theme-full-moon-085615.jpg` — Sky Night by Sara Santandrea (stocksnap, CC0-1.0) — https://stocksnap.io/photo/sky-night-OANZXN5973
