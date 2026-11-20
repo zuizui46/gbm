@@ -75,6 +75,20 @@ THEME_PHOTOS = int(sys.argv[sys.argv.index('--theme-photos') + 1]) if '--theme-p
 # themes whose search words run out of good photos (contact sheets 20/11): no refill past this many — their variants
 # fill up with other layouts and colours instead
 THEME_PHOTO_CAP = {
+    'catching-up': 5,
+    'customer-service': 5,
+    'first-date': 5,
+    'asking-directions': 3,
+    'small-talk': 5,
+    'shopping-talk': 5,
+    'airport-check-in': 4,
+    'coffee-shop-chat': 4,
+    'spelling-bee': 3,
+    'movie-english': 2,
+    'english-news': 3,
+    'big-ben-english': 2,
+    'word-of-the-day': 3,
+    'toeic-prep': 2,
     'graduation-day': 4,
     'morning-lesson': 2,
     'words-of-a-mentor': 5,
@@ -116,6 +130,38 @@ def theme_rows():
 
 # ids taken out after looking at the contact sheets (wrong subject, text / logo in the photo, people too small, weak photo)
 EXCLUDE = {
+    # english + conversation (20/11): text, logos, off-topic
+    'theme-toeic-prep-d6459b',
+    'theme-toeic-prep-b90b48',
+    'theme-toeic-prep-4e7cc5',
+    'theme-toeic-prep-39cd10',
+    'theme-word-of-the-day-fe6b12',
+    'theme-word-of-the-day-2c7791',
+    'theme-word-of-the-day-3dce24',
+    'theme-big-ben-english-641c37',
+    'theme-big-ben-english-b5833f',
+    'theme-big-ben-english-6120cc',
+    'theme-big-ben-english-ce3cfe',
+    'theme-english-news-c5fced',
+    'theme-english-news-48b774',
+    'theme-english-news-0769cb',
+    'theme-movie-english-3547c5',
+    'theme-movie-english-2db6d4',
+    'theme-movie-english-0e5cb7',
+    'theme-movie-english-da1643',
+    'theme-spelling-bee-9f1318',
+    'theme-coffee-shop-chat-849628',
+    'theme-coffee-shop-chat-a507f0',
+    'theme-airport-check-in-4ef5b9',
+    'theme-airport-check-in-c5031f',
+    'theme-shopping-talk-d53026',
+    'theme-small-talk-75b338',
+    'theme-asking-directions-95b4c7',
+    'theme-asking-directions-41b2da',
+    'theme-asking-directions-0bf278',
+    'theme-first-date-0ef491',
+    'theme-customer-service-85cb4f',
+    'theme-catching-up-31791e',
     'theme-graduation-day-1b3643',   # a wedding
     'theme-graduation-day-5c6017',   # a wedding
     # teachers, second pass (20/11): text, trademarks (Star Wars), off-topic

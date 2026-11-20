@@ -450,6 +450,169 @@ Every photo here is CC0 or Public Domain Mark: no credit is required. Listed for
 - `images/themes/theme-listening-lab-005f72.jpg` — Mac Desktop by Andrew Pons (stocksnap, CC0-1.0) — https://stocksnap.io/photo/mac-desktop-UCEBZORVVB
 - `images/themes/theme-listening-lab-6231a3.jpg` — Computer Office by Lukas (stocksnap, CC0-1.0) — https://stocksnap.io/photo/computer-office-XGXORJWZIX
 - `images/themes/theme-listening-lab-a26d87.jpg` — Macbook Laptop by Startup Stock Photos (stocksnap, CC0-1.0) — https://stocksnap.io/photo/macbook-laptop-XX6Z6PRZRM
+- `images/themes/theme-flashcards-11d38c.jpg` — Notebook Pencil by Thought Catalog (stocksnap, CC0-1.0) — https://stocksnap.io/photo/notebook-pencil-LTY3TGLE73
+- `images/themes/theme-flashcards-39c6bb.jpg` — Writing Drawing by Green Chameleon (stocksnap, CC0-1.0) — https://stocksnap.io/photo/writing-drawing-8Y0EDX4VP9
+- `images/themes/theme-flashcards-6f2d4e.jpg` — Macbook Laptop by Negative Space (stocksnap, CC0-1.0) — https://stocksnap.io/photo/macbook-laptop-UNB7V2H5L4
+- `images/themes/theme-flashcards-1b9d82.jpg` — Notebook Paper by Angelina Litvin (stocksnap, CC0-1.0) — https://stocksnap.io/photo/notebook-paper-JLXDNN5BNE
+- `images/themes/theme-flashcards-7391fc.jpg` — Notepad Notebook by Dariusz Sankowski (stocksnap, CC0-1.0) — https://stocksnap.io/photo/notepad-notebook-RMLFV5PVU9
+- `images/themes/theme-flashcards-4945c3.jpg` — Business Office by Wilfred Iven (stocksnap, CC0-1.0) — https://stocksnap.io/photo/business-office-FY58O0P400
+- `images/themes/theme-travel-phrases-a40892.jpg` — Airport Travel by Negative Space (stocksnap, CC0-1.0) — https://stocksnap.io/photo/airport-travel-GLR3UURE7M
+- `images/themes/theme-travel-phrases-937b05.jpg` — Airport People by Matthew Henry (stocksnap, CC0-1.0) — https://stocksnap.io/photo/airport-people-AW41W55XCB
+- `images/themes/theme-travel-phrases-4ee069.jpg` — Airport People by Ashim%20D%u2019Silva (stocksnap, CC0-1.0) — https://stocksnap.io/photo/airport-people-55EAC841F9
+- `images/themes/theme-travel-phrases-888f0b.jpg` — Airport Escalator by Ryan McGuire (stocksnap, CC0-1.0) — https://stocksnap.io/photo/airport-escalator-4784CFC743
+- `images/themes/theme-travel-phrases-741a57.jpg` — Airport Airplanes by Samuel Sosina (stocksnap, CC0-1.0) — https://stocksnap.io/photo/airport-airplanes-3U0F3RQ97S
+- `images/themes/theme-travel-phrases-93ae10.jpg` — Airplane Airport by Jos%E9%20Mart%EDn (stocksnap, CC0-1.0) — https://stocksnap.io/photo/airplane-airport-B1B462ED3D
+- `images/themes/theme-grammar-notes-6ec1dd.jpg` — Notebook Pen by Negative Space (stocksnap, CC0-1.0) — https://stocksnap.io/photo/notebook-pen-2H0QPGDVGZ
+- `images/themes/theme-grammar-notes-ca7be8.jpg` — Business Working by Direct Media (stocksnap, CC0-1.0) — https://stocksnap.io/photo/business-working-RRJH1KMRMW
+- `images/themes/theme-grammar-notes-cdadbe.jpg` — Coffee Latte by Martin Vorel (stocksnap, CC0-1.0) — https://stocksnap.io/photo/coffee-latte-548B7JD5A7
+- `images/themes/theme-grammar-notes-a16978.jpg` — Workplace Desk by Chimene Gaspar (stocksnap, CC0-1.0) — https://stocksnap.io/photo/workplace-desk-TD0ZOMAYHJ
+- `images/themes/theme-grammar-notes-1d1be8.jpg` — Apple Mac by Startup Stock Photos (stocksnap, CC0-1.0) — https://stocksnap.io/photo/apple-mac-SVC5DD90BO
+- `images/themes/theme-grammar-notes-0e4ad7.jpg` — Office Work by Aaron Burden (stocksnap, CC0-1.0) — https://stocksnap.io/photo/office-work-IMXRJF7SWX
+- `images/themes/theme-abc-kids-30f5e8.jpg` — Toys Puzzles by Karlo%20Pu%u0161i%u0107%20 (stocksnap, CC0-1.0) — https://stocksnap.io/photo/toys-puzzles-INAKF0ZV5X
+- `images/themes/theme-abc-kids-993a1a.jpg` — Children Toys by Birch Landing Home (stocksnap, CC0-1.0) — https://stocksnap.io/photo/children-toys-R8U6CVZ24Q
+- `images/themes/theme-abc-kids-f1083d.jpg` — Rubiks Cube by Miguel%20%C1.%20Padri%F1%E1n (stocksnap, CC0-1.0) — https://stocksnap.io/photo/rubiks-cube-20GVW2WQKZ
+- `images/themes/theme-abc-kids-53c0fa.jpg` — Dark Night by Nathan Anderson (stocksnap, CC0-1.0) — https://stocksnap.io/photo/dark-night-R6UPWEA0JR
+- `images/themes/theme-abc-kids-18196f.jpg` — Colorful Gradient by Vidsplay (stocksnap, CC0-1.0) — https://stocksnap.io/photo/colorful-gradient-OC20CAHMDU
+- `images/themes/theme-abc-kids-64d0bc.jpg` — Pencils Colors by Krzysztof%20Puszczy%u0144ski (stocksnap, CC0-1.0) — https://stocksnap.io/photo/pencils-colors-UYKW8TJK1Z
+- `images/themes/theme-ielts-speaking-48f0be.jpg` — Microphone Audio by Kai%20Oberh%E4user (stocksnap, CC0-1.0) — https://stocksnap.io/photo/microphone-audio-H3V72OR6KN
+- `images/themes/theme-ielts-speaking-1cd328.jpg` — Microphone Music by Erkan Utu (stocksnap, CC0-1.0) — https://stocksnap.io/photo/microphone-music-VIGKZY2P20
+- `images/themes/theme-ielts-speaking-934ef9.jpg` — Mic Microphone by Suvan Chowdhury (stocksnap, CC0-1.0) — https://stocksnap.io/photo/mic-microphone-Q0LOIKU7GM
+- `images/themes/theme-ielts-speaking-2bba2e.jpg` — Microphone Music by Erkan Utu (stocksnap, CC0-1.0) — https://stocksnap.io/photo/microphone-music-NXO1780IVG
+- `images/themes/theme-ielts-speaking-5bd262.jpg` — Microphone Music by Revac Film's&Photography (stocksnap, CC0-1.0) — https://stocksnap.io/photo/microphone-music-GHFULOSCA1
+- `images/themes/theme-ielts-speaking-1cc363.jpg` — Microphone Audio by Kane Reinholdtsen (stocksnap, CC0-1.0) — https://stocksnap.io/photo/microphone-audio-W7WDKWMG0I
+- `images/themes/theme-toeic-prep-2ad657.jpg` — Guy Man by Snappa.io (stocksnap, CC0-1.0) — https://stocksnap.io/photo/guy-man-3V10TEO5TA
+- `images/themes/theme-toeic-prep-a720e6.jpg` — Office Work by Jeffrey Betts (stocksnap, CC0-1.0) — https://stocksnap.io/photo/office-work-91WZ32J28K
+- `images/themes/theme-word-of-the-day-7c21d0.jpg` — Books Dictionary by Freestocks.org (stocksnap, CC0-1.0) — https://stocksnap.io/photo/books-dictionary-U74O1AOW5J
+- `images/themes/theme-word-of-the-day-4a8cf2.jpg` — Books Dictionary by Clem Onojeghuo (stocksnap, CC0-1.0) — https://stocksnap.io/photo/books-dictionary-G5UQS7WRFS
+- `images/themes/theme-word-of-the-day-faad11.jpg` — Dictionary Page by Words as Pictures (stocksnap, CC0-1.0) — https://stocksnap.io/photo/dictionary-page-NVBQASDOSF
+- `images/themes/theme-idioms-cafe-b459a3.jpg` — Coffee Tea by Lia Leslie (stocksnap, CC0-1.0) — https://stocksnap.io/photo/coffee-tea-4VHE7E68OE
+- `images/themes/theme-idioms-cafe-988f8a.jpg` — Office Work by Thomas Litangen (stocksnap, CC0-1.0) — https://stocksnap.io/photo/office-work-3TJ6NCTIRT
+- `images/themes/theme-idioms-cafe-9b5275.jpg` — Coffee Book by PICSELI (stocksnap, CC0-1.0) — https://stocksnap.io/photo/coffee-book-8MGELU7YZK
+- `images/themes/theme-idioms-cafe-6e72ba.jpg` — Croissant Coffee by PICSELI (stocksnap, CC0-1.0) — https://stocksnap.io/photo/croissant-coffee-QJJJN8RWGX
+- `images/themes/theme-idioms-cafe-83edfd.jpg` — Office Business by Sophia Baboolal (stocksnap, CC0-1.0) — https://stocksnap.io/photo/office-business-S5GFL81F72
+- `images/themes/theme-idioms-cafe-0f5d49.jpg` — Tea Coffee by Ilya Mazurkevich (stocksnap, CC0-1.0) — https://stocksnap.io/photo/tea-coffee-B3DLIZ3ECI
+- `images/themes/theme-phrasal-verbs-38f903.jpg` — Colorful Pencils by Artsy Crafty (stocksnap, CC0-1.0) — https://stocksnap.io/photo/colorful-pencils-UFDTNK6BWQ
+- `images/themes/theme-phrasal-verbs-bbb1f3.jpg` — Colorful Pencils by Artsy Crafty (stocksnap, CC0-1.0) — https://stocksnap.io/photo/colorful-pencils-QDZA8FBZYI
+- `images/themes/theme-phrasal-verbs-1c2ef9.jpg` — Colored Pencil by Artsy Crafty (stocksnap, CC0-1.0) — https://stocksnap.io/photo/colored-pencil-KDFVIYEYB2
+- `images/themes/theme-phrasal-verbs-cbf43b.jpg` — Colored Pencil by Artsy Crafty (stocksnap, CC0-1.0) — https://stocksnap.io/photo/colored-pencil-HBZ5JCUWH9
+- `images/themes/theme-phrasal-verbs-c54053.jpg` — Colored Pencil by Artsy Crafty (stocksnap, CC0-1.0) — https://stocksnap.io/photo/colored-pencil-MFHM5OSOKT
+- `images/themes/theme-phrasal-verbs-0422ed.jpg` — Colored Pencil by Artsy Crafty (stocksnap, CC0-1.0) — https://stocksnap.io/photo/colored-pencil-LZ1REOD5BH
+- `images/themes/theme-pronunciation-lab-ec6715.jpg` — Mixer Equalizer by Jo%E3o%20Silas (stocksnap, CC0-1.0) — https://stocksnap.io/photo/mixer-equalizer-X1MLC0C690
+- `images/themes/theme-pronunciation-lab-ad4e0d.jpg` — Microphone Equipment by donterase (stocksnap, CC0-1.0) — https://stocksnap.io/photo/microphone-equipment-UOVOJOP3UK
+- `images/themes/theme-pronunciation-lab-f2a47c.jpg` — Guy Singing by William Stitt (stocksnap, CC0-1.0) — https://stocksnap.io/photo/guy-singing-NV1FLKIE9U
+- `images/themes/theme-pronunciation-lab-533956.jpg` — Microphones Studio by Candace McDaniel (stocksnap, CC0-1.0) — https://stocksnap.io/photo/microphones-studio-V0KU6TZHST
+- `images/themes/theme-pronunciation-lab-fc35e8.jpg` — People Guy by Kaique Rocha (stocksnap, CC0-1.0) — https://stocksnap.io/photo/people-guy-AOG1QEN37V
+- `images/themes/theme-pronunciation-lab-57c84a.jpg` — Recording Studio by Kristin Hardwick (stocksnap, CC0-1.0) — https://stocksnap.io/photo/recording-studio-YA3HZPUFYL
+- `images/themes/theme-business-english-30c30b.jpg` — Building Structure by Oliver Cole (stocksnap, CC0-1.0) — https://stocksnap.io/photo/building-structure-VQT8LW1VT0
+- `images/themes/theme-business-english-c46909.jpg` — Sun City by Travel Photographer (stocksnap, CC0-1.0) — https://stocksnap.io/photo/sun-city-JUWEZW1H2Y
+- `images/themes/theme-business-english-62c5f7.jpg` — Building Perspective by The Building Envelope (stocksnap, CC0-1.0) — https://stocksnap.io/photo/building-perspective-HZT7MU3I7S
+- `images/themes/theme-business-english-63907c.jpg` — City Highways by Matt Moloney (stocksnap, CC0-1.0) — https://stocksnap.io/photo/city-highways-Z3ZMAY3CR4
+- `images/themes/theme-business-english-023b1d.jpg` — Tall Building by Mike Moloney (stocksnap, CC0-1.0) — https://stocksnap.io/photo/tall-building-ZAXUUS8XXW
+- `images/themes/theme-business-english-6f8205.jpg` — Urban Architecture by Joe deSousa (stocksnap, CC0-1.0) — https://stocksnap.io/photo/urban-architecture-ADAUXGIQ7T
+- `images/themes/theme-big-ben-english-4f80f0.jpg` — Architecture Building by Maile Ortiz (stocksnap, CC0-1.0) — https://stocksnap.io/photo/architecture-building-UC244P42EX
+- `images/themes/theme-big-ben-english-e7fb11.jpg` — Big Wheel by Bob Richards (stocksnap, CC0-1.0) — https://stocksnap.io/photo/big-wheel-VZWLBPGSLQ
+- `images/themes/theme-new-york-english-57c079.jpg` — Skyline Cityscape by Benjamin Combs (stocksnap, CC0-1.0) — https://stocksnap.io/photo/skyline-cityscape-9E4JC805GX
+- `images/themes/theme-new-york-english-ffc509.jpg` — City Skyline by Joe deSousa (stocksnap, CC0-1.0) — https://stocksnap.io/photo/city-skyline-KFA0ZJHD66
+- `images/themes/theme-new-york-english-5431bd.jpg` — Buildings Skyline by Riku Lu (stocksnap, CC0-1.0) — https://stocksnap.io/photo/buildings-skyline-EFMLJD0R2I
+- `images/themes/theme-new-york-english-e43dba.jpg` — Cityscape Skyline by Anthony Delanoix (stocksnap, CC0-1.0) — https://stocksnap.io/photo/cityscape-skyline-7YHOOBJPHE
+- `images/themes/theme-new-york-english-c6b5c1.jpg` — Cityscape Skyline by Alin Zainescu (stocksnap, CC0-1.0) — https://stocksnap.io/photo/cityscape-skyline-6Y07EUR9EB
+- `images/themes/theme-new-york-english-a6ecb8.jpg` — City Skyline by Matt Bango (stocksnap, CC0-1.0) — https://stocksnap.io/photo/city-skyline-YZPGLUEBRO
+- `images/themes/theme-spelling-bee-dd54a4.jpg` — Bees Nature by Travel Photographer (stocksnap, CC0-1.0) — https://stocksnap.io/photo/bees-nature-X0IOWXEOFJ
+- `images/themes/theme-spelling-bee-f1e550.jpg` — Bees Nature by Travel Photographer (stocksnap, CC0-1.0) — https://stocksnap.io/photo/bees-nature-BIB1TGRM6A
+- `images/themes/theme-spelling-bee-977033.jpg` — Bee Person by Ian Livesey (stocksnap, CC0-1.0) — https://stocksnap.io/photo/bee-person-OMX3XLKJNU
+- `images/themes/theme-english-news-ef24af.jpg` — News Newspaper by Wilfred Iven (stocksnap, CC0-1.0) — https://stocksnap.io/photo/news-newspaper-OJXHDWMWV9
+- `images/themes/theme-english-news-afb1e9.jpg` — Still Items by Markus Spiske (stocksnap, CC0-1.0) — https://stocksnap.io/photo/still-items-91SCNRRD25
+- `images/themes/theme-english-news-0cab4a.jpg` — Coffee Hot by Markus Spiske (stocksnap, CC0-1.0) — https://stocksnap.io/photo/coffee-hot-IN864YLZUT
+- `images/themes/theme-movie-english-d558f8.jpg` — Seat Number by David Straight (stocksnap, CC0-1.0) — https://stocksnap.io/photo/seat-number-K6FFR9WB9O
+- `images/themes/theme-movie-english-3b5e18.jpg` — Vintage Film by Jay Mantri (stocksnap, CC0-1.0) — https://stocksnap.io/photo/vintage-film-F07E9C9CA2
+- `images/themes/theme-sing-along-09cb98.jpg` — Ukulele Music by Pawel Kadysz (stocksnap, CC0-1.0) — https://stocksnap.io/photo/ukulele-music-5ZPN66JSA4
+- `images/themes/theme-reading-corner-5d84fd.jpg` — Reading Magazine by Bino Storyteller (stocksnap, CC0-1.0) — https://stocksnap.io/photo/reading-magazine-2N7DLURDX4
+- `images/themes/theme-reading-corner-b7eb2c.jpg` — Books Reading by John-Mark Kuznietsov (stocksnap, CC0-1.0) — https://stocksnap.io/photo/books-reading-E1QRKYYQ84
+- `images/themes/theme-reading-corner-5db1be.jpg` — Books Reading by Milomir Topic (stocksnap, CC0-1.0) — https://stocksnap.io/photo/books-reading-PFDHUN2MLE
+- `images/themes/theme-reading-corner-89b36d.jpg` — Book Reading by Natalie Collins (stocksnap, CC0-1.0) — https://stocksnap.io/photo/book-reading-3D00OXTKSD
+- `images/themes/theme-reading-corner-c7fb94.jpg` — Book Reading by Agnieszka Bladzik (stocksnap, CC0-1.0) — https://stocksnap.io/photo/book-reading-MDPH9W0UR7
+- `images/themes/theme-reading-corner-7ad309.jpg` — Books Reading by Aaron Burden (stocksnap, CC0-1.0) — https://stocksnap.io/photo/books-reading-O3PF3XGHHF
+- `images/themes/theme-essay-writing-d6f6f6.jpg` — Typewriter Keyboard by Daniel McCullough (stocksnap, CC0-1.0) — https://stocksnap.io/photo/typewriter-keyboard-EFNUBBALXU
+- `images/themes/theme-essay-writing-141c8d.jpg` — Type Typewriter by Mali Maeder (stocksnap, CC0-1.0) — https://stocksnap.io/photo/type-typewriter-5O5E77VOMX
+- `images/themes/theme-essay-writing-3a90aa.jpg` — Paper Vintage by it's me neosiam (stocksnap, CC0-1.0) — https://stocksnap.io/photo/paper-vintage-WRVYIIHEPY
+- `images/themes/theme-essay-writing-5fad79.jpg` — Dark Room by Alexa Mazzarello (stocksnap, CC0-1.0) — https://stocksnap.io/photo/dark-room-KR8L2PXHCS
+- `images/themes/theme-essay-writing-7f0bb3.jpg` — Typewriter Writing by Nirzar Pangarkar (stocksnap, CC0-1.0) — https://stocksnap.io/photo/typewriter-writing-J8HP1PXSEJ
+- `images/themes/theme-essay-writing-841fea.jpg` — Typewriter Vintage by Skitter Photo (stocksnap, CC0-1.0) — https://stocksnap.io/photo/typewriter-vintage-OU6YNJ0RV7
+- `images/themes/theme-coffee-shop-chat-6708cf.jpg` — Business Establishments by Jazmin Quaynor (stocksnap, CC0-1.0) — https://stocksnap.io/photo/business-establishments-WP40DVYDWS
+- `images/themes/theme-coffee-shop-chat-d96fb9.jpg` — Bar Counter by Brodie Vissers (stocksnap, CC0-1.0) — https://stocksnap.io/photo/bar-counter-YWDKYIFE2A
+- `images/themes/theme-coffee-shop-chat-b5fce4.jpg` — Restaurant Bar by Serge Esteve (stocksnap, CC0-1.0) — https://stocksnap.io/photo/restaurant-bar-P0B6LAPFPC
+- `images/themes/theme-coffee-shop-chat-4e44fc.jpg` — Coffeeshop Coffee by Larissa de Corves (stocksnap, CC0-1.0) — https://stocksnap.io/photo/coffeeshop-coffee-04USGA6ASM
+- `images/themes/theme-job-interview-ff96a1.jpg` — Man-Meeting Laptop by LinkedIn Sales Navigator (stocksnap, CC0-1.0) — https://stocksnap.io/photo/man-meeting-laptop-LSEX2DCZE4
+- `images/themes/theme-job-interview-258657.jpg` — Work Business by Kristin Hardwick (stocksnap, CC0-1.0) — https://stocksnap.io/photo/work-business-J5LXKNDREC
+- `images/themes/theme-job-interview-934f04.jpg` — Work Business by Matt Moloney (stocksnap, CC0-1.0) — https://stocksnap.io/photo/work-business-WQ2JMRIIQB
+- `images/themes/theme-airport-check-in-1dc131.jpg` — Airport Terminal by Matt Moloney (stocksnap, CC0-1.0) — https://stocksnap.io/photo/airport-terminal-4LNIPV0W8H
+- `images/themes/theme-airport-check-in-a82a25.jpg` — Airport Terminal by Matt Moloney (stocksnap, CC0-1.0) — https://stocksnap.io/photo/airport-terminal-CTIWBOSEN7
+- `images/themes/theme-airport-check-in-49202e.jpg` — Airport Airplanes by Thong Vo (stocksnap, CC0-1.0) — https://stocksnap.io/photo/airport-airplanes-C8063AC75F
+- `images/themes/theme-airport-check-in-f84739.jpg` — Airplane Loading by World Travel Adventures (stocksnap, CC0-1.0) — https://stocksnap.io/photo/airplane-loading-DDSTKU4W97
+- `images/themes/theme-hotel-front-desk-fc0673.jpg` — Sunlight Couch by Patrick McMahon (stocksnap, CC0-1.0) — https://stocksnap.io/photo/sunlight-couch-NB6ISAF275
+- `images/themes/theme-hotel-front-desk-9d6804.jpg` — Couch Rug by Skitter Photo (stocksnap, CC0-1.0) — https://stocksnap.io/photo/couch-rug-1DEA8CC2AB
+- `images/themes/theme-hotel-front-desk-00615f.jpg` — Fern Architecture by Emma Leigh Parker (stocksnap, CC0-1.0) — https://stocksnap.io/photo/fern-architecture-6YBPURKF0Q
+- `images/themes/theme-hotel-front-desk-a7f015.jpg` — Staircase Interior by Matt Bango (stocksnap, CC0-1.0) — https://stocksnap.io/photo/staircase-interior-CIMIPMHUXZ
+- `images/themes/theme-hotel-front-desk-43870d.jpg` — Hotel Lounge by Daria Nepriakhina (stocksnap, CC0-1.0) — https://stocksnap.io/photo/hotel-lounge-904EAD50B0
+- `images/themes/theme-hotel-front-desk-489c0b.jpg` — Hotel Elevators by Kevin Sequeira (stocksnap, CC0-1.0) — https://stocksnap.io/photo/hotel-elevators-CYB2SCDOQU
+- `images/themes/theme-ordering-food-ad9b46.jpg` — Restaurant Table by Leeroy (stocksnap, CC0-1.0) — https://stocksnap.io/photo/restaurant-table-A6FE2C3A25
+- `images/themes/theme-ordering-food-cac789.jpg` — Restaurant Table by Jonas Nilsson Lee (stocksnap, CC0-1.0) — https://stocksnap.io/photo/restaurant-table-29AFHWA2UJ
+- `images/themes/theme-ordering-food-8771fb.jpg` — Restaurant Table by Andr%E9%20Robillard (stocksnap, CC0-1.0) — https://stocksnap.io/photo/restaurant-table-FCC5EDD3BB
+- `images/themes/theme-ordering-food-9902b9.jpg` — Restaurant Tables by Dave Meier (stocksnap, CC0-1.0) — https://stocksnap.io/photo/restaurant-tables-Z83G7FTDUG
+- `images/themes/theme-ordering-food-2bdcad.jpg` — Restaurant Table by Alex Jones (stocksnap, CC0-1.0) — https://stocksnap.io/photo/restaurant-table-C1BCAF83FA
+- `images/themes/theme-ordering-food-f5ff04.jpg` — Restaurant Tables by Samuel Sosina (stocksnap, CC0-1.0) — https://stocksnap.io/photo/restaurant-tables-3TU0J5R93S
+- `images/themes/theme-shopping-talk-a263c3.jpg` — Clothes Store by Pavlo Luchkovski (stocksnap, CC0-1.0) — https://stocksnap.io/photo/clothes-store-Q2WKRAM2O4
+- `images/themes/theme-shopping-talk-cb6661.jpg` — Fashion Clothes by Hannah Morgan (stocksnap, CC0-1.0) — https://stocksnap.io/photo/fashion-clothes-ZN97ZIF3ZU
+- `images/themes/theme-shopping-talk-0d096a.jpg` — Clothes Clothing by Artificial Photography (stocksnap, CC0-1.0) — https://stocksnap.io/photo/clothes-clothing-KJ9ZK1L8WS
+- `images/themes/theme-shopping-talk-c2871a.jpg` — Shirts Collared by Patryk Dziejma (stocksnap, CC0-1.0) — https://stocksnap.io/photo/shirts-collared-07XWATYFD1
+- `images/themes/theme-shopping-talk-8735ef.jpg` — Clothes Jackets by Clark Street Mercantile (stocksnap, CC0-1.0) — https://stocksnap.io/photo/clothes-jackets-72V88M4FAC
+- `images/themes/theme-at-the-doctor-029d8b.jpg` — Stethoscope Medical by Negative Space (stocksnap, CC0-1.0) — https://stocksnap.io/photo/stethoscope-medical-RAW1RLRTM7
+- `images/themes/theme-at-the-doctor-e7d58d.jpg` — Stethoscope Medical by Negative Space (stocksnap, CC0-1.0) — https://stocksnap.io/photo/stethoscope-medical-9M1HWW2JFV
+- `images/themes/theme-at-the-doctor-5f0e95.jpg` — Male Doctor by Direct Media (stocksnap, CC0-1.0) — https://stocksnap.io/photo/male-doctor-KN1OCKC4Y2
+- `images/themes/theme-at-the-doctor-8c822f.jpg` — Health Care by Direct Media (stocksnap, CC0-1.0) — https://stocksnap.io/photo/health-care-0DCSAGJ9CM
+- `images/themes/theme-at-the-doctor-81982c.jpg` — Health Care by Direct Media (stocksnap, CC0-1.0) — https://stocksnap.io/photo/health-care-NC4RRN3TOV
+- `images/themes/theme-at-the-doctor-5dc948.jpg` — Doctor Working by Direct Media (stocksnap, CC0-1.0) — https://stocksnap.io/photo/doctor-working-WTWX4BZ4FD
+- `images/themes/theme-small-talk-7dda48.jpg` — Businessmeeting People by Helena Lopes (stocksnap, CC0-1.0) — https://stocksnap.io/photo/businessmeeting-people-AEENLCARXY
+- `images/themes/theme-small-talk-10c745.jpg` — People Adult by Elliott Chau (stocksnap, CC0-1.0) — https://stocksnap.io/photo/people-adult-U3ESM8YMDM
+- `images/themes/theme-small-talk-35f96b.jpg` — People Men by Rob Bye (stocksnap, CC0-1.0) — https://stocksnap.io/photo/people-men-LTKV70U67U
+- `images/themes/theme-small-talk-f3755a.jpg` — Glass Redwine by Helena Lopes (stocksnap, CC0-1.0) — https://stocksnap.io/photo/glass-redwine-SISS0KP1ZS
+- `images/themes/theme-small-talk-4501a3.jpg` — Chair Sofa by Marianne (stocksnap, CC0-1.0) — https://stocksnap.io/photo/chair-sofa-MKS04VX682
+- `images/themes/theme-phone-call-a44a39.jpg` — Red Telephone by Negative Space (stocksnap, CC0-1.0) — https://stocksnap.io/photo/red-telephone-3FVC73VWBH
+- `images/themes/theme-phone-call-385013.jpg` — Telephone Number by Antoine Barrès (stocksnap, CC0-1.0) — https://stocksnap.io/photo/telephone-number-L6966LD98C
+- `images/themes/theme-phone-call-5f9efd.jpg` — Telephones Payphones by Jay Mantri (stocksnap, CC0-1.0) — https://stocksnap.io/photo/telephones-payphones-125C5C398B
+- `images/themes/theme-phone-call-1ca5e9.jpg` — Telephone Vintage by MichaelGaida (stocksnap, CC0-1.0) — https://stocksnap.io/photo/telephone-vintage-VEQY2MMJYL
+- `images/themes/theme-phone-call-9d0318.jpg` — Red Telephone by Gratisography (stocksnap, CC0-1.0) — https://stocksnap.io/photo/red-telephone-W3VUY9DTWB
+- `images/themes/theme-phone-call-9da34c.jpg` — Snow Falling by Lan Lanister (stocksnap, CC0-1.0) — https://stocksnap.io/photo/snow-falling-5GRO0FY80K
+- `images/themes/theme-asking-directions-cc091c.jpg` — Streets Roads by Daryan Shamkhali (stocksnap, CC0-1.0) — https://stocksnap.io/photo/streets-roads-SQ0FRS7SG6
+- `images/themes/theme-asking-directions-a97552.jpg` — Boston Street by Leeroy (stocksnap, CC0-1.0) — https://stocksnap.io/photo/boston-street-76A5E16761
+- `images/themes/theme-asking-directions-7592f6.jpg` — Street Alley by donterase (stocksnap, CC0-1.0) — https://stocksnap.io/photo/street-alley-I5NUBCSVEP
+- `images/themes/theme-team-meeting-67d4d5.jpg` — Meeting Room by Raphael Schaller (stocksnap, CC0-1.0) — https://stocksnap.io/photo/meeting-room-NEB7S4QC8G
+- `images/themes/theme-team-meeting-8bf633.jpg` — Office Work by Benjamin Child (stocksnap, CC0-1.0) — https://stocksnap.io/photo/office-work-FSU5SG0X4U
+- `images/themes/theme-team-meeting-a6934b.jpg` — Table Chairs by Benjamin Child (stocksnap, CC0-1.0) — https://stocksnap.io/photo/table-chairs-7OPWOSQFXS
+- `images/themes/theme-team-meeting-de9341.jpg` — Office Work by Monoar Rahman (stocksnap, CC0-1.0) — https://stocksnap.io/photo/office-work-WWF2RUV4E7
+- `images/themes/theme-team-meeting-ac2c15.jpg` — Interior Design by Breather (stocksnap, CC0-1.0) — https://stocksnap.io/photo/interior-design-478BZDEA2Y
+- `images/themes/theme-team-meeting-ec2d5b.jpg` — Interior Design by Breather (stocksnap, CC0-1.0) — https://stocksnap.io/photo/interior-design-N3DP51WC97
+- `images/themes/theme-first-date-ca5ea3.jpg` — Finedining Dinner by WDnet Studio (stocksnap, CC0-1.0) — https://stocksnap.io/photo/finedining-dinner-UAOW7BNH2M
+- `images/themes/theme-first-date-f29b83.jpg` — Finedining Dinner by WDnet Studio (stocksnap, CC0-1.0) — https://stocksnap.io/photo/finedining-dinner-LAA57DAZMZ
+- `images/themes/theme-first-date-93d68e.jpg` — Table Setup by WDnet Studio (stocksnap, CC0-1.0) — https://stocksnap.io/photo/table-setup-IDMY0C7HYT
+- `images/themes/theme-first-date-5539f1.jpg` — Restaurant Dinner by Daria Nepriakhina (stocksnap, CC0-1.0) — https://stocksnap.io/photo/restaurant-dinner-E2457CCC2D
+- `images/themes/theme-first-date-8ab433.jpg` — Dinner Wine by Buck (stocksnap, CC0-1.0) — https://stocksnap.io/photo/dinner-wine-ZPMWWMHBDE
+- `images/themes/theme-roommates-e57ad1.jpg` — House Home by Joshua Ness (stocksnap, CC0-1.0) — https://stocksnap.io/photo/house-home-CLD6T4J9VZ
+- `images/themes/theme-roommates-ab2997.jpg` — Interior Design by Kristin Hardwick (stocksnap, CC0-1.0) — https://stocksnap.io/photo/interior-design-HIH67XC5G0
+- `images/themes/theme-roommates-7f3cec.jpg` — House Interior by Justin Schüler (stocksnap, CC0-1.0) — https://stocksnap.io/photo/house-interior-NF6P1OX124
+- `images/themes/theme-roommates-4f4787.jpg` — House Interior by Tim Wright (stocksnap, CC0-1.0) — https://stocksnap.io/photo/house-interior-XCOZ3XTV7M
+- `images/themes/theme-roommates-c5bdcb.jpg` — Coffee Table by Kristin Hardwick (stocksnap, CC0-1.0) — https://stocksnap.io/photo/coffee-table-8JQITZ05LX
+- `images/themes/theme-roommates-52ecea.jpg` — Living Room by Dan Gold (stocksnap, CC0-1.0) — https://stocksnap.io/photo/living-room-BI0P6D3WL9
+- `images/themes/theme-customer-service-756b1c.jpg` — Blackandwhite Headset by Alex Holyoake (stocksnap, CC0-1.0) — https://stocksnap.io/photo/blackandwhite-headset-2889JWN8VJ
+- `images/themes/theme-customer-service-b33fc9.jpg` — Headphones Headset by Matthew Henry (stocksnap, CC0-1.0) — https://stocksnap.io/photo/headphones-headset-QG61PZAF6D
+- `images/themes/theme-customer-service-7a6fa7.jpg` — Office Work by Oliur Rahman (stocksnap, CC0-1.0) — https://stocksnap.io/photo/office-work-W35FN4QNGR
+- `images/themes/theme-customer-service-cc164a.jpg` — Wireless Headphones by Burst (stocksnap, CC0-1.0) — https://stocksnap.io/photo/wireless-headphones-EXCBJA3FFQ
+- `images/themes/theme-customer-service-4f15b6.jpg` — People Man by Glenn Carstens-Peters (stocksnap, CC0-1.0) — https://stocksnap.io/photo/people-man-6DID58WECI
+- `images/themes/theme-catching-up-a73d3a.jpg` — Group Friends by Helena Lopes (stocksnap, CC0-1.0) — https://stocksnap.io/photo/group-friends-M16QHPDGYJ
+- `images/themes/theme-catching-up-8cd68a.jpg` — Group Friends by Aidan Meyer (stocksnap, CC0-1.0) — https://stocksnap.io/photo/group-friends-B740UADQ1E
+- `images/themes/theme-catching-up-a1955d.jpg` — People Friends by Tirachard Kumtanom (stocksnap, CC0-1.0) — https://stocksnap.io/photo/people-friends-5ZC9K92S09
+- `images/themes/theme-catching-up-718ef1.jpg` — Friends People by Davide Cantelli (stocksnap, CC0-1.0) — https://stocksnap.io/photo/friends-people-COQUJR31GM
+- `images/themes/theme-catching-up-4027b4.jpg` — People Friends by Adam Griffith (stocksnap, CC0-1.0) — https://stocksnap.io/photo/people-friends-LXJNKNODU0
 - `images/themes/theme-sakura-japanese-7864d3.jpg` — Cherry Blossom by Bonnie Moreland (stocksnap, CC0-1.0) — https://stocksnap.io/photo/cherry-blossom-NFZY0LCRS6
 - `images/themes/theme-sakura-japanese-454fcb.jpg` — Nature Plants by Sam Walker (stocksnap, CC0-1.0) — https://stocksnap.io/photo/nature-plants-D1ZKNYWZ12
 - `images/themes/theme-sakura-japanese-92bffc.jpg` — Cherry Tree by Tricia Gray (stocksnap, CC0-1.0) — https://stocksnap.io/photo/cherry-tree-SOXQLZQY06
@@ -467,36 +630,12 @@ Every photo here is CC0 or Public Domain Mark: no credit is required. Listed for
 - `images/themes/theme-paris-cafe-412669.jpg` — Thelouvre Paris by Stacy Wyss (stocksnap, CC0-1.0) — https://stocksnap.io/photo/thelouvre-paris-957CEA37FC
 - `images/themes/theme-paris-cafe-9d64b0.jpg` — Paris Aerial by Joe deSousa (stocksnap, CC0-1.0) — https://stocksnap.io/photo/paris-aerial-WMH53WWA3J
 - `images/themes/theme-paris-cafe-c87873.jpg` — Paris France by Daria Nepriakhina (stocksnap, CC0-1.0) — https://stocksnap.io/photo/paris-france-5B78264BB1
-- `images/themes/theme-flashcards-11d38c.jpg` — Notebook Pencil by Thought Catalog (stocksnap, CC0-1.0) — https://stocksnap.io/photo/notebook-pencil-LTY3TGLE73
-- `images/themes/theme-flashcards-39c6bb.jpg` — Writing Drawing by Green Chameleon (stocksnap, CC0-1.0) — https://stocksnap.io/photo/writing-drawing-8Y0EDX4VP9
-- `images/themes/theme-flashcards-6f2d4e.jpg` — Macbook Laptop by Negative Space (stocksnap, CC0-1.0) — https://stocksnap.io/photo/macbook-laptop-UNB7V2H5L4
-- `images/themes/theme-flashcards-1b9d82.jpg` — Notebook Paper by Angelina Litvin (stocksnap, CC0-1.0) — https://stocksnap.io/photo/notebook-paper-JLXDNN5BNE
-- `images/themes/theme-flashcards-7391fc.jpg` — Notepad Notebook by Dariusz Sankowski (stocksnap, CC0-1.0) — https://stocksnap.io/photo/notepad-notebook-RMLFV5PVU9
-- `images/themes/theme-flashcards-4945c3.jpg` — Business Office by Wilfred Iven (stocksnap, CC0-1.0) — https://stocksnap.io/photo/business-office-FY58O0P400
 - `images/themes/theme-lofi-study-night-3d7a73.jpg` — Office Desk by Frank Oschatz (stocksnap, CC0-1.0) — https://stocksnap.io/photo/office-desk-WDUTVSMPXQ
 - `images/themes/theme-lofi-study-night-b2ea79.jpg` — Blue Night by Free Nature Stock (stocksnap, CC0-1.0) — https://stocksnap.io/photo/blue-night-WFOLMC31B9
 - `images/themes/theme-lofi-study-night-c9a56c.jpg` — Nature Night by Federico Bottos (stocksnap, CC0-1.0) — https://stocksnap.io/photo/nature-night-H77GIQPPSM
 - `images/themes/theme-lofi-study-night-9aa736.jpg` — Night Stars by Stephen Rahn (stocksnap, CC0-1.0) — https://stocksnap.io/photo/night-stars-ZQNRV0XTTN
 - `images/themes/theme-lofi-study-night-e628b0.jpg` — Night Sky by Free Nature Stock (stocksnap, CC0-1.0) — https://stocksnap.io/photo/night-sky-4BVRB2CW61
 - `images/themes/theme-lofi-study-night-f900ce.jpg` — Night Starry by Free Nature Stock (stocksnap, CC0-1.0) — https://stocksnap.io/photo/night-starry-QXJWWP6OZW
-- `images/themes/theme-abc-kids-30f5e8.jpg` — Toys Puzzles by Karlo%20Pu%u0161i%u0107%20 (stocksnap, CC0-1.0) — https://stocksnap.io/photo/toys-puzzles-INAKF0ZV5X
-- `images/themes/theme-abc-kids-993a1a.jpg` — Children Toys by Birch Landing Home (stocksnap, CC0-1.0) — https://stocksnap.io/photo/children-toys-R8U6CVZ24Q
-- `images/themes/theme-abc-kids-f1083d.jpg` — Rubiks Cube by Miguel%20%C1.%20Padri%F1%E1n (stocksnap, CC0-1.0) — https://stocksnap.io/photo/rubiks-cube-20GVW2WQKZ
-- `images/themes/theme-abc-kids-53c0fa.jpg` — Dark Night by Nathan Anderson (stocksnap, CC0-1.0) — https://stocksnap.io/photo/dark-night-R6UPWEA0JR
-- `images/themes/theme-abc-kids-18196f.jpg` — Colorful Gradient by Vidsplay (stocksnap, CC0-1.0) — https://stocksnap.io/photo/colorful-gradient-OC20CAHMDU
-- `images/themes/theme-abc-kids-64d0bc.jpg` — Pencils Colors by Krzysztof%20Puszczy%u0144ski (stocksnap, CC0-1.0) — https://stocksnap.io/photo/pencils-colors-UYKW8TJK1Z
-- `images/themes/theme-travel-phrases-a40892.jpg` — Airport Travel by Negative Space (stocksnap, CC0-1.0) — https://stocksnap.io/photo/airport-travel-GLR3UURE7M
-- `images/themes/theme-travel-phrases-937b05.jpg` — Airport People by Matthew Henry (stocksnap, CC0-1.0) — https://stocksnap.io/photo/airport-people-AW41W55XCB
-- `images/themes/theme-travel-phrases-4ee069.jpg` — Airport People by Ashim%20D%u2019Silva (stocksnap, CC0-1.0) — https://stocksnap.io/photo/airport-people-55EAC841F9
-- `images/themes/theme-travel-phrases-888f0b.jpg` — Airport Escalator by Ryan McGuire (stocksnap, CC0-1.0) — https://stocksnap.io/photo/airport-escalator-4784CFC743
-- `images/themes/theme-travel-phrases-741a57.jpg` — Airport Airplanes by Samuel Sosina (stocksnap, CC0-1.0) — https://stocksnap.io/photo/airport-airplanes-3U0F3RQ97S
-- `images/themes/theme-travel-phrases-93ae10.jpg` — Airplane Airport by Jos%E9%20Mart%EDn (stocksnap, CC0-1.0) — https://stocksnap.io/photo/airplane-airport-B1B462ED3D
-- `images/themes/theme-grammar-notes-6ec1dd.jpg` — Notebook Pen by Negative Space (stocksnap, CC0-1.0) — https://stocksnap.io/photo/notebook-pen-2H0QPGDVGZ
-- `images/themes/theme-grammar-notes-ca7be8.jpg` — Business Working by Direct Media (stocksnap, CC0-1.0) — https://stocksnap.io/photo/business-working-RRJH1KMRMW
-- `images/themes/theme-grammar-notes-cdadbe.jpg` — Coffee Latte by Martin Vorel (stocksnap, CC0-1.0) — https://stocksnap.io/photo/coffee-latte-548B7JD5A7
-- `images/themes/theme-grammar-notes-a16978.jpg` — Workplace Desk by Chimene Gaspar (stocksnap, CC0-1.0) — https://stocksnap.io/photo/workplace-desk-TD0ZOMAYHJ
-- `images/themes/theme-grammar-notes-1d1be8.jpg` — Apple Mac by Startup Stock Photos (stocksnap, CC0-1.0) — https://stocksnap.io/photo/apple-mac-SVC5DD90BO
-- `images/themes/theme-grammar-notes-0e4ad7.jpg` — Office Work by Aaron Burden (stocksnap, CC0-1.0) — https://stocksnap.io/photo/office-work-IMXRJF7SWX
 - `images/themes/theme-recess-time-b55ac0.jpg` — Playground Playset by Kh%FCrt%20Williams (stocksnap, CC0-1.0) — https://stocksnap.io/photo/playground-playset-2R3MEOLE2E
 - `images/themes/theme-recess-time-b43761.jpg` — Playground Playstructure by Claudiu Sergiu Danaila (stocksnap, CC0-1.0) — https://stocksnap.io/photo/playground-playstructure-IICNXA4R4G
 - `images/themes/theme-recess-time-ad505c.jpg` — Swings Playground by Claudiu Sergiu Danaila (stocksnap, CC0-1.0) — https://stocksnap.io/photo/swings-playground-JHLE8MYPB0
