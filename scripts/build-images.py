@@ -75,6 +75,7 @@ THEME_PHOTOS = int(sys.argv[sys.argv.index('--theme-photos') + 1]) if '--theme-p
 # themes whose search words run out of good photos (contact sheets 20/11): no refill past this many — their variants
 # fill up with other layouts and colours instead
 THEME_PHOTO_CAP = {
+    'advent-wreath': 3,
     'catching-up': 5,
     'customer-service': 5,
     'first-date': 5,
@@ -130,6 +131,7 @@ def theme_rows():
 
 # ids taken out after looking at the contact sheets (wrong subject, text / logo in the photo, people too small, weak photo)
 EXCLUDE = {
+    'theme-advent-wreath-812d4f',   # spa towels and salt
     # english + conversation (20/11): text, logos, off-topic
     'theme-toeic-prep-d6459b',
     'theme-toeic-prep-b90b48',

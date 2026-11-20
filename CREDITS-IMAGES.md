@@ -1056,7 +1056,6 @@ Every photo here is CC0 or Public Domain Mark: no credit is required. Listed for
 - `images/themes/theme-songs-of-praise-1efb43.jpg` — Church Architecture by Leeroy (stocksnap, CC0-1.0) — https://stocksnap.io/photo/church-architecture-ZKAJOYIVYB
 - `images/themes/theme-songs-of-praise-a54d62.jpg` — Santorini Church by Andrzej (stocksnap, CC0-1.0) — https://stocksnap.io/photo/santorini-church-HGVQPNFUDV
 - `images/themes/theme-advent-wreath-ba60ce.jpg` — Candle Decoration by Christian Mackie (stocksnap, CC0-1.0) — https://stocksnap.io/photo/candle-decoration-OVEFAJUOXU
-- `images/themes/theme-advent-wreath-812d4f.jpg` — Candle Cloth by Matthew Henry (stocksnap, CC0-1.0) — https://stocksnap.io/photo/candle-cloth-KN1OH31KH5
 - `images/themes/theme-advent-wreath-05be1d.jpg` — Candle Light by Hans Vivek (stocksnap, CC0-1.0) — https://stocksnap.io/photo/candle-light-AEPUKLZ9V4
 - `images/themes/theme-advent-wreath-b2b70d.jpg` — Wooden Bench by Greyson Joralemon (stocksnap, CC0-1.0) — https://stocksnap.io/photo/wooden-bench-QRKJOFD04A
 - `images/themes/theme-loaves-and-fishes-56fb36.jpg` — Bread Basket by JESHOOTS.com (stocksnap, CC0-1.0) — https://stocksnap.io/photo/bread-basket-912FD6384D

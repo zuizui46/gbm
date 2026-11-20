@@ -4,8 +4,8 @@
  "generated": "2026-11-20",
  "baseUrl": "https://raw.githubusercontent.com/zuizui46/gbm/main/",
  "cdnBaseUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/",
- "count": 1101,
- "totalBytes": 95880428,
+ "count": 1100,
+ "totalBytes": 95832011,
  "licenses": {
   "CC0-1.0": {
    "name": "Creative Commons Zero 1.0 (Public Domain Dedication)",
@@ -173,7 +173,7 @@
    "id": "themes",
    "kind": "background",
    "label": "Themes",
-   "count": 892
+   "count": 891
   }
  ],
  "images": [
@@ -23610,7 +23610,7 @@
    "height": 541,
    "bytes": 89127,
    "sha256": "b4675f23610e09fe6b0a2ff69642f371b8469e78bf847e0b180d0b40b7f64501",
-   "query": "ornaments",
+   "query": "christmas",
    "tags": []
   },
   {
@@ -26182,35 +26182,11 @@
    "tags": []
   },
   {
-   "id": "theme-advent-wreath-812d4f",
-   "kind": "background",
-   "collection": "themes",
-   "theme": "advent-wreath",
-   "variant": 1,
-   "title": "Candle Cloth",
-   "author": "Matthew Henry",
-   "source": "stocksnap",
-   "sourcePage": "https://stocksnap.io/photo/candle-cloth-KN1OH31KH5",
-   "originalUrl": "https://cdn.stocksnap.io/img-thumbs/960w/KN1OH31KH5.jpg",
-   "license": "CC0-1.0",
-   "file": "images/themes/theme-advent-wreath-812d4f.jpg",
-   "url": "https://raw.githubusercontent.com/zuizui46/gbm/main/images/themes/theme-advent-wreath-812d4f.jpg",
-   "cdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/images/themes/theme-advent-wreath-812d4f.jpg",
-   "thumb": "images/themes/theme-advent-wreath-812d4f.thumb.webp",
-   "thumbCdnUrl": "https://cdn.jsdelivr.net/gh/zuizui46/gbm@main/images/themes/theme-advent-wreath-812d4f.thumb.webp",
-   "width": 960,
-   "height": 640,
-   "bytes": 48417,
-   "sha256": "eb141b359b101eb09be0edbd6bafdb7072e5eee076149f1d05a5c329d6bc44e0",
-   "query": "candles",
-   "tags": []
-  },
-  {
    "id": "theme-advent-wreath-05be1d",
    "kind": "background",
    "collection": "themes",
    "theme": "advent-wreath",
-   "variant": 2,
+   "variant": 1,
    "title": "Candle Light",
    "author": "Hans Vivek",
    "source": "stocksnap",
@@ -26234,7 +26210,7 @@
    "kind": "background",
    "collection": "themes",
    "theme": "advent-wreath",
-   "variant": 3,
+   "variant": 2,
    "title": "Wooden Bench",
    "author": "Greyson Joralemon",
    "source": "stocksnap",
