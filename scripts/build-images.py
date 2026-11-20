@@ -75,6 +75,14 @@ THEME_PHOTOS = int(sys.argv[sys.argv.index('--theme-photos') + 1]) if '--theme-p
 # themes whose search words run out of good photos (contact sheets 20/11): no refill past this many — their variants
 # fill up with other layouts and colours instead
 THEME_PHOTO_CAP = {
+    'graduation-day': 4,
+    'morning-lesson': 2,
+    'words-of-a-mentor': 5,
+    'teachers-desk': 2,
+    'robot-club': 4,
+    'homeroom-news': 1,
+    'story-circle': 5,
+    'field-trip': 3,
     'mothers-day': 5,
     'seoul-vibes': 5,
     'buddha-birthday': 5,
@@ -108,6 +116,35 @@ def theme_rows():
 
 # ids taken out after looking at the contact sheets (wrong subject, text / logo in the photo, people too small, weak photo)
 EXCLUDE = {
+    'theme-graduation-day-1b3643',   # a wedding
+    'theme-graduation-day-5c6017',   # a wedding
+    # teachers, second pass (20/11): text, trademarks (Star Wars), off-topic
+    'theme-homeroom-news-36b8df',
+    'theme-homeroom-news-63541b',
+    'theme-homeroom-news-e2b103',
+    'theme-homeroom-news-71dfcc',
+    'theme-homeroom-news-2741ed',
+    'theme-robot-club-6058c2',
+    'theme-robot-club-7d5169',
+    'theme-teachers-desk-a01062',
+    'theme-teachers-desk-a95b81',
+    'theme-teachers-desk-403bf6',
+    'theme-teachers-desk-7484ae',
+    'theme-words-of-a-mentor-02fbd1',
+    'theme-morning-lesson-5bfa08',
+    'theme-morning-lesson-b2796a',
+    'theme-morning-lesson-c891ae',
+    'theme-morning-lesson-ce5341',
+    'theme-lecture-hall-2741ed',   # a stadium, not a lecture hall
+    # teachers (20/11): people out of place, text, logos
+    'theme-morning-lesson-7f5b5d',
+    'theme-story-circle-ee9dbd',
+    'theme-field-trip-36b8df',
+    'theme-field-trip-63541b',
+    'theme-field-trip-e2b103',
+    'theme-library-hour-82495d',
+    'theme-lesson-recap-b90b48',
+    'theme-lesson-recap-210bf9',
     # fifth pass (20/11)
     'theme-seoul-vibes-d24fdd',
     'theme-mothers-day-75784e',
@@ -420,11 +457,32 @@ def main():
         for i in json.load(open(os.path.join(ROOT, 'images.json')))['images']:
             if i.get('theme') and not i.get('variant'):
                 pinned[i['theme']] = i['id'].rsplit('-', 1)[1]
+    # order matters (a photo goes to the first theme that takes it): every reviewed photo first — pinned mains, then
+    # pinned variants — and only then new themes' mains and the refills
+    kept = {}
+    if os.path.exists(os.path.join(ROOT, 'images.json')):
+        for i in sorted(json.load(open(os.path.join(ROOT, 'images.json')))['images'], key=lambda x: x.get('variant') or 0):
+            if i.get('theme') and i.get('variant'):
+                kept.setdefault(i['theme'], []).append(i['id'].rsplit('-', 1)[1])
+    results_of = lambda words: [(q, r) for q in tries_of(words) for r in search(q, wide=True)]
     for tid, words in theme_rows():
-        pin = next((r for q in tries_of(words) for r in search(q, wide=True) if tid in pinned and r['id'].startswith(pinned[tid]) and ok(tid, r)), None)
-        if pin:
-            picks[tid] = [{'r': pin, 'q': next(q for q in tries_of(words) if any(x['id'] == pin['id'] for x in search(q, wide=True)))}]
-            TAKEN.add(pin['id'])
+        hit = next(((q, r) for q, r in results_of(words) if tid in pinned and r['id'].startswith(pinned[tid]) and r['id'] not in TAKEN and ok(tid, r)), None)
+        if hit:
+            picks[tid] = [{'r': hit[1], 'q': hit[0]}]
+            TAKEN.add(hit[1]['id'])
+    for tid, words in theme_rows():
+        picked = picks.get(tid)
+        if not picked:
+            continue
+        want = min(THEME_PHOTOS, THEME_PHOTO_CAP.get(tid, THEME_PHOTOS))
+        results = results_of(words)
+        for oid in kept.get(tid, []):
+            hit = next(((q, r) for q, r in results if r['id'].startswith(oid) and r['id'] not in TAKEN and ok(tid, r)), None)
+            if hit and len(picked) < want:
+                picked.append({'r': hit[1], 'q': hit[0]})
+                TAKEN.add(hit[1]['id'])
+    for tid, words in theme_rows():
+        if tid in picks:
             continue
         for q in tries_of(words):
             res = [r for r in search(q, wide=True) if ok(tid, r)]
@@ -434,23 +492,6 @@ def main():
                 break
         else:
             print('  theme without photo:', tid, words, flush=True)
-    # variant photos already in images.json stay too (in their order), so excluding one photo never shuffles the others
-    kept = {}
-    if os.path.exists(os.path.join(ROOT, 'images.json')):
-        for i in sorted(json.load(open(os.path.join(ROOT, 'images.json')))['images'], key=lambda x: x.get('variant') or 0):
-            if i.get('theme') and i.get('variant'):
-                kept.setdefault(i['theme'], []).append(i['id'].rsplit('-', 1)[1])
-    for tid, words in theme_rows():
-        picked = picks.get(tid)
-        if not picked:
-            continue
-        want = min(THEME_PHOTOS, THEME_PHOTO_CAP.get(tid, THEME_PHOTOS))
-        results = [(q, r) for q in tries_of(words) for r in search(q, wide=True)]
-        for oid in kept.get(tid, []):
-            hit = next(((q, r) for q, r in results if r['id'].startswith(oid) and r['id'] not in TAKEN and ok(tid, r)), None)
-            if hit and len(picked) < want:
-                picked.append({'r': hit[1], 'q': hit[0]})
-                TAKEN.add(hit[1]['id'])
     for tid, words in theme_rows():
         picked = picks.get(tid)
         if not picked:
